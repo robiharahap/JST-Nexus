@@ -1,0 +1,920 @@
+================================================================================
+PAGE 1  (COVER)
+================================================================================
+
+                              PROPOSAL
+                    RISET KOLABORASI INDONESIA
+                    PRIORITAS RISET NASIONAL
+                              SKEMA A
+
+
+JUDUL PAYUNG PENELITIAN
+Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
+Membranes for Next Generation Microbial Electrolysis Cells
+
+SUB - JUDUL PENELITIAN
+Establishing a validated ion-transport model and optimizing the proton-
+conducting channels of SPAES/polyimide nanofiber composite membranes
+
+
+Peran: Prof. Kyu-Jung Chae (KMOU)
+       Mitra 1
+
+Peneliti Pengusul : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
+Peneliti Mitra    : 1. Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
+                    2. Dr. Mooseok Lee (Kolon Central Research Park)
+
+
+                    KOREA MARITIME AND OCEAN UNIVERSITY
+                             September, 2025
+
+1 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 2  (DAFTAR ISI)
+================================================================================
+
+DAFTAR ISI
+                                                                       Halaman
+1   RINGKASAN PROPOSAL ..................................................... 3
+2   PENDAHULUAN ............................................................ 3
+    2.1  Latar belakang masalah ........................................... 3
+    2.2  Tujuan ........................................................... 4
+3   METODOLOGI ............................................................. 5
+4   RENCANA PENELITIAN ..................................................... 6
+5   DAFTAR PUSTAKA ........................................................ 10
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 12
+7   JADWAL PELAKSANAAN .................................................... 13
+8   PETA JALAN (ROAD MAP) RISET ........................................... 13
+9   USULAN BIAYA .......................................................... 14
+10  CV PENELITI ........................................................... 16
+
+2 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+1   RINGKASAN PROPOSAL
+
+        Proton exchange membranes (PEMs) are the heart of microbial electrolysis
+cells (MECs), where they must selectively transport protons while excluding the
+competing cations (Na+, K+, Mg2+, Ca2+) that coexist at concentrations typically
+10^5 times higher than protons. A recent SPAES/polyimide nanofiber (SPAES/PIN)
+composite membrane demonstrated outstanding proton selectivity—proton transport
+number of 0.96 and 3-10-fold lower cation crossover than Nafion-211—yet its
+authors openly acknowledged two unresolved gaps: (i) there is no validated
+mechanistic model that predicts this selectivity, and (ii) the proton-conducting
+channels of the SPAES polymer have not yet been optimized. This project directly
+addresses those two author-stated gaps. It will build a quantitative,
+experimentally validated ion-transport model that links the membrane's
+nanostructure (channel width, branching, tortuosity, cluster connectivity) to its
+measured transport properties, and it will systematically optimize the
+proton-conducting channels by mapping the degree of sulfonation (DS), ion
+exchange capacity (IEC), and side-chain chemistry against selectivity and
+mechanical strength.
+        The project will be led by Korea Maritime and Ocean University, with strong
+collaboration from the Green Material Research Group of Kolon Central Research Park.
+KMOU will lead the quantitative nanostructure characterization, transport testing,
+and model development, while Kolon will lead the parametric synthesis of SPAES
+ionomers and side-chain-modified variants. Expected outcomes include scientific
+publications, a validated structure-property-transport model, and design guidelines
+that convert the previously qualitative "narrower, more branched, more tortuous
+channels" narrative into a predictive engineering tool. The project also provides
+training for students and young researchers. In the long term, this research
+supports the rational, model-guided design of proton-selective membranes and aligns
+with the UN Sustainable Development Goals on energy efficiency, innovation, and
+climate action.
+
+2   PENDAHULUAN
+
+2.1 Latar belakang masalah
+
+        Microbial electrolysis cells (MECs) convert organic waste into hydrogen
+gas and other value-added products via exoelectrogens under a small input of
+electric energy. In a MEC, exoelectrogens growing on the anode convert the
+substrate into protons (H+), electrons (e-), and CO2, and the proton exchange
+membrane (PEM) transports those protons to the cathode while acting as a separator.
+Because various cations (Na+, Mg2+, Ca2+, etc.) exist in the anolyte at a
+concentration typically 10^5 times higher than protons, they compete with protons
+for the negatively charged sulfonate channels (-HSO3-) of the membrane. Therefore,
+proton selectivity—selectively passing protons while excluding competing cations—is
+the key requirement for a MEC membrane.
+        The reference study on which this proposal builds developed a sulfonated
+poly(arylene ether sulfone)/polyimide nanofiber (SPAES/PIN) composite membrane and
+demonstrated superior selectivity to Nafion-211: a proton transport number of 0.96
+(vs. 0.91), 1.5-fold faster proton transfer, 3-10-fold lower cation crossover, and
+2-2.5-fold lower gas permeability, improving MEC hydrogen production by 32.4%.
+Despite this success, the authors explicitly identified two gaps that remain open,
+and these two gaps define the scope of the present proposal.
+
+3 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+        Research Gap 1 - No validated mechanistic model for proton selectivity
+[AUTHOR-STATED]. In the reference study, selectivity was explained only
+qualitatively: microphase separation observed by atomic force microscopy (AFM) in
+tapping mode was used to attribute the effect to "narrower, more branched, more
+tortuous" hydrophilic channels in SPAES relative to Nafion. The authors themselves
+state that "although no model has yet been identified as fully correct, this feature
+could be explained by the microstructural difference." In other words, there is no
+quantitative transport model that links the channel geometry to the measured proton
+transport number (0.96) or to the 3-10-fold reduction in cation crossover; the
+explanation is descriptive, not predictive. Without such a model, membrane design
+remains trial-and-error, and the observed selectivity cannot be extrapolated to new
+formulations or operating conditions. This proposal will close the gap by developing
+a quantitative ion-transport model (e.g., a Nernst-Planck/Poisson-Boltzmann
+framework, or a Grotthuss-vehicular partitioning description) that predicts the
+proton transport number (t+) and cation crossover directly from channel dimensions.
+It will add quantitative nanostructure characterization beyond AFM—small-angle X-ray
+scattering (SAXS), transmission electron microscopy (TEM) tomography, and positron
+annihilation—to measure channel width, tortuosity, and cluster connectivity, and it
+will correlate the measured microstructure with the transport data to build a genuine
+structure-property relationship instead of a qualitative narrative.
+
+        Research Gap 2 - Proton-transport channels not yet optimized [AUTHOR-STATED].
+In the reference study, only a single SPAES formulation was used: an ion exchange
+capacity (IEC) of >1.75 meq/mg and a degree of sulfonation (DS) fixed at 100%,
+polymerized by Kolon. The authors note that "the properties of our developed
+SPAES/PIN composite membrane could be further improved through the optimization of
+proton transport channels in SPAES polymer." No parametric study of DS, IEC, or
+side-chain chemistry was performed, so only one point in a large design space was
+ever tested. This proposal will close the gap by systematically varying DS and IEC
+and mapping the trade-off between proton conductivity, selectivity, water uptake, and
+mechanical strength. It will explore side-chain modification—for example, introducing
+hydroxyl side groups (as in Kwon et al. [34]) or self-organization additives such as
+n-BuOH (as in n-BuOH-treated SPEEK [35])—to further narrow and branch the hydrophilic
+channels, and it will identify the DS/IEC "sweet spot" that maximizes selectivity
+without sacrificing the mechanical stability provided by the polyimide nanofiber
+reinforcement.
+
+        These two gaps are tightly coupled: the optimization in Gap 2 generates the
+family of controlled microstructures needed to build and validate the model in Gap 1,
+while the model in Gap 1 turns the optimization in Gap 2 from empirical screening into
+rational, predictive design. The proposing research group previously developed a
+SPEEK-based composite PEM reinforced with nanofibers and the present SPAES/PIN membrane,
+which together form a strong foundation to pursue this modelling-and-optimization
+program. The work is strengthened through collaboration with the Green Material Research
+Group of Kolon Central Research Park, which provides advanced polymer synthesis capability
+for the DS/IEC and side-chain variants.
+
+        In terms of United Nations Sustainable Development Goals (SDGs), this research is
+aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
+Infrastructure), and SDG 13 (Climate Action). More importantly, the topic lies at the
+intersection of two EQUITY research priority areas—energy and advanced materials—by
+converting a proven-but-empirical membrane into a rationally designed, model-guided
+technology.
+
+4 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+2.2 Tujuan
+
+        The long term goal of this research is to enable the rational, model-guided
+design of proton-selective hydrocarbon membranes for next-generation microbial
+electrolysis cells. In general, the objectives of this study, which map directly onto
+the two author-stated research gaps, are focused as follows:
+1.  To develop and experimentally validate a quantitative ion-transport model that
+    predicts the proton transport number and cation crossover from the membrane's
+    channel geometry (addresses Gap 1). The model will be built on a Nernst-Planck/
+    Poisson-Boltzmann or Grotthuss-vehicular partitioning framework.
+2.  To quantitatively characterise the membrane nanostructure beyond AFM—using SAXS,
+    TEM tomography, and positron annihilation—to obtain the channel width, tortuosity,
+    and cluster connectivity required as model inputs (supports Gap 1).
+3.  To optimize the proton-conducting channels by parametrically varying DS, IEC, and
+    side-chain chemistry, and to identify the DS/IEC "sweet spot" that maximizes proton
+    selectivity without sacrificing mechanical stability (addresses Gap 2).
+
+3   METODOLOGI
+
+        The research will be mainly conducted at the Department of Environmental
+Engineering, College of Engineering, Korea Maritime and Ocean University, together with
+the Green Material Research Group of Kolon Central Research Park. The set-up consists of
+the membrane fabrication line, the nanostructure characterization suite, the transport
+test cells, and the modelling workstation, as illustrated in Figure 1.
+
+        The baseline SPAES/PIN composite PEM is fabricated by impregnating PIN in the
+centre of a SPAES polymer solution, following the reference method. The SPAES polymer
+solution is prepared using SPAES of >1.75 meq/mg IEC, polymerized by Kolon (South Korea),
+and N,N-dimethylacetamide (DMAc) as a solvent; the baseline degree of sulfonation (DS) is
+100%. For the optimization study (Gap 2), a family of SPAES ionomers with varied DS and IEC
+and with side-chain modification (hydroxyl groups; n-BuOH self-organization) is synthesised
+by Kolon. As a supporting substrate, polyimide nanofiber (PIN) is selected for its excellent
+mechanical properties and compatibility with SPAES, and it is fabricated by the electrospinning
+method with an average fiber thickness of 200 nm. Each composite membrane is prepared by pouring
+the SPAES/DMAc solution onto the PIN substrate on a glass plate, followed by natural drying at
+80 degC for 6 h on a clean bench, then acidified in a 1 N boiling sulfuric acid solution for 2 h
+and washed with deionized water. Nafion-211 (DuPont, USA) is used as the control.
+
+        The membrane microstructure is characterised using a field emission scanning electron
+microscope (FE-SEM, TESCAN-MIRA3 LMU, Czech) with energy-dispersive X-ray (EDX) spectroscopy for
+composition, and atomic force microscopy (AFM) in soft tapping mode for microphase separation. To
+obtain quantitative channel dimensions for the model, small-angle X-ray scattering (SAXS), TEM
+tomography, and positron annihilation lifetime spectroscopy (PALS) are added. Mechanical strength
+is measured with an Instron 5967 tension tester (Instron Corp., USA), testing at least three
+specimens (50 mm x 20 mm) at a crosshead speed of 50 mm/min (ASTM D882).
+
+5 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+        [Figure 1. Current experimental devices and characterization-to-model concept]
+        --------------------------------------------------------------------------
+        | (a) Membrane fabrication line: SPAES/DMAc casting on the PIN substrate  |
+        |     over a glass plate, drying oven (80 degC), and clean bench.         |
+        | (b) Electrospinning unit producing the polyimide nanofiber (~200 nm).   |
+        | (c) Nanostructure suite: FE-SEM (TESCAN-MIRA3 LMU), AFM, SAXS, TEM      |
+        |     tomography, positron annihilation (PALS).                           |
+        | (d) Transport test cells: two-chambered t+ cell (Ag/AgCl, Keithley 2700)|
+        |     and three-chambered crossover cell (ICS5000, DIONEX).               |
+        | (e) Modelling workstation: Nernst-Planck/Poisson-Boltzmann solver.      |
+        --------------------------------------------------------------------------
+
+        Transport properties are measured following the reference protocols. The proton
+transport number (t+) is obtained in a two-chambered cell separated by the membrane, using a
+Luggin capillary containing an Ag/AgCl reference electrode (+0.195 V vs. NHE; Microelectrode,
+USA); the potential difference between chambers (0.01 N and 0.05 N HCl) is recorded with a
+multimeter (2700 Data Acquisition Series, Keithley, USA) at 2 s intervals. Cation crossover
+(Na+, Ca2+, Mg2+ at 100 mg/L) is measured in a three-chambered cell using ion chromatography
+(ICS5000, DIONEX, USA), and gas crossover is measured with a gas chromatograph (Series 580,
+GawMac Instrument Co., USA) equipped with a thermal conductivity detector and a Porapak Q sieve
+column using nitrogen (99.999%) as the carrier gas. Proton conductivity is determined by
+two-probe electrochemical impedance spectroscopy. These measured values become the ground-truth
+targets that the transport model must reproduce.
+
+4   RENCANA PENELITIAN
+
+        Figure 2 shows the research framework and the collaborative scheme. The study is
+organised around the two author-stated gaps: advancing a validated transport model
+(Gap 1) and optimizing the proton-conducting channels (Gap 2), with a broader aim of
+turning empirical membrane selectivity into predictive design.
+
+        [Figure 2. Research scope and the collaboration scheme]
+        --------------------------------------------------------------------------
+        | KMOU (Pengusul): quantitative nanostructure characterization, transport|
+        |     testing, and development/validation of the ion-transport model.    |
+        | Kolon (Mitra): parametric SPAES synthesis (DS/IEC), side-chain-modified|
+        |     ionomers, and nanofiber support optimisation for the design map.   |
+        --------------------------------------------------------------------------
+
+6 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+(a) Pelaksanaan penelitian di PT-Pengusul
+
+        The proposed research aims to close the two author-stated gaps of the SPAES/PIN
+membrane study. The main activities are listed as follows.
+
+    A.  Upgrading of the Facility for Quantitative Nanostructure Characterization
+            The initial step is to upgrade the characterization facility so that channel
+        geometry can be measured, not just imaged. Beyond the existing FE-SEM, EDX, and AFM,
+        the study integrates small-angle X-ray scattering (SAXS), TEM tomography, and
+        positron annihilation lifetime spectroscopy (PALS). SAXS provides the average
+        ionic-cluster spacing and channel width; TEM tomography reconstructs the
+        three-dimensional connectivity and tortuosity of the hydrophilic network; and PALS
+        probes the free-volume/void size. Together these convert the qualitative AFM picture
+        (Fig. 6 of the reference study) into quantitative inputs for the transport model,
+        directly serving Gap 1.
+
+    B.  Parametric Optimization of the Proton-Transport Channels (Gap 2)
+            This work package attacks the second author-stated gap: the channels have only
+        been tested at a single DS (100%) and IEC (>1.75 meq/mg). Here, Kolon synthesises a
+        controlled family of SPAES ionomers spanning a DS/IEC range, plus side-chain-modified
+        variants (hydroxyl side groups after Kwon et al. [34]; n-BuOH self-organization after
+        the modified SPEEK of ref [35]). Each variant is fabricated into a SPAES/PIN composite
+        and characterised for water uptake, swelling ratio, tensile strength, proton conductivity,
+        and proton selectivity.
+            The main objective is to map the design space rather than test a single point.
+        Parameters (DS, IEC, side-chain type) are varied one by one and then in combination to
+        reveal the trade-offs among conductivity, selectivity, water uptake, and mechanical
+        strength. The experimental data are analysed to locate critical thresholds—for example,
+        the IEC beyond which excessive water uptake causes mechanical instability, and the DS
+        that gives the narrowest, most branched channels.
+            The outcome is a quantified DS/IEC "sweet spot" that maximizes proton selectivity
+        while the embedded polyimide nanofibers preserve mechanical stability. This family of
+        controlled microstructures also becomes the calibration and validation set for the model
+        in work package C.
+
+7 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+        [Figure 3. From nanostructure to a validated transport model]
+        --------------------------------------------------------------------------
+        | (a) SAXS/TEM/PALS -> channel width, tortuosity, cluster connectivity.   |
+        | (b) DS/IEC and side-chain variants -> family of controlled channels.    |
+        | (c) Nernst-Planck/Poisson-Boltzmann (or Grotthuss-vehicular) model.     |
+        | (d) Model prediction of t+ and cation crossover vs. measured values     |
+        |     (target: reproduce t+ = 0.96 and 3-10-fold cation-crossover drop).  |
+        --------------------------------------------------------------------------
+
+    C.  Development and Validation of a Quantitative Ion-Transport Model (Gap 1)
+            This work package attacks the first author-stated gap: the absence of a predictive
+        model. Using the quantitative channel dimensions from work package A and the controlled
+        microstructures from work package B, a transport model is formulated. A Nernst-Planck/
+        Poisson-Boltzmann framework describes electromigration and diffusion of protons and
+        competing cations through charged, confined channels, while a Grotthuss-vehicular
+        partitioning term captures the structural (hopping) vs. vehicular proton transport that
+        distinguishes SPAES from Nafion. Channel width, tortuosity, sulfonate charge density,
+        and connectivity are the physical inputs.
+            The model is validated against the ground-truth transport data (proton transport
+        number, cation crossover, proton conductivity) measured in the metodologi. A successful
+        model must reproduce the reference benchmarks—t+ = 0.96 and the 3-10-fold cation-crossover
+        reduction—from geometry alone, and must then predict the transport of the new DS/IEC and
+        side-chain variants before they are measured, as a genuine predictive test.
+            The outcome converts the qualitative "narrower, more branched, more tortuous channels"
+        explanation into a quantitative structure-property relationship, giving a design tool that
+        can be extrapolated to new formulations and operating conditions.
+
+    D.  Structure-Property-Transport Correlation and Design Guidelines
+            The final work package integrates A-C into a single structure-property-transport
+        correlation. The relationship between measured channel geometry, membrane composition
+        (DS/IEC/side chain), and transport performance is consolidated into design guidelines and
+        a predictive workflow. Sensitivity analysis identifies which structural features most
+        strongly govern selectivity, guiding future membrane design. The outcome is a documented,
+        validated framework that closes both author-stated gaps and provides a reusable tool for
+        rational membrane design.
+
+(b) Pelaksanaan penelitian di PT-Mitra (maksimum 1 halaman tiap peneliti mitra)
+
+    1)  Korea Maritime and Ocean University (Bioelectrochemical Systems Group)
+            The first collaboration is with Dr. Sung-Gwan Park of the Department of Environmental
+        Engineering, Korea Maritime and Ocean University. His expertise covers microbial electrolysis
+        cells, bioelectrochemical systems, and mass transport across proton exchange membranes, with a
+        strong track record in developing efficient hydrogen-producing systems and in cation-crossover
+        and proton-transport analysis. With this background, Dr. Park will contribute the transport
+        measurement and validation expertise needed for Gap 1.
+
+8 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+            This collaboration will focus on the ground-truth transport testing that underpins the
+        model: proton transport number measurement (two-chambered cell with Ag/AgCl reference electrode,
+        Keithley 2700 multimeter), cation crossover (three-chambered cell, ICS5000 ion chromatography),
+        and proton conductivity (two-probe electrochemical impedance spectroscopy). Dr. Park will lead
+        the design of the validation experiments so that each modelled quantity has a matched, accurate
+        measurement. The study will also assess how the optimized DS/IEC variants behave under
+        MEC-relevant conditions, connecting the model back to real bioelectrochemical operation. Such an
+        evaluation ensures that the predictive framework remains grounded in the actual application.
+            In the next stage, several optimized membrane variants will be selected for confirmatory
+        transport testing. Their measured t+ and crossover values will be compared blind against the
+        model predictions to quantify predictive accuracy. This step provides the decisive test of
+        whether the qualitative narrative has been successfully replaced by a predictive model.
+
+    2)  Kolon Central Research Park (Green Material Research Group)
+            The second collaboration is with Dr. Mooseok Lee of the Green Material Research Group, Kolon
+        Central Research Park. His expertise covers advanced polymer synthesis, sulfonated poly(arylene
+        ether sulfone) polymerization, and composite membrane engineering, with a strong track record in
+        controlling the degree of sulfonation and ion exchange capacity of ionomers. With this background,
+        Dr. Lee will lead the parametric synthesis that makes the optimization in Gap 2 possible.
+            This collaboration will focus on synthesising a controlled family of SPAES ionomers spanning
+        a DS/IEC range (around and beyond the baseline >1.75 meq/mg, DS 100%), together with side-chain-
+        modified variants—hydroxyl side groups after Kwon et al. [34] and n-BuOH self-organization after
+        the modified SPEEK of ref [35]. Based on his expertise in polymer synthesis, Dr. Lee will tune the
+        ionomer chemistry and the electrospun polyimide nanofiber support (~200 nm) to deliberately narrow
+        and branch the hydrophilic channels. The study will assess how each chemical modification changes
+        the channel geometry (verified by SAXS/TEM at KMOU) and the resulting selectivity and mechanical
+        strength.
+            In the next stage, the most promising variants that define the DS/IEC "sweet spot" will be
+        scaled for confirmatory testing. Their reproducibility and stability will be assessed to ensure the
+        optimized formulations are practical. Ultimately, this collaboration provides both the material
+        design space and the validation samples that connect Gap 2 (optimization) to Gap 1 (model).
+
+5   DAFTAR PUSTAKA
+
+Chae, K.-J., Choi, M.-J., Lee, J., Ajayi, F. F., & Kim, I. S. (2008). Biohydrogen production via
+        biocatalyzed electrolysis in acetate-fed bioelectrochemical cells and microbial community
+        analysis. International Journal of Hydrogen Energy, 33, 5184-5192.
+Rozendal, R., Hamelers, H., Euverink, G., Metz, S., & Buisman, C. (2006). Principle and perspectives
+        of hydrogen production through biocatalyzed electrolysis. International Journal of Hydrogen
+        Energy, 31, 1632-1640.
+Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (2014). Sulfonated
+        polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
+        nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
+
+9 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 10
+================================================================================
+
+Chae, K. J., Choi, M., Ajayi, F. F., Park, W., Chang, I. S., & Kim, I. S. (2008). Mass transport
+        through a proton exchange membrane (Nafion) in microbial fuel cells. Energy & Fuels, 22,
+        169-176.
+Mauritz, K. A., & Moore, R. B. (2004). State of understanding of Nafion. Chemical Reviews, 104,
+        4535-4585.
+Shin, D. W., Guiver, M. D., & Lee, Y. M. (2017). Hydrocarbon-based polymer electrolyte membranes:
+        importance of morphology on ion transport and membrane stability. Chemical Reviews, 117,
+        4759-4805.
+Wang, R., Yan, X., Wu, X., He, G., Du, L., Hu, Z., & Tan, M. (2014). Modification of hydrophilic
+        channels in Nafion membranes by DMBA: mechanism and effects on proton conductivity. Journal
+        of Polymer Science B: Polymer Physics, 52, 1107-1117.
+Wei, H., Chen, R., & Li, G. (2015). Effect of chemical structure on the performance of sulfonated
+        poly(arylene ether sulfone) as proton exchange membrane. International Journal of Hydrogen
+        Energy, 40, 14392-14397.
+Kaliaguine, S., Mikhailenko, S. D., Wang, K. P., Xing, P., Robertson, G., & Guiver, M. (2003).
+        Properties of SPEEK based PEMs for fuel cell application. Catalysis Today, 82, 213-222.
+Han, M., Zhang, G., Li, M., Wang, S., Zhang, Y., Li, H., Lew, C. M., & Na, H. (2011). Considerations
+        of the morphology in the design of proton exchange membranes: cross-linked sulfonated
+        poly(ether ether ketone)s using a new carboxyl-terminated benzimidazole as the cross-linker
+        for PEMFCs. International Journal of Hydrogen Energy, 36, 2197-2206.
+Lee, J.-Y., Lee, J.-H., Ryu, S., Yun, S.-H., & Moon, S.-H. (2015). Electrically aligned ion channels
+        in cation exchange membranes and their polarized conductivity. Journal of Membrane Science,
+        478, 19-24.
+Porozhnyy, M., Huguet, P., Cretin, M., Safronova, E., & Nikonenko, V. (2016). Mathematical modeling
+        of transport properties of proton-exchange membranes containing immobilized nanoparticles.
+        International Journal of Hydrogen Energy, 41, 15605-15614.
+Tominaga, Y., & Maki, T. (2014). Proton-conducting composite membranes based on polybenzimidazole
+        and sulfonated mesoporous organosilicate. International Journal of Hydrogen Energy, 39,
+        2724-2730.
+Kwon, Y., Lee, S. Y., Hong, S., Jang, J. H., Henkensmeier, D., Yoo, S. J., Kim, H.-J., & Kim, S.-H.
+        (2015). Novel sulfonated poly(arylene ether sulfone) containing hydroxyl groups for enhanced
+        proton exchange membrane properties. Polymer Chemistry, 6, 233-239.  [Gap 2 side-chain route]
+Wang, R., Wu, X., Yan, X., He, G., & Hu, Z. (2015). Proton conductivity enhancement of SPEEK membrane
+        through n-BuOH assisted self-organization. Journal of Membrane Science, 479, 46-54.
+        [Gap 2 self-organization route]
+Park, C. H., Lee, S. Y., Hwang, D. S., Shin, D. W., Cho, D. H., Lee, K. H., Kim, T.-W., Kim, T.-W.,
+        Lee, M., Kim, D.-S., Doherty, C. M., Thornton, A. W., Hill, A. J., Guiver, M. D., & Lee, Y. M.
+        (2016). Nanocrack-regulated self-humidifying membranes. Nature, 532, 480-483.
+Mackie, J. S., & Meares, P. (1955). The diffusion of electrolytes in a cation-exchange resin membrane.
+        Proceedings of the Royal Society A, 232, 498-509.  [tortuosity-transport basis for the model]
+Kamcev, J., Paul, D. R., & Freeman, B. D. (2015). Ion activity coefficients in ion exchange polymers:
+        applicability of Manning's counterion condensation theory. Macromolecules, 48, 8011-8024.
+        [Donnan/Manning basis for the model]
+Geise, G. M., Paul, D. R., & Freeman, B. D. (2014). Fundamental water and salt transport properties of
+        polymeric materials. Progress in Polymer Science, 39, 1-42.  [structure-property transport basis]
+Kreuer, K. D. (2001). On the development of proton conducting polymer membranes for hydrogen and
+        methanol fuel cells. Journal of Membrane Science, 185, 29-39.  [Grotthuss vs. vehicular transport]
+
+10 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+Note: The reference set above is focused on the two author-stated gaps. It combines the
+membrane and MEC literature carried over from the SPAES/PIN reference study (Chae et al.,
+Mauritz & Moore, Shin et al., Wei et al., Kwon et al., Wang et al., Park et al./Nature) with
+transport-modelling foundations (Mackie & Meares tortuosity, Kamcev/Freeman Manning-Donnan
+theory, Geise et al. structure-property transport, Kreuer Grotthuss-vehicular mechanism) that
+are required to build the predictive model of Gap 1. The full 39-reference list of the source
+paper is preserved in the companion proposal
+(Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt).
+
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN)
+
++----+---------------------------------+-------------+------------------------------------------+
+| NO | INDIKATOR KEBERHASILAN          | JUMLAH      | DESKRIPSI                                |
++----+---------------------------------+-------------+------------------------------------------+
+| 1  | Keluaran (output) Hasil Riset:  | 1-2 journal | Scientific publications in international |
+|    | international journal           | publications| reputable journals (Scopus Q1/Q2) and   |
+|    | publications (Scopus Q1/Q2)     |             | conferences, reporting the validated     |
+|    |                                 |             | transport model (Gap 1) and the DS/IEC   |
+|    |                                 |             | optimization map (Gap 2).                |
++----+---------------------------------+-------------+------------------------------------------+
+| 2  | Dampak (outcome) Hasil Riset:   | 1 validated | A validated structure-property-transport |
+|    | predictive design tool for      | model +     | model and design guidelines that convert |
+|    | proton-selective membranes      | guidelines  | the qualitative selectivity narrative    |
+|    |                                 |             | into a predictive engineering tool.      |
++----+---------------------------------+-------------+------------------------------------------+
+| 3  | Pembinaan peer / involvement of | 2 students  | At least one early-career researcher who |
+|    | early career researchers        |             | has just obtained the doctoral degree    |
+|    |                                 |             | will get involved; at least two students |
+|    |                                 |             | will also join this project.             |
++----+---------------------------------+-------------+------------------------------------------+
+| 4  | Networking internasional        | 1 network   | International collaboration between KMOU  |
+|    |                                 |             | (characterization + modelling) and Kolon |
+|    |                                 |             | (parametric synthesis) maintained.       |
++----+---------------------------------+-------------+------------------------------------------+
+
+11 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+        Success criterion for Gap 1: the transport model reproduces the reference
+benchmarks (proton transport number t+ = 0.96 and 3-10-fold lower cation crossover than
+Nafion-211) from measured channel geometry alone, and then predicts the transport of new
+DS/IEC variants within acceptable error before measurement.
+
+        Success criterion for Gap 2: a mapped DS/IEC design space with an identified
+"sweet spot" formulation that meets or exceeds the baseline selectivity (t+ >= 0.96) while
+retaining tensile strength > 40 MPa provided by the polyimide nanofiber reinforcement.
+
+7   JADWAL PELAKSANAAN
+
+        Table 1. Timeline of proposed research
++-----------------------------------------------+---------------------------------------+
+|                                               |            Month (1-12)               |
+| Activity                                      | 1  2  3  4  5  6  7  8  9  10 11 12    |
++-----------------------------------------------+---------------------------------------+
+| A. Upgrade quantitative characterization      | X  X  X                               |
+|    (SAXS, TEM tomography, PALS)               |                                       |
+| B. Parametric DS/IEC & side-chain optimization|       X  X  X  X  X                    |
+|    (Gap 2)                                     |                                       |
+| C. Transport-model development & validation   |             X  X  X  X  X              |
+|    (Gap 1)                                     |                                       |
+| D. Structure-property-transport correlation   |                      X  X  X  X        |
+| Publication & reporting                       |                            X  X  X     |
++-----------------------------------------------+---------------------------------------+
+
+8   PETA JALAN (ROAD MAP) RISET
+
+        [Figure 4. Ten years roadmap of model-guided proton-selective membranes]
+        --------------------------------------------------------------------------
+        | Phase 1 (2025-2027): Quantitative characterization + validated model    |
+        |     + DS/IEC optimization (closing the two author-stated gaps).         |
+        | Phase 2 (2028-2031): Model extension to multi-cation & operating        |
+        |     conditions; inverse design of channels for target selectivity.      |
+        | Phase 3 (2032-2036): Model-guided membrane library, scale-up, and       |
+        |     deployment in real MECs and other PEM applications.                 |
+        --------------------------------------------------------------------------
+
+        This figure illustrates a ten-year roadmap. The first phase (2025-2027) closes the
+two author-stated gaps by delivering a validated transport model and an optimized DS/IEC
+design space. The second phase (2028-2031) extends the model to multi-cation anolytes and
+real operating conditions and moves toward inverse design—specifying a target selectivity and
+letting the model prescribe the channel geometry and DS/IEC. The third phase (2032-2036) uses
+the model to build a membrane library, scale up the best formulations, and deploy them in real
+MECs and other PEM applications. This roadmap positions model-guided design as a scalable,
+sustainable path aligned with long-term technological goals.
+
+12 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+        [Figure 5. Research plan for the current study]
+        --------------------------------------------------------------------------
+        | Year 1: Facility upgrade (SAXS/TEM/PALS), baseline SPAES/PIN            |
+        |         re-characterisation, first DS/IEC synthesis batch (Kolon),      |
+        |         model formulation (Nernst-Planck/Poisson-Boltzmann).            |
+        | Year 2: Side-chain-modified variants, full DS/IEC design map, model     |
+        |         validation against measured t+ and crossover, blind prediction |
+        |         test, and consolidated design guidelines.                       |
+        --------------------------------------------------------------------------
+
+        This figure presents a two-year research plan tailored to the two gaps. In Year 1,
+the focus is on upgrading the characterization facility, re-characterising the baseline
+SPAES/PIN membrane with quantitative tools, producing the first family of DS/IEC variants,
+and formulating the transport model. In Year 2, side-chain-modified variants complete the
+design map (Gap 2), and the model is validated against measured transport data and subjected
+to a blind prediction test on new variants (Gap 1). This structured plan ensures systematic
+progression from measurement and synthesis to a validated, predictive design framework.
+
+9   USULAN BIAYA
+
+        Table 2 shows the funding allocation for research over a one year period, with a
+total proposed amount of Rp 200.000.000,00.
+
+13 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+        Table 2. Funding Allocation for Research
++----+-------------------------------------+-------+--------+-------------+-------------+
+| No | Item                                | Unit  | Number | Unit price  | Total cost  |
++----+-------------------------------------+-------+--------+-------------+-------------+
+|    | Bahan dan peralatan                 |       |        |             |             |
+| 1  | SPAES Ionomer family (Kolon, South  | Set   |   1    |  12.000.000 |  12.000.000 |
+|    | Korea, varied DS/IEC, baseline      |       |        |             |             |
+|    | >1.75 meq/mg, DS 100%)              |       |        |             |             |
+| 2  | Side-chain modifiers (hydroxyl      | Paket |   1    |   6.000.000 |   6.000.000 |
+|    | precursors; n-BuOH self-org.)       |       |        |             |             |
+| 3  | N,N-dimethylacetamide (DMAc)        | Set   |   2    |   2.500.000 |   5.000.000 |
+|    | solvent                             |       |        |             |             |
+| 4  | Polyimide Nanofiber (PIN) support   | Set   |   1    |   6.000.000 |   6.000.000 |
+|    | (electrospun, ~200 nm)              |       |        |             |             |
+| 5  | Nafion-211 membrane (DuPont, USA)   | Unit  |   2    |   3.000.000 |   6.000.000 |
+|    | - control                           |       |        |             |             |
+| 6  | SAXS measurement time (channel      | Paket |   1    |  25.000.000 |  25.000.000 |
+|    | width & cluster spacing)            |       |        |             |             |
+| 7  | TEM tomography measurement time     | Paket |   1    |  20.000.000 |  20.000.000 |
+|    | (3D tortuosity/connectivity)        |       |        |             |             |
+| 8  | Positron Annihilation Lifetime      | Paket |   1    |  12.000.000 |  12.000.000 |
+|    | Spectroscopy (PALS) - free volume   |       |        |             |             |
+| 9  | Ag/AgCl Reference Electrode         | Set   |   2    |   3.000.000 |   6.000.000 |
+|    | (Microelectrode, USA)               |       |        |             |             |
+| 10 | Multimeter, 2700 Data Acquisition   | Unit  |   1    |  10.000.000 |  10.000.000 |
+|    | Series (Keithley, USA)              |       |        |             |             |
+| 11 | Two-probe EIS accessory (proton     | Set   |   1    |   9.000.000 |   9.000.000 |
+|    | conductivity)                       |       |        |             |             |
+| 12 | Gastight Syringe (Hamilton          | Unit  |   2    |   1.500.000 |   3.000.000 |
+|    | SampleLock #1002, 2.5 mL, USA)      |       |        |             |             |
+| 13 | Chemicals (H2SO4, NaCl, NaOH, HCl,  | Paket |   1    |   5.000.000 |   5.000.000 |
+|    | phenolphthalein, standard cations)  |       |        |             |             |
+| 14 | Nitrogen carrier gas (99.999%) &    | Paket |   1    |   4.500.000 |   4.500.000 |
+|    | standard gas (crossover checks)     |       |        |             |             |
+|    | Mobilisasi                          |       |        |             |             |
+| 1  | Busan - Yongin (KMOU-Kolon)         | Paket |   2    |   4.500.000 |   9.000.000 |
+| 2  | Domestic conference travel          | Paket |   2    |   4.500.000 |   9.000.000 |
+|    | Lainnya                             |       |        |             |             |
+| 1  | Honorarium asisten                  | Bulan |  10    |   1.200.000 |  12.000.000 |
+| 2  | Modelling workstation & software    | Paket |   1    |   8.000.000 |   8.000.000 |
+|    | (Nernst-Planck/Poisson-Boltzmann)   |       |        |             |             |
+| 3  | Biaya Publikasi Jurnal              | Artikel|  1    |   5.000.000 |   5.000.000 |
+|    | Internasional (APC)                 |       |        |             |             |
+| 4  | ATK dan Keperluan Riset             | Paket |   1    |   2.000.000 |   2.000.000 |
++----+-------------------------------------+-------+--------+-------------+-------------+
+|    | Total keseluruhan                   |       |        |    Rp       | 200.000.000 |
++----+-------------------------------------+-------+--------+-------------+-------------+
+
+14 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+        Note on materials and equipment (name, series, origin), as used in the source
+paper and carried into this study:
+        - SPAES ionomer: proton-conducting polymer, IEC > 1.75 meq/mg, DS 100%,
+          polymerized by Kolon (South Korea).
+        - N,N-dimethylacetamide (DMAc): casting solvent for the SPAES solution.
+        - Polyimide nanofiber (PIN): electrospun support, average fiber thickness ~200 nm.
+        - Nafion-211: perfluorosulfonic acid control membrane, DuPont (USA).
+        - FE-SEM: field emission scanning electron microscope, TESCAN-MIRA3 LMU (Czech),
+          with energy-dispersive X-ray (EDX) spectroscopy.
+        - AFM: atomic force microscope, soft tapping mode (microphase separation).
+        - Instron 5967 tension tester, Instron Corp. (USA); ASTM D882, 50 mm/min.
+        - Ag/AgCl reference electrode, +0.195 V vs. NHE, Microelectrode (USA).
+        - Multimeter, 2700 Data Acquisition Series, Keithley (USA).
+        - Ion chromatography, ICS5000, DIONEX (USA) - cation crossover.
+        - Gas chromatograph, Series 580, GawMac Instrument Co. (USA), with a thermal
+          conductivity detector and a Porapak Q sieve column; nitrogen carrier gas (99.999%).
+        - Gastight syringe, 2.5 mL, Hamilton SampleLock #1002 (USA).
+        - MEC electrodes (for confirmatory tests): carbon felt anode (25 cm2) and
+          Pt-loaded perforated titanium plate cathode (0.5 mg Pt/cm2).
+        - New for this study: SAXS, TEM tomography, and positron annihilation lifetime
+          spectroscopy (PALS) for quantitative channel geometry (Gap 1 model inputs).
+
+10  CV PENELITI
+        dilengkapi dengan screenshot data H-index
+
+    1.  Nama pengusul  : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
+        Screenshot     :
+    2.  Nama partner 1 : Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
+        Screenshot     :
+    3.  Nama partner 2 : Dr. Mooseok Lee (Kolon Central Research Park)
+        Screenshot     :
+
+15 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+    4.  Nama pengusul  : Prof. Kyu-Jung Chae
+        Profile        : Department of Environmental Engineering, College of Engineering,
+                         Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu,
+                         Busan 606-791, South Korea (e-mail: ckjdream@kmou.ac.kr)
+    5.  Nama partner 1 : Dr. Sung-Gwan Park
+        Profile        : Department of Environmental Engineering, College of Engineering,
+                         Korea Maritime and Ocean University, Busan, South Korea
+    6.  Nama partner 2 : Dr. Mooseok Lee
+        Profile        : Green Material Research Group, Kolon Central Research Park, 207-2,
+                         Mabuk-dong, Giheung-gu, Yongin-si, Gyeonggi 446-797, South Korea
+                         (e-mail: leems@kolon.com)
+
+16 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+        (This page intentionally left blank.)
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+Rencana Anggaran Biaya (RAB)
+
+Judul    : Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
+           Membranes for Next Generation Microbial Electrolysis Cells
+Pengusul : Prof. Kyu-Jung Chae
+Skema    : Skema A
+Fakultas : College of Engineering
+
+Rekapitulasi RAB
++-----------------------------------------------+------------------+
+| Deskripsi                                     | Biaya (Rp)       |
++-----------------------------------------------+------------------+
+| Honor (maksimal 25%)                          |      12.000.000  |
+| Biaya Bahan Habis Pakai                       |     149.000.000  |
+| Biaya Perjalanan                              |      18.000.000  |
+| Biaya Operasional Lainnya                     |      21.000.000  |
++-----------------------------------------------+------------------+
+| Total                                         |     200.000.000  |
++-----------------------------------------------+------------------+
+
+Rincian RAB
+
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Honor                    |                               |           |        |             |             |
+| Honorarium Asisten       | Membantu sintesis parametrik, | 10 bulan  |        |   1.200.000 |  12.000.000 |
+| Peneliti (Mahasiswa      | karakterisasi, pengukuran     |           |        |             |             |
+| S2/S3)                   | transport, dan kalibrasi      |           |        |             |             |
+|                          | model.                        |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                12.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Biaya Bahan Habis Pakai
+
+A. Bahan Sintesis dan Fabrikasi Membran (Gap 2 - optimization)
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SPAES Ionomer family     | Keluarga polimer dengan DS/IEC| 1 Set     |        |  12.000.000 |  12.000.000 |
+| (Kolon, South Korea)     | bervariasi untuk pemetaan     |           |        |             |             |
+|                          | ruang desain saluran proton.  |           |        |             |             |
+| Side-chain modifiers     | Modifikasi rantai samping     | 1 Paket   |        |   6.000.000 |   6.000.000 |
+| (hydroxyl; n-BuOH)       | (Kwon et al. [34]; SPEEK [35])|           |        |             |             |
+|                          | untuk mempersempit saluran.   |           |        |             |             |
+| N,N-dimethylacetamide    | Pelarut casting larutan SPAES.| 2 Set     |        |   2.500.000 |   5.000.000 |
+| (DMAc)                   |                               |           |        |             |             |
+| Polyimide Nanofiber      | Substrat penguat mekanik      | 1 Set     |        |   6.000.000 |   6.000.000 |
+| (PIN, ~200 nm)           | (electrospun).                |           |        |             |             |
+| Nafion-211 (DuPont, USA) | Membran pembanding (control). | 2 Unit    |        |   3.000.000 |   6.000.000 |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+B. Karakterisasi Kuantitatif Nanostruktur (Gap 1 - model inputs)
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SAXS measurement time    | Mengukur lebar saluran ion    | 1 Paket   |        |  25.000.000 |  25.000.000 |
+|                          | dan jarak antar-cluster.      |           |        |             |             |
+| TEM tomography           | Rekonstruksi 3D tortuositas   | 1 Paket   |        |  20.000.000 |  20.000.000 |
+| measurement time         | dan konektivitas jaringan     |           |        |             |             |
+|                          | hidrofilik.                   |           |        |             |             |
+| Positron Annihilation    | Mengukur ukuran free-volume/  | 1 Paket   |        |  12.000.000 |  12.000.000 |
+| Lifetime Spectroscopy    | void sebagai input model.     |           |        |             |             |
+| (PALS)                   |                               |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+C. Instrumentasi Transport dan Bahan Habis Pakai
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Multimeter, 2700 Data    | Merekam beda potensial (2 s   | 1 Unit    |        |  10.000.000 |  10.000.000 |
+| Acquisition Series       | interval) untuk proton        |           |        |             |             |
+| (Keithley, USA)          | transport number.             |           |        |             |             |
+| Ag/AgCl Reference        | Elektroda referensi           | 2 Set     |        |   3.000.000 |   6.000.000 |
+| Electrode (Microelec-    | (+0.195 V vs. NHE) untuk      |           |        |             |             |
+| trode, USA)              | pengukuran t+.                |           |        |             |             |
+| Two-probe EIS accessory  | Pengukuran konduktivitas      | 1 Set     |        |   9.000.000 |   9.000.000 |
+|                          | proton (0.17-0.2 S/cm range). |           |        |             |             |
+| Gastight Syringe         | Pengambilan sampel gas untuk  | 2 Unit    |        |   1.500.000 |   3.000.000 |
+| (Hamilton SampleLock     | pemeriksaan crossover.        |           |        |             |             |
+| #1002, 2.5 mL, USA)      |                               |           |        |             |             |
+| Chemicals (H2SO4, NaCl,  | Asidifikasi, titrasi IEC, dan | 1 Paket   |        |   5.000.000 |   5.000.000 |
+| NaOH, HCl, phenol-       | pengukuran crossover kation.  |           |        |             |             |
+| phthalein, std. cations) |                               |           |        |             |             |
+| Nitrogen carrier gas     | Gas pembawa untuk gas         | 1 Paket   |        |   4.500.000 |   4.500.000 |
+| (99.999%) & standard gas | chromatograph (Series 580).   |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                               149.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Biaya Perjalanan
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Perjalanan Busan -       | Koordinasi sintesis-          | 2 Paket   |        |   4.500.000 |   9.000.000 |
+| Yongin (PP)              | karakterisasi dengan tim      |           |        |             |             |
+|                          | mitra di Kolon Central        |           |        |             |             |
+|                          | Research Park.                |           |        |             |             |
+| Perjalanan konferensi    | Diseminasi model tervalidasi  | 2 Paket   |        |   4.500.000 |   9.000.000 |
+| domestik (PP)            | dan peta optimasi DS/IEC.     |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                18.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+
+================================================================================
+PAGE 20
+================================================================================
+
+Biaya Operasional Lainnya
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Modelling workstation &  | Komputasi model transport ion | 1 Paket   |        |   8.000.000 |   8.000.000 |
+| software (Nernst-Planck/ | (Nernst-Planck/Poisson-       |           |        |             |             |
+| Poisson-Boltzmann)       | Boltzmann, Grotthuss-vehicular|           |        |             |             |
+|                          | partitioning).                |           |        |             |             |
+| Jasa Karakterisasi       | Karakterisasi membran dengan  | 1 Paket   |        |   6.000.000 |   6.000.000 |
+| (FE-SEM TESCAN-MIRA3     | FE-SEM (TESCAN-MIRA3 LMU,     |           |        |             |             |
+| LMU, EDX, AFM,           | Czech), EDX, AFM, tension     |           |        |             |             |
+| Instron 5967)            | tester (Instron 5967, USA).   |           |        |             |             |
+| Biaya Publikasi Jurnal   | Untuk publikasi hasil riset   | 1 Artikel |        |   5.000.000 |   5.000.000 |
+| Internasional (APC)      | di jurnal bereputasi (Q1/Q2). |           |        |             |             |
+| ATK dan Keperluan Riset  | Kebutuhan alat tulis dan      | 1 Paket   |        |   2.000.000 |   2.000.000 |
+|                          | material pendukung.           |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                21.000.000 |
++--------------------------------------------------------------------------------------------------------+
+| Total Anggaran (Rp)                                                                         200.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Menyetujui,                                            Busan, 29 - 9 - 2025
+Wakil Dekan I Fakultas                                 Periset Utama
+                                                       Tanda tangan dan Cap
+
+Prof. ......................                            Prof. Kyu-Jung Chae
+NIP. ......................                             Korea Maritime and Ocean University
+
+
+================================================================================
+PAGE 21
+================================================================================
+APPENDIX A - THE TWO AUTHOR-STATED RESEARCH GAPS AND BASELINE TARGETS
+================================================================================
+
+A.1  Author-stated gaps this proposal addresses (verbatim basis)
+
+    Gap 1 - No validated mechanistic model for proton selectivity.
+        In the source paper, selectivity was explained qualitatively via microphase
+    separation observed by AFM in tapping mode (Fig. 6), attributing it to "narrower,
+    more branched, more tortuous" hydrophilic channels in SPAES vs. Nafion. The authors
+    state: "although no model has yet been identified as fully correct, this feature could
+    be explained by the microstructural difference." There is no quantitative transport
+    model linking channel geometry to the measured proton transport number (0.96) or the
+    3-10-fold reduction in cation crossover; the explanation is descriptive, not predictive.
+
+    Gap 2 - Proton-transport channels not yet optimized.
+        A single SPAES formulation was used (IEC > 1.75 meq/mg, DS fixed at 100%,
+    polymerized by Kolon). The authors state that "the properties of our developed
+    SPAES/PIN composite membrane could be further improved through the optimization of
+    proton transport channels in SPAES polymer." No parametric study of DS, IEC, or
+    side-chain chemistry was performed; only one point in a large design space was tested.
+
+A.2  Baseline measured properties (targets the model must reproduce / optimization must beat)
+
+Table A1. Physicochemical and mechanical properties of the SPAES/PIN composite
+          membrane and Nafion-211 (mean +/- SD, n = 4; from the source paper)
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+| Membrane      | Thickness | WU (%)  | Area        | Thickness     | Tensile   | IEC       | DS    | Proton         |
+|               | (um)      |         | swelling(%) | swelling (%)  | strength  | (meq/g)   | (%)   | conductivity   |
+|               |           |         |             |               | (MPa)     |           |       | (S/cm)         |
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+| SPAES/PIN     | 21 +/- 2  | 35 +/- 3| 7.5 +/- 0.5 | 19.0 +/- 1    | > 40      | 2.3 +/- 0.3| 100  | 0.17 - 0.2     |
+| composite     |           |         |             |               |           |           |       | (80 degC,95%RH)|
+| Nafion-211    | 25 +/- 1  | 10 +/- 4| 22.4 +/- 0.5| 22.4 +/- 1    | 23        | 1 +/- 0.2 |  -    |  -             |
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+
+Key transport benchmarks (the model of Gap 1 must reproduce these from geometry):
+        - Proton transport number t+: 0.96 (SPAES/PIN) vs. 0.91 (Nafion-211).
+        - Proton transfer rate: 1.5-fold faster for SPAES/PIN.
+        - Cation crossover (Na+, Mg2+, Ca2+): 3-10-fold lower for SPAES/PIN.
+        - Gas permeability: 2.7-fold lower (H2), twofold lower (CH4).
+        - MEC hydrogen production: 32.4% higher; hydrogen purity 90.3% (vs. 61.8%),
+          97.2% with methanogen inhibitor (2-bromoethanesulfonate).
+
+--------------------------------------------------------------------------------
+Source paper: S.-G. Park, K.-J. Chae, M. Lee, "A sulfonated poly(arylene ether
+sulfone)/polyimide nanofiber composite proton exchange membrane for microbial
+electrolysis cell application under the coexistence of diverse competitive cations
+and protons," Journal of Membrane Science 540 (2017) 165-173.
+http://dx.doi.org/10.1016/j.memsci.2017.06.048
+Companion proposal: Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt
+Gap source: Proposal/SPAES/Research_Gaps.txt (gaps 1 and 2, [AUTHOR-STATED])
+--------------------------------------------------------------------------------
