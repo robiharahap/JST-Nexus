@@ -1,0 +1,1006 @@
+================================================================================
+PAGE 1  (COVER)
+================================================================================
+
+                              PROPOSAL
+                    RISET KOLABORASI INDONESIA
+                    PRIORITAS RISET NASIONAL
+                              SKEMA A
+
+
+JUDUL PAYUNG PENELITIAN
+Developing High-Selectivity Proton Exchange Membranes for
+Next Generation Hydrogen-Producing Microbial Electrolysis Cells
+
+SUB - JUDUL PENELITIAN
+Applying SPAES/polyimide nanofiber composite membranes to microbial
+electrolysis cells
+
+
+Peran: Prof. Kyu-Jung Chae (KMOU)
+       Mitra 1
+
+Peneliti Pengusul : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
+Peneliti Mitra    : 1. Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
+                    2. Dr. Mooseok Lee (Kolon Central Research Park)
+
+
+                    KOREA MARITIME AND OCEAN UNIVERSITY
+                             September, 2025
+
+1 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 2  (DAFTAR ISI)
+================================================================================
+
+DAFTAR ISI
+                                                                       Halaman
+1   RINGKASAN PROPOSAL ..................................................... 3
+2   PENDAHULUAN ............................................................ 3
+    2.1  Latar belakang masalah ........................................... 3
+    2.2  Tujuan ........................................................... 4
+3   METODOLOGI ............................................................. 5
+4   RENCANA PENELITIAN ..................................................... 6
+5   DAFTAR PUSTAKA ........................................................ 10
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 12
+7   JADWAL PELAKSANAAN .................................................... 13
+8   PETA JALAN (ROAD MAP) RISET ........................................... 13
+9   USULAN BIAYA .......................................................... 14
+10  CV PENELITI ........................................................... 16
+
+2 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 3
+================================================================================
+
+1   RINGKASAN PROPOSAL
+
+        The global transition toward clean energy has sharply increased the
+demand for green hydrogen, and microbial electrolysis cells (MECs) have emerged
+as an attractive technology able to convert organic waste into hydrogen gas and
+other value-added chemicals with only a small input of electric energy. However,
+the proton exchange membrane (PEM) that separates the anode and cathode remains
+a major challenge. Conventional Nafion is expensive, allows high crossover of
+gases and substrate, and — most critically — loses proton selectivity in the MEC
+environment, where competing cations (Na+, K+, Mg2+, Ca2+) coexist with protons
+at concentrations typically 10^5 times higher. This project proposes a sulfonated
+poly(arylene ether sulfone)/polyimide nanofiber (SPAES/PIN) composite membrane as
+an innovative solution. By impregnating SPAES, a proton-conducting hydrocarbon
+polymer, into an electrospun polyimide nanofiber support, the membrane combines
+superior proton selectivity with strong mechanical and dimensional stability. The
+research will study membrane fabrication, physicochemical and electrochemical
+properties—such as water uptake, ion exchange capacity, tensile strength, proton
+transport number, and cation, substrate, and gas crossover—and validate actual
+performance in real hydrogen-producing MECs.
+        The project will be led by Korea Maritime and Ocean University, with strong
+collaboration from the Green Material Research Group of Kolon Central Research Park.
+These partners will contribute expertise in environmental engineering,
+bioelectrochemical systems, and advanced polymer membrane synthesis. The
+collaboration will also broaden the scope by evaluating the composite membrane in
+other applications requiring PEMs, such as fuel cells, reverse electrodialysis, the
+chlor-alkali industry, and gas separation. Expected outcomes include scientific
+publications, a prototype membrane and MEC test cell, and practical guidelines for
+selective PEMs in bioelectrochemical systems. The project also provides training
+opportunities for students and young researchers, ensuring knowledge transfer and
+capacity building. In the long term, this research supports national goals for clean
+hydrogen infrastructure and aligns with the UN Sustainable Development Goals on
+energy efficiency, innovation, and climate action.
+
+2   PENDAHULUAN
+
+2.1 Latar belakang masalah
+
+        In recent years, the rapid push toward decarbonisation has been accompanied
+by a sharp rise in the demand for reliable, low-cost, and sustainable green-hydrogen
+technologies. Microbial electrolysis cells (MECs) represent an attractive green
+energy technology that can convert organic waste into a wide range of value-added
+products via specific microbes (i.e., exoelectrogens or biocatalysts) with only a
+small input of electric energy. Hydrogen gas is the most common product of MECs, but
+MECs using biocatalysts can also produce methane, ethanol, butanol, hydrogen
+peroxide, and acetate. The basic components of a MEC are two electrodes (anode and
+cathode), a membrane, exoelectrogens, and a power supply. In a MEC, exoelectrogens
+growing on the anode convert the substrate into protons (H+), electrons (e-), and CO2;
+the protons and electrons are then transferred to the cathode and recombine to produce
+hydrogen under the assistance of the power supply. Typical half reactions are:
+        Anode:   CH3COOH + 2H2O -> 2CO2 + 8H+ + 8e-;  E deg = -0.28 V (NHE)   (1)
+        Cathode: 8H+ + 8e- -> 4H2;                    E deg = -0.42 V (NHE)   (2)
+
+        Despite their strategic importance, MECs face distinctive challenges arising
+from the proton exchange membrane. A PEM plays the role of a separator between the
+anode and cathode to avoid short circuits while transporting protons to the cathode,
+and it is essential for improving product purity by preventing the interchange of gases
+(CO2, CO, CH4, etc.) generated in both chambers. However, the PEM used in MECs requires
+completely different characteristics from that used in hydrogen fuel cells, because
+
+3 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 4
+================================================================================
+
+microorganisms are used as biocatalysts in the anode. In the anodic solution of the
+MEC, various cations (Na+, Mg2+, Ca2+, etc.) exist at a significantly higher
+concentration (typically 10^5 times) than the protons; those cations hinder proton
+transport by competing for the negatively charged sulfonate channels (-HSO3-) of the
+membrane. As a result of losing the contact chance of protons being transported, protons
+accumulate in the anode chamber and cause a serious pH decrease, while a corresponding
+pH increase occurs in the cathode chamber. This pH drop adversely affects the anode
+bacteria and deteriorates MEC performance. Therefore, proton selectivity—which
+selectively passes protons while excluding other competing cations—is a key requirement
+for the PEM in MEC applications.
+
+        As a PEM, Nafion (DuPont) is the most widely used; it is a perfluorosulfonic acid
+membrane consisting of a hydrophobic fluorocarbon backbone (-CF2-CF2-) and hydrophilic
+side chains with sulfonic functional groups (-HSO3). Despite its widespread use, the
+Nafion membrane has several limitations for MECs due to its low proton selectivity, the
+high crossover tendency of gas and substrate, and its high production cost. To overcome
+these drawbacks, sulfonated hydrocarbon-based polymers, mainly sulfonated poly(ether
+ether ketone) (SPEEK) and sulfonated poly(arylene ether sulfone) (SPAES), have been
+intensively investigated as alternative proton-conducting PEM materials. Compared with
+Nafion, SPAES exhibits a significant difference in hydrophobic-hydrophilic microphase
+separation, forming more branched, narrower, and more tortuous ion-conducting channels
+via the Grotthuss mechanism, which improves proton selectivity while lowering undesirable
+gas or substrate crossover.
+
+        Although extensive research has been carried out, several knowledge gaps remain
+unresolved. Despite its advantages, SPAES has an inherent mechanical weakness due to an
+excessive water uptake (WU) and swelling feature, since the SPAES membrane needs a high
+ion exchange capacity (IEC) to obtain proton conductivity comparable to Nafion. This
+higher IEC, arising from excessive sulfonation, causes mechanical instability so that the
+membrane can easily be delaminated or torn during application. In addition, membrane
+morphology strongly affects both electrochemical properties (ion conductivity, water
+transport) and membrane stability (water uptake, dimensional swelling, mechanical
+strength). These problems show that a comprehensive investigation of a mechanically
+reinforced, highly selective PEM is urgently needed.
+
+        The aim of this research is to build a fundamental understanding of proton
+selectivity and mechanical reinforcement as a basis for developing efficient and reliable
+PEMs for next-generation hydrogen-producing MECs. To solve the physical weakness while
+taking advantage of SPAES' unique superior proton transfer characteristics, we develop a
+new SPAES/polyimide nanofiber (PIN) composite membrane. In the composite, PINs—highly
+compatible with SPAES—are embedded as a substratum in the centre of the SPAES polymer layer
+to improve mechanical strength and dimensional stability; the proton is transferred through
+the SPAES polymer, while the physical stability is maintained by the PINs. The research
+group has previously developed a SPEEK-based composite PEM reinforced with nanofibers,
+which forms a strong foundation to further explore the SPAES/PIN membrane. Furthermore, the
+proposed research is strengthened through collaboration with the Green Material Research
+Group of Kolon Central Research Park, which provides complementary expertise in advanced
+polymer synthesis and expands the scope and impact of the study.
+
+        In terms of United Nations Sustainable Development Goals (SDGs), this research is
+aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
+Infrastructure), and SDG 13 (Climate Action), as it aims to improve energy efficiency,
+strengthen clean-hydrogen infrastructure, and reduce the environmental impact of waste
+treatment. More importantly, the topic lies at the intersection of two research priority
+areas of the EQUITY grant: energy and advanced materials, which also support the national
+
+4 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 5
+================================================================================
+
+research priority areas. As discussed previously, reliable and selective membranes are a
+critical backbone of bioelectrochemical hydrogen production. In addition, membrane cost and
+crossover account for a large share of MEC performance losses. These facts highlight the
+importance of understanding this topic to support the development of efficient MEC systems.
+
+2.2 Tujuan
+
+        The long term goal of this research is to support the development of efficient and
+reliable proton exchange membranes for next-generation hydrogen-producing microbial
+electrolysis cells. In general, the objectives of this study are focused as follows:
+1.  To fabricate and characterise a SPAES/polyimide nanofiber (PIN) composite proton
+    exchange membrane. The study considers the effect of the SPAES ion exchange capacity,
+    degree of sulfonation, and nanofiber reinforcement on membrane properties.
+2.  To examine how membrane microstructure influences proton selectivity and stability.
+    Water uptake, swelling ratio, tensile strength, proton transport number, and microphase
+    separation will be tested to optimise selective proton transport.
+3.  To evaluate the actual membrane performance in real MECs, including hydrogen production
+    efficiency, hydrogen purity, cation crossover, and gas and substrate crossover, in
+    comparison with the conventional Nafion-211 membrane.
+
+3   METODOLOGI
+
+        The research will be mainly conducted at the Department of Environmental Engineering,
+College of Engineering, Korea Maritime and Ocean University, together with the Green Material
+Research Group of Kolon Central Research Park. Over the past decade, the proposing research
+group has focused extensively on membrane fabrication and bioelectrochemical systems,
+supported by experimental facilities relevant to this topic, as illustrated in Figure 1. In
+general, the set-up consists of the membrane fabrication line, the mass-transfer test cell,
+the hydrogen-producing MEC reactors, and the material and electrochemical characterisation
+devices.
+
+        For MEC application, a SPAES/PIN composite PEM is fabricated by impregnating PIN in
+the centre of a SPAES polymer solution. The SPAES polymer solution is prepared using SPAES of
+>1.75 meq/mg IEC, polymerized by Kolon (South Korea), and N,N-dimethylacetamide (DMAc) as a
+solvent; the degree of sulfonation (DS)—incorporation of -HSO3 groups into the polymer main
+chain—is 100%. As a supporting substrate, PIN is selected due to its excellent mechanical
+properties and compatibility with SPAES, and it is fabricated by the electrospinning method
+with an average fiber thickness of 200 nm. The composite membrane is prepared by pouring the
+SPAES/DMAc polymer solution onto the PIN substrate on a glass plate, followed by natural drying
+at 80 degC for 6 h on a clean bench. The membranes are then acidified in a 1 N boiling sulfuric
+acid solution for 2 h and washed with deionized water.
+
+5 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+        [Figure 1. Current experimental devices and fabrication concept]
+        --------------------------------------------------------------------------
+        | (a) Membrane fabrication line: SPAES/DMAc casting on the PIN substrate  |
+        |     over a glass plate, natural drying oven (80 degC), and clean bench. |
+        | (b) Electrospinning unit producing the polyimide nanofiber (~200 nm).   |
+        | (c) Three-chambered mass-transfer test cell for cation, substrate,      |
+        |     and gas crossover.                                                  |
+        | (d) Two-chambered hydrogen-producing MEC reactor (180 mL each).         |
+        --------------------------------------------------------------------------
+
+        The characterisation system is installed separately to provide flexibility. The
+morphology of the fabricated membrane is observed using a field emission scanning electron
+microscope (FE-SEM, TESCAN-MIRA3 LMU, Czech), and its material composition is analysed using
+energy-dispersive X-ray (EDX) spectroscopy. Atomic force microscopy (AFM) is used to observe
+the microphase separation of the SPAES/PIN composite membrane in the soft tapping mode. The
+mechanical strength is measured with an Instron 5967 tension tester (Instron Corp., USA) at
+room temperature; at least three specimens (50 mm length x 20 mm width) are tested at a
+crosshead speed of 50 mm/min (ASTM D882).
+
+4   RENCANA PENELITIAN
+
+        Figure 2 shows the research framework and the collaborative scheme in the proposed
+research. This study focuses on three important areas: advancing highly selective proton
+exchange membranes for next generation MECs, developing mechanically reinforced hydrocarbon
+membranes, and exploring the broader implementation of the composite membrane for sustainable
+energy systems.
+
+        [Figure 2. Research scope and the collaboration scheme]
+        --------------------------------------------------------------------------
+        | KMOU (Pengusul): membrane fabrication, characterisation, MEC testing.   |
+        | Kolon (Mitra): SPAES polymer synthesis, nanofiber support optimisation, |
+        |     broader PEM applications (fuel cells, reverse electrodialysis,      |
+        |     chlor-alkali, gas separation).                                      |
+        --------------------------------------------------------------------------
+
+6 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 7
+================================================================================
+
+(a) Pelaksanaan penelitian di PT-Pengusul
+
+        The proposed research aims to develop and validate a highly selective SPAES/PIN
+composite membrane for hydrogen-producing MECs. The main activities are listed as follows.
+
+    A.  Upgrading of the Current Facility for Composite Membrane Fabrication
+            The initial step of this study is to upgrade the existing membrane fabrication
+        facility. Over the past decade, continuous improvements have been made to enhance
+        membrane quality and deepen the analysis. In this research, several steps will be
+        conducted. First, the electrospinning unit and the solution-casting line will be
+        upgraded. This allows more uniform polyimide nanofiber mats (~200 nm) and more
+        reproducible SPAES/DMAc impregnation to be produced. In addition, one of our future
+        objectives is to investigate multi-layer composites; hence, another crucial aspect is
+        to develop a casting head that can produce ultrathin membranes (~21 um) uniformly.
+
+    B.  Experimental Study of Membrane Properties on Various Fabrication Conditions
+            The experimental study of membrane properties is one of the main work packages in
+        this project. This part of the research is directed at exploring how the membrane
+        behaves under a variety of fabrication and operational conditions. By conducting
+        systematic experiments, the study will highlight the key features of proton selectivity
+        that are often difficult to capture in theoretical or numerical approaches. Careful
+        observation will ensure that each stage of the membrane behaviour is well documented.
+            The main objective is to produce high quality data that represents membrane
+        phenomena across a wide range of conditions. Parameters such as SPAES ion exchange
+        capacity, degree of sulfonation, and nanofiber thickness will be adjusted one by one to
+        see their influence. In addition, combinations of these parameters will be explored to
+        reveal more complex behaviour. Through this approach, the research will map the
+        conditions that strongly affect water uptake, swelling, and proton transport.
+            The experimental data will then be analysed to identify patterns and key trends in
+        membrane behaviour. This includes comparing how different conditions influence water
+        uptake, swelling ratio, and tensile strength. The analysis will also look for critical
+        thresholds, for example the ion exchange capacity beyond which mechanical instability
+        occurs. By combining these observations, the study can provide a clearer explanation of
+        the mechanisms that govern selective proton transport.
+
+7 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 8
+================================================================================
+
+        [Figure 3. Membrane characterisation scheme]
+        --------------------------------------------------------------------------
+        | (a) Photograph of Nafion-211; (b) photograph of the SPAES/PIN composite |
+        |     membrane; (c) SEM cross-section of Nafion-211; (d) SEM cross-section |
+        |     of the SPAES/PIN membrane showing PINs evenly embedded in the centre |
+        |     of the SPAES matrix (21 +/- 2 um total thickness); (e), (f) EDX      |
+        |     spectra: Nafion-211 fluorine content 63.87 at%; SPAES/PIN carbon     |
+        |     content 70.4% and 3.2x higher sulfur content than Nafion-211.        |
+        --------------------------------------------------------------------------
+
+            The outcomes of this study are expected to provide useful insights into the
+        fundamental mechanisms of selective proton transport in composite membranes. The
+        collected data will serve as a reliable reference not only for this project but also
+        for future studies in related fields. In the longer term, these findings can contribute
+        to improving membrane transport models and guiding the design of applications where
+        selective ion transport plays an important role.
+
+    C.  Examining the Microstructure Modification Method to Improve Proton Selectivity
+            Microstructure modification is an important method to enhance proton selectivity.
+        By altering the microphase separation or the nanofiber reinforcement, the interaction
+        between the ion-conducting clusters and the competing cations can be controlled. This
+        directly influences how protons hop through the sulfonic acid channels, which in turn
+        affects the overall selectivity and MEC performance.
+            The study will compare different types of microstructure modifications, such as
+        changes in degree of sulfonation, ion exchange capacity, or nanofiber embedding. Each
+        modified membrane will be tested under controlled conditions to observe its effect on
+        the proton transport number and the crossover of cations, substrate, and gas. These
+        comparisons will make it possible to identify the microstructures that provide the most
+        significant improvement in proton selectivity.
+            The results will then be analysed to establish clear links between microstructure
+        and selectivity enhancement. Attention will be given to determining which features are
+        most effective—whether narrower, more branched, or more tortuous hydrophilic channels.
+        The findings are expected to give valuable insights that can support the design of more
+        efficient membranes in the future.
+
+8 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 9
+================================================================================
+
+    D.  Early development of the Hydrogen-Producing MEC Test Cell
+            The development of a reliable MEC test cell is an essential step in this project.
+        The cell is expected to operate with controlled temperature, applied voltage, and
+        substrate feeding. Having a stable and repeatable test platform is important to ensure
+        that the experiments can be carried out under consistent conditions. This step also
+        helps to reduce uncertainties in the later analysis of membrane performance. Previous
+        studies have provided several methods that can be used as a starting point of this work
+        package.
+            In the early stage, the focus will be on designing a simple but effective system.
+        A two-chambered MEC (180 mL working volume each) is operated in fed-batch mode at
+        25 +/- 1 degC. The anode for exoelectrogen enrichment is carbon felt (25 cm^2), and the
+        cathode is a Pt-loaded perforated titanium plate (0.5 mg Pt/cm^2) of the same size. A
+        nutrient mineral buffer (pH 7.0) is used as the anolyte and phosphate-buffered solution
+        (pH 7.0) as the catholyte, with acetate (3 mM) as the substrate; a voltage of 0.5 V is
+        applied using a DC power supply. Other options, such as continuous-flow operation, may
+        also be explored if needed.
+            The outcome of this development will provide a strong foundation for further
+        improvement. Once a stable single-cell system is achieved, the design can be extended to
+        stacked or continuous configurations. In the long run, the MEC test cell will become a
+        key tool to support systematic studies of membrane selectivity and hydrogen production.
+
+(b) Pelaksanaan penelitian di PT-Mitra (maksimum 1 halaman tiap peneliti mitra)
+
+    1)  Korea Maritime and Ocean University (Bioelectrochemical Systems Group)
+            To enhance the research knowledge and impact of the proposed study, several
+        collaborations will be established. The first collaboration is with Dr. Sung-Gwan Park
+        of the Department of Environmental Engineering, Korea Maritime and Ocean University. His
+        expertise covers microbial electrolysis cells, bioelectrochemical systems, and mass
+        transport across proton exchange membranes, with a strong track record in developing
+        efficient and sustainable hydrogen-producing systems. He has also been actively involved
+        in research on selective inhibition of methanogens, cation crossover analysis, and
+        thermoeconomic evaluation of MECs. With this background, Dr. Park will contribute
+        valuable knowledge and experience to support the development of advanced and highly
+        selective membrane strategies.
+            This collaboration will focus on evaluating the possibility of applying the SPAES/PIN
+        membrane to other bioelectrochemical systems, such as microbial fuel cells, osmotic
+        microbial fuel cells, or reverse electrodialysis cells. Based on his expertise in
+        bioelectrochemical systems, Dr. Park will lead the technical evaluation to explore how the
+        composite membrane can be integrated into these applications. The study will not only
+        consider the feasibility of implementation but also assess potential benefits in terms of
+        proton selectivity, reliability, and operational cost reduction. Such an evaluation is
+        important to understand the wider opportunities of the membrane beyond its use in MECs.
+
+9 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 10
+================================================================================
+
+            In the next stage, several potential materials will be carefully selected to
+        represent the typical components found in these systems. Their interaction with the
+        composite membrane will be tested to provide practical insights into material
+        compatibility and electrochemical performance. This step is expected to provide valuable
+        data that can guide the design of future prototypes. Ultimately, the collaboration aims
+        to broaden the application of the SPAES/PIN membrane technology across multiple energy
+        systems and contribute to the development of more sustainable energy solutions.
+
+    2)  Kolon Central Research Park (Green Material Research Group)
+            To enhance the research knowledge and impact of the proposed study, the second
+        collaboration is with Dr. Mooseok Lee of the Green Material Research Group, Kolon Central
+        Research Park. His expertise covers advanced polymer synthesis, sulfonated poly(arylene
+        ether sulfone) polymerization, and composite membrane engineering, with a strong track
+        record in developing high-performance ionomers. He has also been actively involved in
+        research on the degree of sulfonation control, ion exchange capacity optimisation, and
+        nanofiber support fabrication. With this background, Dr. Lee will contribute valuable
+        knowledge and experience to support the development of advanced and mechanically
+        reinforced membrane strategies.
+            This collaboration will focus on synthesising and optimising the SPAES ionomer
+        (>1.75 meq/mg IEC, DS 100%) and the electrospun polyimide nanofiber support (~200 nm).
+        Based on his expertise in polymer synthesis, Dr. Lee will lead the material development to
+        explore how the ionomer chemistry and nanofiber morphology can be tuned to maximise proton
+        selectivity while maintaining mechanical strength. The study will not only consider the
+        feasibility of scale-up but also assess potential benefits in terms of durability, cost,
+        and broader applicability to fuel cells, the chlor-alkali industry, and gas separation.
+        Such an evaluation is important to understand the wider opportunities of the membrane
+        beyond its use in MECs.
+            In the next stage, several potential ionomer and nanofiber formulations will be
+        carefully selected. Their interaction under MEC operating conditions will be tested to
+        provide practical insights into material compatibility and long-term stability. This step
+        is expected to provide valuable data that can guide the design of future prototypes.
+        Ultimately, the collaboration aims to broaden the application of the SPAES/PIN membrane and
+        contribute to the development of more sustainable energy solutions.
+
+5   DAFTAR PUSTAKA
+
+Chae, K.-J., Choi, M.-J., Lee, J., Ajayi, F. F., & Kim, I. S. (2008). Biohydrogen production
+        via biocatalyzed electrolysis in acetate-fed bioelectrochemical cells and microbial
+        community analysis. International Journal of Hydrogen Energy, 33, 5184-5192.
+Rozendal, R., Hamelers, H., Euverink, G., Metz, S., & Buisman, C. (2006). Principle and
+        perspectives of hydrogen production through biocatalyzed electrolysis. International
+        Journal of Hydrogen Energy, 31, 1632-1640.
+Kadier, A., Simayi, Y., Kalil, M. S., Abdeshahian, P., & Hamid, A. A. (2014). A review of the
+        substrates used in microbial electrolysis cells (MECs) for producing sustainable and
+        clean hydrogen gas. Renewable Energy, 71, 466-472.
+
+10 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 11
+================================================================================
+
+Kadier, A., Simayi, Y., Abdeshahian, P., Azman, N. F., Chandrasekhar, K., & Kalil, M. S. (2016).
+        A comprehensive review of microbial electrolysis cells (MEC) reactor designs and
+        configurations for sustainable hydrogen gas production. Alexandria Engineering Journal,
+        55, 427-443.
+Kadier, A., Kalil, M. S., Abdeshahian, P., Chandrasekhar, K., Mohamed, A., Azman, N. F.,
+        Logrono, W., Simayi, Y., & Hamid, A. A. (2016). Recent advances and emerging challenges in
+        microbial electrolysis cells (MECs) for microbial production of hydrogen and value-added
+        chemicals. Renewable and Sustainable Energy Reviews, 61, 501-525.
+Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (2014). Sulfonated
+        polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
+        nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
+Chae, K. J., Choi, M., Ajayi, F. F., Park, W., Chang, I. S., & Kim, I. S. (2008). Mass transport
+        through a proton exchange membrane (Nafion) in microbial fuel cells. Energy & Fuels, 22,
+        169-176.
+Mauritz, K. A., & Moore, R. B. (2004). State of understanding of Nafion. Chemical Reviews, 104,
+        4535-4585.
+Shin, D. W., Guiver, M. D., & Lee, Y. M. (2017). Hydrocarbon-based polymer electrolyte membranes:
+        importance of morphology on ion transport and membrane stability. Chemical Reviews, 117,
+        4759-4805.
+Zhao, Z., Pu, H., Chang, Z., & Pan, H. (2014). A versatile strategy towards semi-interpenetrating
+        polymer network for proton exchange membranes. International Journal of Hydrogen Energy, 39,
+        6657-6663.
+Wang, R., Yan, X., Wu, X., He, G., Du, L., Hu, Z., & Tan, M. (2014). Modification of hydrophilic
+        channels in Nafion membranes by DMBA: mechanism and effects on proton conductivity. Journal
+        of Polymer Science B: Polymer Physics, 52, 1107-1117.
+Napoli, L., Franco, J., Fasoli, H., & Sanguinetti, A. (2014). Conductivity of Nafion(R) 117
+        membrane used in polymer electrolyte fuel cells. International Journal of Hydrogen Energy, 39,
+        8656-8660.
+Genies, R. M. C., Sillion, B., Cornet, N., Gebel, G., & Pineri, M. (2001). Soluble sulfonated
+        naphthalenic polyimides as materials for proton exchange membranes. Polymer, 42, 359-373.
+Lufrano, F., Baglio, V., Staiti, P., Arico', A. S., & Antonucci, V. (2008). Polymer electrolytes
+        based on sulfonated polysulfone for direct methanol fuel cells. Journal of Power Sources, 179,
+        34-41.
+Fu, R.-Q., Woo, J.-J., Seo, S.-J., Lee, J.-S., & Moon, S.-H. (2008). Sulfonated polystyrene/polyvinyl
+        chloride composite membranes for PEMFC applications. Journal of Membrane Science, 309, 156-164.
+Wei, H., Chen, R., & Li, G. (2015). Effect of chemical structure on the performance of sulfonated
+        poly(arylene ether sulfone) as proton exchange membrane. International Journal of Hydrogen
+        Energy, 40, 14392-14397.
+Kaliaguine, S., Mikhailenko, S. D., Wang, K. P., Xing, P., Robertson, G., & Guiver, M. (2003).
+        Properties of SPEEK based PEMs for fuel cell application. Catalysis Today, 82, 213-222.
+Leong, J. X., Daud, W. R. W., Ghasemi, M., Ahmad, A., Ismail, M., & Liew, K. B. (2015). Composite
+        membrane containing graphene oxide in sulfonated polyether ether ketone in microbial fuel cell
+        applications. International Journal of Hydrogen Energy, 40, 11604-11614.
+Salarizadeh, P., Javanbakht, M., & Pourmahdian, S. (2015). Fabrication and physico-chemical properties
+        of iron titanate nanoparticles based sulfonated poly(ether ether ketone) membrane for proton
+        exchange membrane fuel cell application. Solid State Ionics, 281, 12-20.
+Che, Q., Chen, N., Yu, J., & Cheng, S. (2016). Sulfonated poly(ether ether) ketone/polyurethane
+        composites doped with phosphoric acids for proton exchange membranes. Solid State Ionics, 289,
+        199-206.
+Di Vona, M., Ahmed, Z., Bellitto, S., Lenci, A., Traversa, E., & Licoccia, S. (2007). SPEEK-TiO2
+        nanocomposite hybrid proton conductive membranes via in situ mixed sol-gel process. Journal of
+        Membrane Science, 296, 156-161.
+Han, M., Zhang, G., Li, M., Wang, S., Zhang, Y., Li, H., Lew, C. M., & Na, H. (2011). Considerations
+        of the morphology in the design of proton exchange membranes: cross-linked sulfonated
+        poly(ether ether ketone)s using a new carboxyl-terminated benzimidazole as the cross-linker for
+        PEMFCs. International Journal of Hydrogen Energy, 36, 2197-2206.
+Kadier, A., Simayi, Y., Chandrasekhar, K., Ismail, M., & Kalil, M. S. (2015). Hydrogen gas production
+        with an electroformed Ni mesh cathode catalysts in a single-chamber microbial electrolysis cell
+        (MEC). International Journal of Hydrogen Energy, 40, 14095-14103.
+
+11 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 12
+================================================================================
+
+Sayadi, P., Rowshanzamir, S., & Parnian, M. J. (2016). Study of hydrogen crossover and proton
+        conductivity of self-humidifying nanocomposite proton exchange membrane based on sulfonated
+        poly(ether ether ketone). Energy, 94, 292-303.
+Yang, E., Chae, K.-J., Alayande, A. B., Kim, K.-Y., & Kim, I. S. (2016). Concurrent performance
+        improvement and biofouling mitigation in osmotic microbial fuel cells using a silver
+        nanoparticle-polydopamine coated forward osmosis membrane. Journal of Membrane Science, 513,
+        217-225.
+Lee, J.-Y., Lee, J.-H., Ryu, S., Yun, S.-H., & Moon, S.-H. (2015). Electrically aligned ion channels
+        in cation exchange membranes and their polarized conductivity. Journal of Membrane Science, 478,
+        19-24.
+Chae, K.-J., Choi, M.-J., Kim, K.-Y., Ajayi, F. F., Chang, I.-S., & Kim, I. S. (2010). Selective
+        inhibition of methanogens for the improvement of biohydrogen production in microbial electrolysis
+        cells. International Journal of Hydrogen Energy, 35, 13379-13386.
+Park, J., Wang, L., Advani, S. G., & Prasad, A. K. (2014). Mechanical stability of H3PO4-doped
+        PBI/hydrophilic-pretreated PTFE membranes for high temperature PEMFCs. Electrochimica Acta, 120,
+        30-38.
+Porozhnyy, M., Huguet, P., Cretin, M., Safronova, E., & Nikonenko, V. (2016). Mathematical modeling of
+        transport properties of proton-exchange membranes containing immobilized nanoparticles.
+        International Journal of Hydrogen Energy, 41, 15605-15614.
+Cai, H., Shao, K., Zhong, S., Zhao, C., Zhang, G., Li, X., & Na, H. (2007). Properties of composite
+        membranes based on sulfonated poly(ether ether ketone)s (SPEEK)/phenoxy resin (PHR) for direct
+        methanol fuel cell usages. Journal of Membrane Science, 297, 162-173.
+Yang, T. (2009). Composite membrane of sulfonated poly(ether ether ketone) and sulfated poly(vinyl
+        alcohol) for use in direct methanol fuel cells. Journal of Membrane Science, 342, 221-226.
+Othman, M. H. D., Ismail, A. F., & Mustafa, A. (2007). Proton conducting composite membrane from
+        sulfonated poly(ether ether ketone) and boron orthophosphate for direct methanol fuel cell
+        application. Journal of Membrane Science, 299, 156-165.
+Tominaga, Y., & Maki, T. (2014). Proton-conducting composite membranes based on polybenzimidazole and
+        sulfonated mesoporous organosilicate. International Journal of Hydrogen Energy, 39, 2724-2730.
+Kwon, Y., Lee, S. Y., Hong, S., Jang, J. H., Henkensmeier, D., Yoo, S. J., Kim, H.-J., & Kim, S.-H.
+        (2015). Novel sulfonated poly(arylene ether sulfone) containing hydroxyl groups for enhanced
+        proton exchange membrane properties. Polymer Chemistry, 6, 233-239.
+Wang, R., Wu, X., Yan, X., He, G., & Hu, Z. (2015). Proton conductivity enhancement of SPEEK membrane
+        through n-BuOH assisted self-organization. Journal of Membrane Science, 479, 46-54.
+Park, C. H., Lee, S. Y., Hwang, D. S., Shin, D. W., Cho, D. H., Lee, K. H., Kim, T.-W., Kim, T.-W., Lee,
+        M., Kim, D.-S., Doherty, C. M., Thornton, A. W., Hill, A. J., Guiver, M. D., & Lee, Y. M. (2016).
+        Nanocrack-regulated self-humidifying membranes. Nature, 532, 480-483.
+Cheng, S., Liu, H., & Logan, B. E. (2006). Increased performance of single-chamber microbial fuel cells
+        using an improved cathode structure. Electrochemistry Communications, 8, 489-494.
+An, J., Kim, B., Jang, J. K., Lee, H.-S., & Chang, I. S. (2014). New architecture for modulization of
+        membraneless and single-chambered microbial fuel cell using a bipolar plate-electrode assembly
+        (BEA). Biosensors and Bioelectronics, 59, 28-34.
+Rozendal, R. A., Hamelers, H. V., Molenkamp, R. J., & Buisman, C. J. (2007). Performance of single
+        chamber biocatalyzed electrolysis with different types of ion exchange membranes. Water Research,
+        41, 1984-1994.
+
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN)
+
++----+---------------------------------+-------------+------------------------------------------+
+| NO | INDIKATOR KEBERHASILAN          | JUMLAH      | DESKRIPSI                                |
++----+---------------------------------+-------------+------------------------------------------+
+| 1  | Keluaran (output) Hasil Riset:  | 1-2 journal | Scientific publications in international |
+|    | international journal           | publications| reputable journals (Scopus Q1/Q2) and   |
+|    | publications (Scopus Q1/Q2)     |             | conferences, along with the development  |
+|    |                                 |             | of a prototype SPAES/PIN membrane and    |
+|    |                                 |             | MEC test cell to support future research.|
++----+---------------------------------+-------------+------------------------------------------+
+| 2  | Dampak (outcome) Hasil Riset:   | 1 early     | Tangible impact through the development  |
+|    | guidance related to selective   | guidance    | of an initial guideline or reference     |
+|    | PEMs for MEC hydrogen           |             | document on selective proton exchange    |
+|    | production                      |             | membranes for MEC applications and       |
+|    |                                 |             | further research.                        |
++----+---------------------------------+-------------+------------------------------------------+
+| 3  | Pembinaan peer / involvement of | 2 students  | At least one early-career researcher who |
+|    | early career researchers        |             | has just obtained the doctoral degree    |
+|    |                                 |             | will get involved. Furthermore, at least |
+|    |                                 |             | two students will also join this project.|
++----+---------------------------------+-------------+------------------------------------------+
+| 4  | Networking internasional        | 1 network   | International research collaboration      |
+|    |                                 |             | between KMOU and Kolon Central Research  |
+|    |                                 |             | Park established and maintained.         |
++----+---------------------------------+-------------+------------------------------------------+
+
+12 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 13
+================================================================================
+
+7   JADWAL PELAKSANAAN
+
+        Table 1. Timeline of proposed research
++-----------------------------------------------+---------------------------------------+
+|                                               |            Month (1-12)               |
+| Activity                                      | 1  2  3  4  5  6  7  8  9  10 11 12    |
++-----------------------------------------------+---------------------------------------+
+| A. Upgrading fabrication facility             | X  X  X                               |
+| B. SPAES/PIN membrane fabrication & property  |       X  X  X  X                       |
+|    characterisation                           |                                       |
+| C. Microstructure modification & selectivity  |             X  X  X  X                 |
+| D. MEC test cell development & operation       |                   X  X  X  X           |
+| Data analysis & modelling                     |                      X  X  X  X        |
+| Publication & reporting                       |                            X  X  X     |
++-----------------------------------------------+---------------------------------------+
+
+8   PETA JALAN (ROAD MAP) RISET
+
+        [Figure 4. Ten years roadmap of selective PEMs for MEC hydrogen production]
+        --------------------------------------------------------------------------
+        | Phase 1 (2025-2027): Fundamentals & initial development                 |
+        | Phase 2 (2028-2031): Further exploration & conceptual design            |
+        | Phase 3 (2032-2036): Scientific advancement & technology maturation     |
+        --------------------------------------------------------------------------
+
+        This figure illustrates a ten-year roadmap outlining the phased development of
+selective proton exchange membranes for MEC hydrogen production. The first phase
+(2025-2027) focuses on fundamentals and initial development, including upgrading the
+current fabrication facility, testing SPAES/PIN membranes under various fabrication
+conditions, microstructure modification, and early MEC test-cell development. The second
+phase (2028-2031) moves into further exploration and conceptual design, emphasising detailed
+studies on proton selectivity and microphase separation, guidelines for membrane
+reinforcement and MEC operation, and working system prototypes. Finally, the third phase
+(2032-2036) highlights scientific advancement and technology maturation, aiming to establish
+transport models, mass-production strategies for advanced composite membranes, and devices
+tested in real environments that meet reliability standards. This roadmap positions the
+SPAES/PIN membrane as a scalable and sustainable solution aligned with long-term
+technological goals.
+
+13 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 14
+================================================================================
+
+        [Figure 5. Research plan for the current study]
+        --------------------------------------------------------------------------
+        | Year 1: Facility upgrade (electrospinning + casting line), single-layer |
+        |         SPAES/PIN fabrication, property characterisation (WU, IEC,      |
+        |         tensile strength, DS), microstructure mapping (SEM, EDX, AFM),  |
+        |         trial of vibration-free uniform casting method.                 |
+        | Year 2: Proton transport number & crossover measurements, MEC operation |
+        |         and hydrogen production/purity, advanced microstructures        |
+        |         (higher DS, thinner nanofibers), first-trial MEC experiments.   |
+        --------------------------------------------------------------------------
+
+        This figure presents a two-year research roadmap tailored to the proposed study,
+breaking down specific tasks into measurable milestones. In Year 1, the focus is on upgrading
+the current facility by integrating an improved electrospinning and solution-casting line,
+FE-SEM/EDX/AFM characterisation, re-adjustment of the acidification and washing steps, and
+redesigning the casting head. Concurrently, experiments on single-layer membrane phenomena
+(ion exchange capacity, degree of sulfonation, nanofiber thickness) and microstructure mapping
+are conducted, supported by trials of a uniform casting method. In Year 2, the scope expands to
+proton transport number and crossover analysis, MEC operation, and comparison of the SPAES/PIN
+membrane with Nafion-211. Further, advanced microstructures such as higher-DS and thinner-
+nanofiber designs are explored, alongside first-trial MEC experiments under diverse conditions.
+This structured plan ensures systematic progression from fundamental membrane analysis to more
+complex MEC scenarios, forming a strong foundation for future large-scale implementation.
+
+9   USULAN BIAYA
+
+        Table 2 shows the funding allocation for research over a one year period, with a total
+proposed amount of Rp 200.000.000,00.
+
+14 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 15
+================================================================================
+
+        Table 2. Funding Allocation for Research
++----+-------------------------------------+-------+--------+-------------+-------------+
+| No | Item                                | Unit  | Number | Unit price  | Total cost  |
++----+-------------------------------------+-------+--------+-------------+-------------+
+|    | Bahan dan peralatan                 |       |        |             |             |
+| 1  | SPAES Ionomer (Kolon, South Korea,  | Set   |   1    |   8.000.000 |   8.000.000 |
+|    | >1.75 meq/mg IEC, DS 100%)          |       |        |             |             |
+| 2  | N,N-dimethylacetamide (DMAc)        | Set   |   2    |   2.500.000 |   5.000.000 |
+|    | solvent                             |       |        |             |             |
+| 3  | Polyimide Nanofiber (PIN) support   | Set   |   1    |   6.000.000 |   6.000.000 |
+|    | (electrospun, ~200 nm)              |       |        |             |             |
+| 4  | Nafion-211 membrane (DuPont, USA)   | Unit  |   4    |   3.000.000 |  12.000.000 |
+|    | - control                           |       |        |             |             |
+| 5  | Electrospinning Unit (nanofiber     | Set   |   1    |  30.000.000 |  30.000.000 |
+|    | fabrication, high-voltage)          |       |        |             |             |
+| 6  | Vacuum/Drying Oven & Clean Bench    | Unit  |   1    |   9.000.000 |   9.000.000 |
+|    | (natural drying at 80 degC)         |       |        |             |             |
+| 7  | Carbon Felt anode (25 cm^2)         | Set   |   1    |   4.000.000 |   4.000.000 |
+| 8  | Pt-loaded Perforated Titanium Plate | Set   |   1    |  14.000.000 |  14.000.000 |
+|    | cathode (0.5 mg Pt/cm^2)            |       |        |             |             |
+| 9  | Two-chambered MEC reactor set       | Unit  |   1    |  10.000.000 |  10.000.000 |
+|    | (180 mL each) & three-chambered cell|       |        |             |             |
+| 10 | Ag/AgCl Reference Electrode         | Set   |   2    |   3.000.000 |   6.000.000 |
+|    | (Microelectrode, USA)               |       |        |             |             |
+| 11 | Gastight Syringe (Hamilton          | Unit  |   2    |   1.500.000 |   3.000.000 |
+|    | SampleLock #1002, 2.5 mL, USA)      |       |        |             |             |
+| 12 | DC Power Supply (0.5 V applied)     | Unit  |   1    |   8.000.000 |   8.000.000 |
+| 13 | Chemicals (H2SO4, NaCl, NaOH, HCl,  | Paket |   1    |   5.000.000 |   5.000.000 |
+|    | phenolphthalein, 2-bromoethane-     |       |        |             |             |
+|    | sulfonate, standard cations & gas)  |       |        |             |             |
+| 14 | Working fluids & buffers (deionized | Paket |   1    |   3.000.000 |   3.000.000 |
+|    | water, nutrient mineral & phosphate |       |        |             |             |
+|    | buffer, acetate substrate)          |       |        |             |             |
+| 15 | Nitrogen carrier gas (99.999%) &    | Paket |   1    |   9.500.000 |   9.500.000 |
+|    | standard gas (5% H2, 70% CH4, 25%   |       |        |             |             |
+|    | CO2)                                |       |        |             |             |
+|    | Mobilisasi                          |       |        |             |             |
+| 1  | Busan - Yongin (KMOU-Kolon)         | Paket |   2    |   4.500.000 |   9.000.000 |
+| 2  | Domestic conference travel          | Paket |   2    |   4.500.000 |   9.000.000 |
+|    | Lainnya                             |       |        |             |             |
+| 1  | Honorarium asisten                  | Bulan |  10    |   1.200.000 |  12.000.000 |
+| 2  | Jasa Fabrikasi & Karakterisasi      | Paket |   1    |  10.000.000 |  10.000.000 |
+|    | (FE-SEM, EDX, AFM, ICS5000)         |       |        |             |             |
+| 3  | Biaya Publikasi Jurnal              | Artikel|  1    |   5.000.000 |   5.000.000 |
+|    | Internasional (APC)                 |       |        |             |             |
+| 4  | ATK dan Keperluan Riset             | Paket |   1    |   2.500.000 |   2.500.000 |
++----+-------------------------------------+-------+--------+-------------+-------------+
+|    | Total keseluruhan                   |       |        |    Rp       | 200.000.000 |
++----+-------------------------------------+-------+--------+-------------+-------------+
+
+15 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 16
+================================================================================
+
+10  CV PENELITI
+        dilengkapi dengan screenshot data H-index
+
+    1.  Nama pengusul  : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
+        Screenshot     :
+    2.  Nama partner 1 : Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
+        Screenshot     :
+    3.  Nama partner 2 : Dr. Mooseok Lee (Kolon Central Research Park)
+        Screenshot     :
+
+16 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 17
+================================================================================
+
+    4.  Nama pengusul  : Prof. Kyu-Jung Chae
+        Profile        : Department of Environmental Engineering, College of Engineering,
+                         Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu,
+                         Busan 606-791, South Korea (e-mail: ckjdream@kmou.ac.kr)
+    5.  Nama partner 1 : Dr. Sung-Gwan Park
+        Profile        : Department of Environmental Engineering, College of Engineering,
+                         Korea Maritime and Ocean University, Busan, South Korea
+    6.  Nama partner 2 : Dr. Mooseok Lee
+        Profile        : Green Material Research Group, Kolon Central Research Park, 207-2,
+                         Mabuk-dong, Giheung-gu, Yongin-si, Gyeonggi 446-797, South Korea
+                         (e-mail: leems@kolon.com)
+
+17 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 18
+================================================================================
+
+        (This page intentionally left blank.)
+
+
+================================================================================
+PAGE 19
+================================================================================
+
+Rencana Anggaran Biaya (RAB)
+
+Judul    : Developing High-Selectivity Proton Exchange Membranes for Next Generation
+           Hydrogen-Producing Microbial Electrolysis Cells
+Pengusul : Prof. Kyu-Jung Chae
+Skema    : Skema A
+Fakultas : College of Engineering
+
+Rekapitulasi RAB
++-----------------------------------------------+------------------+
+| Deskripsi                                     | Biaya (Rp)       |
++-----------------------------------------------+------------------+
+| Honor (maksimal 25%)                          |      12.000.000  |
+| Biaya Bahan Habis Pakai                       |     152.500.000  |
+| Biaya Perjalanan                              |      18.000.000  |
+| Biaya Operasional Lainnya                     |      17.500.000  |
++-----------------------------------------------+------------------+
+| Total                                         |     200.000.000  |
++-----------------------------------------------+------------------+
+
+Rincian RAB
+
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Honor                    |                               |           |        |             |             |
+| Honorarium Asisten       | Membantu persiapan            | 10 bulan  |        |   1.200.000 |  12.000.000 |
+| Peneliti (Mahasiswa      | eksperimen, fabrikasi         |           |        |             |             |
+| S2/S3)                   | membran, pengambilan data,    |           |        |             |             |
+|                          | dan analisis awal.            |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                12.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Biaya Bahan Habis Pakai
+
+A. Sintesis dan Fabrikasi Membran Komposit
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SPAES Ionomer            | Polimer konduktor proton      | 1 Set     |        |   8.000.000 |   8.000.000 |
+| (Kolon, South Korea,     | utama untuk lapisan transfer  |           |        |             |             |
+| >1.75 meq/mg IEC,        | proton membran komposit.      |           |        |             |             |
+| DS 100%)                 |                               |           |        |             |             |
+| N,N-dimethylacetamide    | Pelarut untuk melarutkan      | 2 Set     |        |   2.500.000 |   5.000.000 |
+| (DMAc)                   | SPAES sebelum impregnasi.     |           |        |             |             |
+| Polyimide Nanofiber      | Substrat penguat mekanik      | 1 Set     |        |   6.000.000 |   6.000.000 |
+| (PIN, electrospun, ~200  | (electrospun) yang            |           |        |             |             |
+| nm)                      | ditanam di tengah lapisan     |           |        |             |             |
+|                          | SPAES.                        |           |        |             |             |
+| Nafion-211 (DuPont, USA) | Membran pembanding (control)  | 4 Unit    |        |   3.000.000 |  12.000.000 |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+
+================================================================================
+PAGE 20
+================================================================================
+
+B. Peralatan Fabrikasi dan Reaktor
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Electrospinning Unit     | Memproduksi nanofiber         | 1 Set     |        |  30.000.000 |  30.000.000 |
+|                          | poliimida (~200 nm) untuk     |           |        |             |             |
+|                          | substrat penguat.             |           |        |             |             |
+| Vacuum/Drying Oven &     | Pengeringan alami membran     | 1 Unit    |        |   9.000.000 |   9.000.000 |
+| Clean Bench              | pada 80 degC selama 6 jam.    |           |        |             |             |
+| Carbon Felt anode        | Anoda untuk pengayaan         | 1 Set     |        |   4.000.000 |   4.000.000 |
+| (25 cm^2)                | exoelectrogen pada MEC.       |           |        |             |             |
+| Pt-loaded Perforated     | Katoda untuk produksi         | 1 Set     |        |  14.000.000 |  14.000.000 |
+| Titanium Plate           | hidrogen (0.5 mg Pt/cm^2).    |           |        |             |             |
+| Two-chambered MEC        | Reaktor uji produksi          | 1 Unit    |        |  10.000.000 |  10.000.000 |
+| reactor & three-         | hidrogen (180 mL) dan sel     |           |        |             |             |
+| chambered cell           | uji crossover.                |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+C. Instrumentasi dan Akuisisi Data
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Ag/AgCl Reference        | Elektroda referensi untuk     | 2 Set     |        |   3.000.000 |   6.000.000 |
+| Electrode (Microelec-    | pengukuran proton transport   |           |        |             |             |
+| trode, USA)              | number (+0.195 V vs. NHE).    |           |        |             |             |
+| DC Power Supply          | Catu daya 0.5 V untuk memulai | 1 Unit    |        |   8.000.000 |   8.000.000 |
+|                          | produksi hidrogen pada MEC.   |           |        |             |             |
+| Gastight Syringe         | Pengambilan sampel gas dari   | 2 Unit    |        |   1.500.000 |   3.000.000 |
+| (Hamilton SampleLock     | headspace MEC (1.0 mL).       |           |        |             |             |
+| #1002, 2.5 mL, USA)      |                               |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+D. Bahan Habis Pakai
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Chemicals (H2SO4, NaCl,  | Asidifikasi, titrasi IEC,     | 1 Paket   |        |   5.000.000 |   5.000.000 |
+| NaOH, HCl, phenol-       | pengukuran transport number,  |           |        |             |             |
+| phthalein, 2-bromoethane-| dan penghambatan methanogen.  |           |        |             |             |
+| sulfonate, standard      |                               |           |        |             |             |
+| cations & gas)           |                               |           |        |             |             |
+| Working fluids & buffers | Anolyte, catholyte, dan       | 1 Paket   |        |   3.000.000 |   3.000.000 |
+| (deionized water,        | substrat untuk operasi MEC.   |           |        |             |             |
+| nutrient mineral &       |                               |           |        |             |             |
+| phosphate buffer,        |                               |           |        |             |             |
+| acetate substrate)       |                               |           |        |             |             |
+| Nitrogen carrier gas     | Gas pembawa untuk gas         | 1 Paket   |        |   9.500.000 |   9.500.000 |
+| (99.999%) & standard gas | chromatograph dan analisis    |           |        |             |             |
+| (5% H2, 70% CH4, 25% CO2)| crossover gas.                |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                               152.500.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Biaya Perjalanan
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Perjalanan Busan -       | Koordinasi dan analisis       | 2 Paket   |        |   4.500.000 |   9.000.000 |
+| Yongin (PP)              | bersama tim peneliti mitra    |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+
+
+================================================================================
+PAGE 21
+================================================================================
+
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+|                          | di Kolon Central Research     |           |        |             |             |
+|                          | Park.                         |           |        |             |             |
+| Perjalanan konferensi    | Diseminasi hasil riset pada   | 2 Paket   |        |   4.500.000 |   9.000.000 |
+| domestik (PP)            | konferensi ilmiah.            |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                18.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Biaya Operasional Lainnya
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| Jasa Fabrikasi &         | Karakterisasi membran         | 1 Paket   |        |  10.000.000 |  10.000.000 |
+| Karakterisasi (FE-SEM    | dengan FE-SEM (TESCAN-MIRA3   |           |        |             |             |
+| TESCAN-MIRA3 LMU, EDX,   | LMU, Czech), EDX, AFM,        |           |        |             |             |
+| AFM, ICS5000 DIONEX,     | ion chromatography (ICS5000,  |           |        |             |             |
+| Instron 5967,            | DIONEX, USA), tension tester  |           |        |             |             |
+| GC Series 580)           | (Instron 5967, USA), dan gas  |           |        |             |             |
+|                          | chromatograph (Series 580,    |           |        |             |             |
+|                          | GawMac Instrument Co., USA).  |           |        |             |             |
+| Biaya Publikasi Jurnal   | Untuk publikasi hasil riset   | 1 Artikel |        |   5.000.000 |   5.000.000 |
+| Internasional (APC)      | di jurnal bereputasi (Q1/Q2). |           |        |             |             |
+| ATK dan Keperluan Riset  | Kebutuhan alat tulis dan      | 1 Paket   |        |   2.500.000 |   2.500.000 |
+|                          | material pendukung selama     |           |        |             |             |
+|                          | penelitian.                   |           |        |             |             |
++--------------------------+-------------------------------+-----------+--------+-------------+-------------+
+| SUBTOTAL (Rp)                                                                                17.500.000 |
++--------------------------------------------------------------------------------------------------------+
+| Total Anggaran (Rp)                                                                         200.000.000 |
++--------------------------------------------------------------------------------------------------------+
+
+Menyetujui,                                            Busan, 29 - 9 - 2025
+Wakil Dekan I Fakultas                                 Periset Utama
+                                                       Tanda tangan dan Cap
+
+Prof. ......................                            Prof. Kyu-Jung Chae
+NIP. ......................                             Korea Maritime and Ocean University
+
+
+================================================================================
+APPENDIX A - KEY RESULTS AND FIGURES (as reported in the SPAES/PIN study)
+================================================================================
+
+Table 1. Physicochemical and mechanical properties of the SPAES/PIN composite
+         membrane and Nafion-211 (mean +/- SD, n = 4)
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+| Membrane      | Thickness | WU (%)  | Area        | Thickness     | Tensile   | IEC       | DS    | Proton         |
+|               | (um)      |         | swelling(%) | swelling (%)  | strength  | (meq/g)   | (%)   | conductivity   |
+|               |           |         |             |               | (MPa)     |           |       | (S/cm)         |
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+| SPAES/PIN     | 21 +/- 2  | 35 +/- 3| 7.5 +/- 0.5 | 19.0 +/- 1    | > 40      | 2.3 +/- 0.3| 100  | 0.17 - 0.2     |
+| composite     |           |         |             |               |           |           |       | (80 degC,95%RH)|
+| Nafion-211    | 25 +/- 1  | 10 +/- 4| 22.4 +/- 0.5| 22.4 +/- 1    | 23        | 1 +/- 0.2 |  -    |  -             |
++---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
+
+[Figure 4] Electrochemical property comparisons (SPAES/PIN vs. Nafion-211):
+        (a) Proton transport number: 0.96 (SPAES/PIN) vs. 0.91 (Nafion-211).
+        (b) Proton diffusion: 1.5-fold faster proton transfer for SPAES/PIN.
+
+[Figure 5] Cation crossover comparisons (100 mg/L each cation):
+        (a) Sodium ion, (b) magnesium ion, (c) calcium ion.
+        SPAES/PIN shows 3-10-fold lower cation crossover depending on the species;
+        monovalent Na+ diffuses more easily than divalent Mg2+ and Ca2+.
+
+[Figure 6] Microphase separation observed by AFM (tapping mode; dark = hydrophilic,
+        bright = hydrophobic): (a) SPAES/PIN composite membrane shows narrower, more
+        branched, more tortuous hydrophilic channels; (b) Nafion membrane.
+
+[Figure 7] Gas and substrate crossover comparisons:
+        (a) Hydrogen gas: 2.7-fold less permeable for SPAES/PIN.
+        (b) Methane gas: twofold less permeable for SPAES/PIN.
+        (c) Acetic acid (substrate): reduced substrate permeability for SPAES/PIN.
+
+[Figure 8] Hydrogen gas production comparison (three-consecutive-feeding cycle,
+        arrows indicate acetate injection): SPAES/PIN membrane MEC produced 32.4%
+        more hydrogen than Nafion-211. Anode pH dropped from 6.96 to 6.23 (SPAES/PIN)
+        vs. 7.04 to 5.52 (Nafion-211); cathode pH rose from 7.01 to 7.71 (SPAES/PIN)
+        vs. 7.01 to 8.44 (Nafion-211). pH gradient: 1.5 (SPAES/PIN) vs. 3.0 (Nafion-211).
+        Internal resistance 49.5 ohm lower for SPAES/PIN. Contributions to the hydrogen
+        increment: proton selectivity 69.5%, gas crossover 11.7%, substrate crossover 18.8%.
+
+[Figure 9] Gas composition comparison:
+        SPAES/PIN cathode gas: H2 90.3%, CH4 6.37%, CO2 3.30%.
+        Nafion-211 cathode gas: H2 61.8%, CO2 21.3%, CH4 16.9%.
+        With methanogen inhibitor (2-bromoethanesulfonate): 97.2% hydrogen purity for
+        the SPAES/PIN membrane.
+
+--------------------------------------------------------------------------------
+Source paper: S.-G. Park, K.-J. Chae, M. Lee, "A sulfonated poly(arylene ether
+sulfone)/polyimide nanofiber composite proton exchange membrane for microbial
+electrolysis cell application under the coexistence of diverse competitive cations
+and protons," Journal of Membrane Science 540 (2017) 165-173.
+http://dx.doi.org/10.1016/j.memsci.2017.06.048
+--------------------------------------------------------------------------------
