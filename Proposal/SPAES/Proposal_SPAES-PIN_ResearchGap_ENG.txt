@@ -3,9 +3,9 @@ PAGE 1  (COVER)
 ================================================================================
 
                               PROPOSAL
-                    RISET KOLABORASI INDONESIA
-                    PRIORITAS RISET NASIONAL
-                              SKEMA A
+              JST-BRIN NEXUS JOINT RESEARCH PROGRAMME
+         (Japan Science and Technology Agency - Badan Riset
+                     dan Inovasi Nasional)
 
 
 JUDUL PAYUNG PENELITIAN
@@ -14,21 +14,28 @@ Membranes for Next Generation Microbial Electrolysis Cells
 
 SUB - JUDUL PENELITIAN
 Closing the two gaps of the SPAES/polyimide nanofiber composite membrane by
-combined molecular dynamics simulations and experiments
+combined molecular dynamics simulations (Japanese team) and experiments
+(Indonesian team)
 
 
-Peran: Prof. Kyu-Jung Chae (KMOU)
-       Mitra 1
+Principal Investigator (Tim Indonesia):
+    Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor)
+Co-Principal Investigator (Tim Indonesia):
+    Prof. Nassrudin Annas (Universitas Indonesia)
+Co-Principal Investigator (Tim Jepang):
+    Prof. Mabuchi (Tohoku University)
 
-Peneliti Pengusul : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
-Peneliti Mitra    : 1. Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
-                    2. Dr. Mooseok Lee (Kolon Central Research Park)
+Tim Indonesia (experimental research, Indonesia):
+    Energy and Environmental Research Group, Universitas Indonesia; and
+    Institut Pertanian Bogor
+Tim Jepang (molecular dynamics simulation):
+    Mabuchi Laboratory, Tohoku University
 
 
-                    KOREA MARITIME AND OCEAN UNIVERSITY
+     UNIVERSITAS INDONESIA - INSTITUT PERTANIAN BOGOR - TOHOKU UNIVERSITY
                              September, 2025
 
-1 | Panduan Hibah RKI EQUITY 2025
+1 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -45,14 +52,14 @@ DAFTAR ISI
     3.1  Molecular dynamics (MD) simulation methodology ................... 8
     3.2  Experimental methodology ......................................... 9
 4   RENCANA PENELITIAN .................................................... 10
-5   DAFTAR PUSTAKA ........................................................ 16
-6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 18
-7   JADWAL PELAKSANAAN .................................................... 19
-8   PETA JALAN (ROAD MAP) RISET ........................................... 19
-9   USULAN BIAYA .......................................................... 20
-10  CV PENELITI ........................................................... 22
+5   DAFTAR PUSTAKA ........................................................ 13
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 16
+7   JADWAL PELAKSANAAN .................................................... 17
+8   PETA JALAN (ROAD MAP) RISET ........................................... 17
+9   USULAN BIAYA .......................................................... 18
+10  CV PENELITI ........................................................... 20
 
-2 | Panduan Hibah RKI EQUITY 2025
+2 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -76,19 +83,21 @@ channels, while experiments provide the nanostructure and transport data that
 calibrate and validate the simulations. The two methods form a closed loop: MD
 predicts, experiments verify, and the validated model is then used to optimize the
 degree of sulfonation (DS), ion exchange capacity (IEC), and side-chain chemistry.
-        The project will be led by Korea Maritime and Ocean University, with strong
-collaboration from the Green Material Research Group of Kolon Central Research Park.
-KMOU will lead the MD simulations, nanostructure characterization, and transport
-testing, while Kolon will lead the parametric synthesis of the SPAES ionomers and the
-side-chain-modified variants that the simulations recommend. Expected outcomes include
-scientific publications, a validated MD-based structure-property-transport model, an
-optimized DS/IEC design map, and design guidelines that convert the previously
-qualitative "narrower, more branched, more tortuous channels" narrative into a
-predictive engineering tool. The project also provides training for students and
-young researchers in both computational and experimental membrane science. In the long
-term, this research supports the rational, model-guided design of proton-selective
-membranes and aligns with the UN Sustainable Development Goals on energy efficiency,
-innovation, and climate action.
+        The project is a JST-BRIN Nexus joint research programme between an Indonesian
+team, which conducts the experimental research in Indonesia, and a Japanese team at
+Tohoku University, which conducts the molecular dynamics simulations. The Indonesian
+team (Energy and Environmental Research Group, Universitas Indonesia, with Institut
+Pertanian Bogor) leads membrane synthesis, fabrication, nanostructure characterization,
+and transport testing, while the Japanese team (Mabuchi Laboratory, Tohoku University)
+leads the MD simulations using the internationally recognised EVB method developed by
+Prof. Mabuchi. Expected outcomes include scientific publications, a validated MD-based
+structure-property-transport model, an optimized DS/IEC design map, and design
+guidelines that convert the previously qualitative "narrower, more branched, more
+tortuous channels" narrative into a predictive engineering tool. The project also
+provides research capacity building, with Indonesian students undertaking graduate
+study at Tohoku University. In the long term, this research supports the rational,
+model-guided design of proton-selective membranes and aligns with the UN Sustainable
+Development Goals on energy efficiency, innovation, and climate action.
 
 2   PENDAHULUAN
 
@@ -109,7 +118,7 @@ power supply. Typical half reactions are:
         Anode:   CH3COOH + 2H2O -> 2CO2 + 8H+ + 8e-;  E deg = -0.28 V (NHE)   (1)
         Cathode: 8H+ + 8e- -> 4H2;                    E deg = -0.42 V (NHE)   (2)
 
-3 | Panduan Hibah RKI EQUITY 2025
+3 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -143,7 +152,7 @@ more branched, narrower, and more tortuous ion-conducting channels via the Grott
 mechanism, which improves proton selectivity while lowering undesirable gas or substrate
 crossover.
 
-4 | Panduan Hibah RKI EQUITY 2025
+4 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -180,7 +189,7 @@ difference." There is no quantitative transport model linking channel geometry t
 measured proton transport number (0.96) or the 3-10-fold reduction in cation crossover.
 The explanation is descriptive, not predictive.
 
-5 | Panduan Hibah RKI EQUITY 2025
+5 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -217,13 +226,13 @@ chemistry was performed; only one point in a large design space was tested.
           mechanical strength. MD screens many candidate structures rapidly; experiments
           confirm the most promising ones.
         - Explore side-chain modification (e.g., hydroxyl groups as in Kwon et al. [34],
-          or self-organization additives such as n-BuOH-treated SPEEK [35]) to further
-          narrow and branch the hydrophilic channels, first modelled by MD, then
-          synthesised by Kolon.
+          or self-organization additives as in n-BuOH-treated SPEEK [35]) to further
+          narrow and branch the hydrophilic channels, first modelled by MD (Japanese
+          team), then synthesised by the Indonesian team.
         - Identify the DS/IEC "sweet spot" that maximizes selectivity without sacrificing
           the mechanical stability provided by the polyimide nanofiber reinforcement.
 
-6 | Panduan Hibah RKI EQUITY 2025
+6 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -234,17 +243,20 @@ PAGE 7
 experiment loop: the optimization in Gap 2 generates the family of controlled
 microstructures needed to build and validate the MD model in Gap 1, while the validated
 MD model in Gap 1 turns the optimization in Gap 2 from empirical screening into rational,
-predictive design. The work is strengthened through collaboration with the Green Material
-Research Group of Kolon Central Research Park, which provides the advanced polymer
-synthesis capability for the DS/IEC and side-chain variants.
+predictive design. As a JST-BRIN Nexus joint research programme, the Japanese team
+(Mabuchi Laboratory, Tohoku University) performs the molecular dynamics simulations using
+the internationally recognised EVB method developed by Prof. Mabuchi, while the Indonesian
+team (Energy and Environmental Research Group, Universitas Indonesia, with Institut
+Pertanian Bogor) performs the experimental synthesis, fabrication, characterization, and
+transport testing in Indonesia.
 
         In terms of United Nations Sustainable Development Goals (SDGs), this research is
 aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
 Infrastructure), and SDG 13 (Climate Action), as it aims to improve energy efficiency,
 strengthen clean-hydrogen infrastructure, and reduce the environmental impact of waste
-treatment. More importantly, the topic lies at the intersection of two EQUITY research
-priority areas—energy and advanced materials—by converting a proven-but-empirical
-membrane into a rationally designed, model-guided technology.
+treatment. More importantly, the topic lies at the intersection of two JST-BRIN Nexus
+research priority areas—energy and advanced materials—by converting a proven-but-
+empirical membrane into a rationally designed, model-guided technology.
 
 2.2 Tujuan
 
@@ -264,20 +276,22 @@ experiments, are focused as follows:
 
 3   METODOLOGI
 
-        The research is conducted at the Department of Environmental Engineering, College
-of Engineering, Korea Maritime and Ocean University, together with the Green Material
-Research Group of Kolon Central Research Park. The methodology rests on two coupled
-pillars—(3.1) molecular dynamics simulation and (3.2) experiment—that exchange data in a
-closed predict-verify loop, as illustrated in Figure 1.
+        The research is a JST-BRIN Nexus joint programme: the molecular dynamics
+simulations (Section 3.1) are performed by the Japanese team (Mabuchi Laboratory, Tohoku
+University), and the experimental work (Section 3.2) is performed by the Indonesian team
+(Energy and Environmental Research Group, Universitas Indonesia; Institut Pertanian Bogor)
+in Indonesia. The methodology rests on two coupled pillars—(3.1) molecular dynamics
+simulation and (3.2) experiment—that exchange data in a closed predict-verify loop, as
+illustrated in Figure 1.
 
-7 | Panduan Hibah RKI EQUITY 2025
+7 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-3.1 Molecular dynamics (MD) simulation methodology
+3.1 Molecular dynamics (MD) simulation methodology  (Tim Jepang - Tohoku University)
 
         The simulations build an atomistic picture of the SPAES hydrophilic channels and
 compute the transport of protons and competing cations. Atomistic models of the SPAES
@@ -286,14 +300,16 @@ groups, and the water content is set from the measured water uptake (35 +/- 3%).
 MD is run in GROMACS 2023 with the OPLS-AA and General Amber Force Field (GAFF) for the
 polymer and the SPC/E water model; atomic partial charges are derived by the RESP method
 from HF/6-31G* calculations in Gaussian 16. Because proton transport in SPAES is dominated
-by the Grotthuss (structural) mechanism, proton hopping is treated with the multistate
-empirical valence bond (MS-EVB) method, cross-checked by ab initio MD (AIMD/DFT-MD) in
-CP2K 2024 on representative sub-cells. Reactive simulations of interfacial degradation use
-ReaxFF in LAMMPS. Production runs use the NPT ensemble (Nose-Hoover thermostat,
-Parrinello-Rahman barostat) at 298-353 K and 1 bar. Trajectories are analysed with
-MDAnalysis and VMD, and free energies of cation permeation are obtained by umbrella
-sampling with the weighted histogram analysis method (WHAM). All runs use a GPU HPC
-cluster (NVIDIA A100 nodes).
+by the Grotthuss (structural) mechanism, proton hopping is treated with the membrane-based
+empirical valence bond (EVB) molecular dynamics method developed by Prof. Mabuchi (Tohoku
+University)—an internationally recognised method—in its multistate form (MS-EVB),
+cross-checked by ab initio MD (AIMD/DFT-MD) in CP2K 2024 on representative sub-cells.
+Reactive simulations of interfacial degradation use ReaxFF in LAMMPS. Production runs use
+the NPT ensemble (Nose-Hoover thermostat, Parrinello-Rahman barostat) at 298-353 K and
+1 bar. Trajectories are analysed with MDAnalysis and VMD, and free energies of cation
+permeation are obtained by umbrella sampling with the weighted histogram analysis method
+(WHAM). All runs use the GPU HPC cluster of the Mabuchi Laboratory, Tohoku University
+(NVIDIA A100 nodes).
 
         Table 1. Molecular dynamics simulation setup
 +-----------------------------+--------------------------------------------------------+
@@ -303,14 +319,14 @@ cluster (NVIDIA A100 nodes).
 | Reactive / AIMD engines     | LAMMPS (ReaxFF); CP2K 2024 (DFT-MD)                     |
 | Force field (polymer)       | OPLS-AA / GAFF                                          |
 | Water model                 | SPC/E (cross-check TIP3P)                               |
-| Proton transport            | Multistate empirical valence bond (MS-EVB)             |
+| Proton transport            | EVB (Mabuchi) in multistate form (MS-EVB)              |
 | Partial charges             | RESP from HF/6-31G* (Gaussian 16)                       |
 | Ensemble / thermostat       | NPT; Nose-Hoover / Parrinello-Rahman                   |
 | Temperature / pressure      | 298-353 K / 1 bar                                      |
 | System size / time          | ~50,000-200,000 atoms; 100-500 ns (classical)          |
 | Free-energy method          | Umbrella sampling + WHAM (cation PMF)                   |
 | Analysis                    | MDAnalysis, VMD (RDF, MSD -> diffusion, connectivity)  |
-| Hardware                    | GPU HPC cluster (NVIDIA A100 nodes)                    |
+| Hardware                    | GPU HPC cluster, Mabuchi Lab (NVIDIA A100 nodes)       |
 +-----------------------------+--------------------------------------------------------+
 
         The MD workflow proceeds in the following steps:
@@ -320,13 +336,13 @@ cluster (NVIDIA A100 nodes).
                 hydrophilic-domain size are stable.
         Step 3. Run production MD; compute radial distribution functions, water/ion
                 connectivity, and channel width/tortuosity.
-        Step 4. Compute proton transport (MS-EVB/AIMD) and cation permeation free energy
-                (umbrella sampling) to obtain t+ and crossover.
+        Step 4. Compute proton transport (EVB/MS-EVB, AIMD) and cation permeation free
+                energy (umbrella sampling) to obtain t+ and crossover.
         Step 5. Fit a continuum Nernst-Planck/Poisson-Boltzmann model to the MD outputs
-                for engineering-scale prediction, and pass results to experiment for
-                validation.
+                for engineering-scale prediction, and pass results to the Indonesian team
+                for experimental validation.
 
-8 | Panduan Hibah RKI EQUITY 2025
+8 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -335,24 +351,25 @@ PAGE 9
 
         [Figure 1. Combined MD-and-experiment methodology (closed predict-verify loop)]
         --------------------------------------------------------------------------
-        | MD side: atomistic SPAES model -> equilibration -> production MD ->      |
-        |   MS-EVB proton transport + cation PMF -> predicted t+ and crossover.    |
-        | Experiment side: SPAES/PIN fabrication -> SAXS/TEM/PALS/AFM (structure)  |
-        |   -> t+ cell, crossover cell (transport).                               |
-        | Loop: structure feeds MD inputs; MD predicts transport; experiment       |
-        |   validates; validated model guides DS/IEC/side-chain optimization.      |
+        | MD side (Japan): atomistic SPAES model -> equilibration -> production   |
+        |   MD -> EVB proton transport + cation PMF -> predicted t+ and crossover.|
+        | Experiment side (Indonesia): SPAES/PIN fabrication -> SAXS/TEM/PALS/AFM |
+        |   (structure) -> t+ cell, crossover cell (transport).                  |
+        | Loop: structure feeds MD inputs; MD predicts transport; experiment      |
+        |   validates; validated model guides DS/IEC/side-chain optimization.     |
         --------------------------------------------------------------------------
 
-3.2 Experimental methodology
+3.2 Experimental methodology  (Tim Indonesia - Universitas Indonesia & IPB)
 
         The baseline SPAES/PIN composite PEM is fabricated by impregnating polyimide
 nanofiber (PIN) in the centre of a SPAES polymer solution, following the reference method.
-The SPAES polymer solution is prepared using SPAES of > 1.75 meq/mg IEC, polymerized by
-Kolon (South Korea), and N,N-dimethylacetamide (DMAc) as a solvent; the baseline degree of
-sulfonation (DS) is 100%. For the optimization study (Gap 2), a family of SPAES ionomers
-with varied DS and IEC and with side-chain modification (hydroxyl groups; n-BuOH
-self-organization) is synthesised by Kolon. PIN is fabricated by electrospinning with an
-average fiber thickness of 200 nm. Nafion-211 (DuPont, USA) is the control.
+The SPAES polymer solution is prepared using SPAES of > 1.75 meq/mg IEC (base resin
+polymerized by Kolon, South Korea) and N,N-dimethylacetamide (DMAc) as a solvent; the
+baseline degree of sulfonation (DS) is 100%. For the optimization study (Gap 2), a family
+of SPAES ionomers with varied DS and IEC and with side-chain modification (hydroxyl groups;
+n-BuOH self-organization) is synthesised by the Indonesian team. PIN is fabricated by
+electrospinning with an average fiber thickness of 200 nm. Nafion-211 (DuPont, USA) is the
+control.
 
         The experimental protocol proceeds in the following steps:
         Step 1. Cast the SPAES/DMAc solution onto the PIN substrate on a glass plate;
@@ -377,10 +394,10 @@ average fiber thickness of 200 nm. Nafion-211 (DuPont, USA) is the control.
                 (25 cm^2), Pt-loaded perforated titanium plate cathode (0.5 mg Pt/cm^2),
                 acetate substrate (3 mM), 0.5 V applied; gas sampling with a gastight
                 syringe (Hamilton SampleLock #1002, 2.5 mL, USA).
-        Step 7. Feed the measured structure and transport back to the MD model (Section
-                3.1) to validate predictions and refine the optimization.
+        Step 7. Feed the measured structure and transport back to the Japanese team's MD
+                model (Section 3.1) to validate predictions and refine the optimization.
 
-9 | Panduan Hibah RKI EQUITY 2025
+9 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -394,81 +411,85 @@ experiment within the target error, allowing the validated model to be used for 
 4   RENCANA PENELITIAN
 
         Figure 2 shows the research framework and the collaborative scheme. The study is
-organised around the two author-stated gaps, each pursued by combined MD simulations and
-experiments: a validated mechanistic model (Gap 1) and optimized proton-conducting
-channels (Gap 2), with the broader aim of turning empirical membrane selectivity into
-predictive design.
+organised around the two author-stated gaps, each pursued by combined MD simulations
+(Japanese team) and experiments (Indonesian team): a validated mechanistic model (Gap 1)
+and optimized proton-conducting channels (Gap 2), with the broader aim of turning
+empirical membrane selectivity into predictive design.
 
         [Figure 2. Research scope and the collaboration scheme]
         --------------------------------------------------------------------------
-        | KMOU (Pengusul): MD simulations, quantitative nanostructure              |
-        |   characterization, transport testing, and model validation.            |
-        | Kolon (Mitra): parametric SPAES synthesis (DS/IEC), side-chain-modified  |
-        |   ionomers, and nanofiber support for the MD-recommended design map.     |
-        | Loop: MD predicts -> Kolon synthesises -> KMOU tests -> MD refines.      |
+        | Japanese Team (Tohoku Univ., Mabuchi Lab): molecular dynamics           |
+        |   simulations (EVB method) - Gap 1 model & Gap 2 screening.             |
+        | Indonesian Team (UI Energy & Env. Research Group; IPB): experimental    |
+        |   synthesis, fabrication, characterization, and transport testing.      |
+        | Loop: MD predicts (Japan) -> synthesis & tests (Indonesia) -> refine.   |
         --------------------------------------------------------------------------
 
-(a) Pelaksanaan penelitian di PT-Pengusul
+(a) Pelaksanaan penelitian (kegiatan riset dan pembagian peran antar tim)
 
-        The proposed research aims to close the two author-stated gaps of the SPAES/PIN
-membrane study using MD simulations and experiments. The main activities are as follows.
+        The proposed research closes the two author-stated gaps of the SPAES/PIN membrane
+study using MD simulations (Japanese team) and experiments (Indonesian team). The main
+activities are as follows.
 
     A.  Building the MD Platform and Upgrading the Characterization Facility
             The initial step establishes both computational and experimental
-        infrastructure. On the MD side, the GPU HPC workflow (GROMACS 2023, LAMMPS/ReaxFF,
-        CP2K 2024, Gaussian 16 for RESP charges, MS-EVB for proton transport) is set up and
-        benchmarked on the baseline SPAES/PIN. On the experimental side, beyond the existing
-        FE-SEM, EDX, and AFM, the study integrates SAXS, TEM tomography, and PALS so that
-        channel geometry can be measured, not just imaged. SAXS gives the ionic-cluster
-        spacing and channel width; TEM tomography reconstructs the 3D connectivity and
-        tortuosity; PALS probes the free-volume/void size. Together these convert the
-        qualitative AFM picture (Fig. 6 of the reference study) into quantitative inputs and
-        validation targets for the MD model, directly serving Gap 1.
+        infrastructure. On the MD side, the Japanese team (Tohoku University, Mabuchi
+        Laboratory) sets up and benchmarks the GPU HPC workflow (GROMACS 2023, LAMMPS/ReaxFF,
+        CP2K 2024, Gaussian 16 for RESP charges, EVB for proton transport) on the baseline
+        SPAES/PIN. On the experimental side, the Indonesian team, beyond the existing FE-SEM,
+        EDX, and AFM, integrates SAXS, TEM tomography, and PALS so that channel geometry can
+        be measured, not just imaged. SAXS gives the ionic-cluster spacing and channel width;
+        TEM tomography reconstructs the 3D connectivity and tortuosity; PALS probes the
+        free-volume/void size. Together these convert the qualitative AFM picture (Fig. 6 of
+        the reference study) into quantitative inputs and validation targets for the MD model,
+        directly serving Gap 1.
 
-10 | Panduan Hibah RKI EQUITY 2025
+10 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-    B.  MD-Based Mechanistic Modelling of Proton Selectivity (Gap 1)
-            This work package attacks the first author-stated gap: the absence of a
-        predictive model. Atomistic SPAES/water/ion systems are built and equilibrated, and
-        production MD quantifies the hydrophilic-channel morphology (width, branching,
-        tortuosity, connectivity). Proton transport is computed with MS-EVB (cross-checked by
+    B.  MD-Based Mechanistic Modelling of Proton Selectivity (Gap 1) - Japanese team
+            This work package, led by the Japanese team (Tohoku University, Mabuchi
+        Laboratory), attacks the first author-stated gap: the absence of a predictive model.
+        Atomistic SPAES/water/ion systems are built and equilibrated, and production MD
+        quantifies the hydrophilic-channel morphology (width, branching, tortuosity,
+        connectivity). Proton transport is computed with the EVB method (cross-checked by
         AIMD in CP2K), and the permeation free energy of each competing cation (Na+, Mg2+,
         Ca2+) is obtained by umbrella sampling. From these, the proton transport number (t+)
         and cation crossover are predicted directly from channel geometry. A continuum
         Nernst-Planck/Poisson-Boltzmann model is then fitted to the MD outputs to allow fast
         engineering-scale prediction.
-            The MD predictions are validated against the experimental ground truth: the model
-        must reproduce the reference benchmarks—t+ = 0.96 and the 3-10-fold cation-crossover
-        reduction—from geometry alone, and must then predict the transport of new variants
-        before they are measured. This converts the qualitative "narrower, more branched,
-        more tortuous channels" explanation into a quantitative structure-property
-        relationship.
+            The MD predictions are validated against the experimental ground truth provided by
+        the Indonesian team: the model must reproduce the reference benchmarks—t+ = 0.96 and
+        the 3-10-fold cation-crossover reduction—from geometry alone, and must then predict the
+        transport of new variants before they are measured. This converts the qualitative
+        "narrower, more branched, more tortuous channels" explanation into a quantitative
+        structure-property relationship.
 
         [Figure 3. MD workflow and validation against experiment]
         --------------------------------------------------------------------------
         | (a) Atomistic SPAES model at target DS/IEC + water + ions.              |
         | (b) Equilibration (NVT->NPT) -> production MD (NPT, 298-353 K).         |
-        | (c) MS-EVB proton hopping + cation PMF (umbrella sampling/WHAM).        |
+        | (c) EVB proton hopping + cation PMF (umbrella sampling/WHAM).           |
         | (d) Predicted t+ and cation crossover vs. measured (target: reproduce   |
         |     t+ = 0.96 and the 3-10-fold crossover drop from geometry alone).    |
         --------------------------------------------------------------------------
 
-    C.  MD-Guided Parametric Optimization of the Channels (Gap 2)
-            This work package attacks the second author-stated gap: the channels have only
-        been tested at a single DS (100%) and IEC (>1.75 meq/mg). MD is used to screen a
-        design space of DS, IEC, and side-chain chemistry (hydroxyl side groups after Kwon
-        et al. [34]; n-BuOH self-organization after the modified SPEEK of ref [35]). For each
+    C.  MD-Guided Parametric Optimization of the Channels (Gap 2) - joint
+            This work package, led by the Japanese team (MD screening) with the Indonesian
+        team (synthesis), attacks the second author-stated gap: the channels have only been
+        tested at a single DS (100%) and IEC (>1.75 meq/mg). MD is used to screen a design
+        space of DS, IEC, and side-chain chemistry (hydroxyl side groups after Kwon et al.
+        [34]; n-BuOH self-organization after the modified SPEEK of ref [35]). For each
         candidate, MD predicts water uptake, hydrophilic-domain morphology, proton
         conductivity, and selectivity, revealing the trade-offs against mechanical strength.
         The most promising candidates that define the DS/IEC "sweet spot" are then handed to
-        Kolon for synthesis and to the experimental team for confirmation.
+        the Indonesian team for synthesis and experimental confirmation.
 
-11 | Panduan Hibah RKI EQUITY 2025
+11 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -484,35 +505,36 @@ PAGE 12
         |   confirmation of selected variants.                                   |
         --------------------------------------------------------------------------
 
-    D.  Experimental Synthesis, Fabrication, and Closed-Loop Validation
-            The final work package on the pengusul side realises and tests the MD-recommended
-        formulations. Kolon synthesises the selected DS/IEC and side-chain variants; each is
+    D.  Experimental Synthesis, Fabrication, and Closed-Loop Validation - Indonesian team
+            The final work package realises and tests the MD-recommended formulations. The
+        Indonesian team synthesises the selected DS/IEC and side-chain variants; each is
         fabricated into a SPAES/PIN composite (Section 3.2) and characterised for structure
         (SAXS/TEM/PALS/AFM), mechanical strength (Instron 5967), transport (t+, cation and gas
         crossover, proton conductivity), and confirmatory MEC hydrogen production. Measured
-        values are compared blind against the MD predictions to quantify predictive accuracy
-        and to refine the force-field parameters where needed. The outcome is a validated,
-        closed MD-plus-experiment framework and documented design guidelines that close both
-        author-stated gaps.
+        values are compared blind against the Japanese team's MD predictions to quantify
+        predictive accuracy and to refine the force-field parameters where needed. The outcome
+        is a validated, closed MD-plus-experiment framework and documented design guidelines
+        that close both author-stated gaps.
 
-(b) Pelaksanaan penelitian di PT-Mitra (maksimum 1 halaman tiap peneliti mitra)
+(b) Pelaksanaan penelitian di tiap tim (maksimum 1 halaman tiap tim)
 
-    1)  Korea Maritime and Ocean University (Bioelectrochemical Systems Group)
-            The first collaboration is with Dr. Sung-Gwan Park of the Department of
-        Environmental Engineering, Korea Maritime and Ocean University. His expertise covers
-        microbial electrolysis cells, bioelectrochemical systems, and mass transport across
-        proton exchange membranes, with a strong track record in cation-crossover and
-        proton-transport analysis. With this background, Dr. Park will lead the ground-truth
-        transport testing that validates the MD model for Gap 1.
-            This collaboration focuses on the experiments that anchor the simulations: proton
-        transport number (two-chambered cell with Ag/AgCl reference electrode, Keithley 2700
-        multimeter), cation crossover (three-chambered cell, ICS5000 ion chromatography), and
-        proton conductivity (two-probe electrochemical impedance spectroscopy), plus
-        confirmatory MEC hydrogen-production tests. Dr. Park will design the validation
-        experiments so that each MD-predicted quantity has a matched, accurate measurement,
-        and will assess how the optimized variants behave under MEC-relevant conditions.
+    1)  Tim Indonesia - Universitas Indonesia & Institut Pertanian Bogor
+        (experimental research in Indonesia)
+            The Indonesian team performs all experimental research in Indonesia. It is led by
+        the Principal Investigator, Dr.Eng. Obie Farobie, M.Si. (Associate Professor, Institut
+        Pertanian Bogor), together with the Co-Principal Investigator, Prof. Nassrudin Annas
+        (Universitas Indonesia), and members of the Energy and Environmental Research Group of
+        Universitas Indonesia. Their expertise covers renewable energy, membrane and
+        thermofluid systems, and molecular-scale characterization, providing the experimental
+        foundation that anchors and validates the MD model for Gap 1.
+            This collaboration focuses on the experiments that anchor the simulations: membrane
+        synthesis and fabrication, structural characterization (FE-SEM, EDX, AFM, SAXS, TEM
+        tomography, PALS), mechanical testing (Instron 5967), transport testing (proton
+        transport number with an Ag/AgCl reference electrode and a Keithley 2700 multimeter;
+        cation crossover by ICS5000 ion chromatography; proton conductivity by two-probe
+        impedance spectroscopy), and confirmatory MEC hydrogen-production tests.
 
-12 | Panduan Hibah RKI EQUITY 2025
+12 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -520,31 +542,31 @@ PAGE 13
 ================================================================================
 
             In the next stage, selected optimized variants undergo confirmatory transport
-        testing. Their measured t+ and crossover values are compared blind against the MD
-        predictions to quantify predictive accuracy—the decisive test of whether the
-        qualitative narrative has been replaced by a predictive, molecular-scale model.
+        testing by the Indonesian team. Their measured t+ and crossover values are compared
+        blind against the MD predictions to quantify predictive accuracy—the decisive test of
+        whether the qualitative narrative has been replaced by a predictive, molecular-scale
+        model. Research capacity building is embedded in the programme: three Universitas
+        Indonesia members—Muhammad Robi Harahap, S.T. (thesis on molecular dynamics of
+        palm-oil-waste PCM nanocomposites), Mahendra Dharma Putra (MD of nanodroplet
+        evaporation and impact of water and ethanol-water mixtures for high cooling flux), and
+        Syadina Aliy (MD of temperature-dependent CO2 capture by cholinium amino-acid ionic
+        liquids)—will study for a master's degree at Tohoku University during the first two
+        years of the joint programme and then continue to a doctoral degree at Tohoku, while
+        Erdiyanto Munandar, S.T., M.T. pursues his doctoral study at Universitas Indonesia.
 
-    2)  Kolon Central Research Park (Green Material Research Group)
-            The second collaboration is with Dr. Mooseok Lee of the Green Material Research
-        Group, Kolon Central Research Park. His expertise covers advanced polymer synthesis,
-        sulfonated poly(arylene ether sulfone) polymerization, and composite membrane
-        engineering, with a strong track record in controlling the degree of sulfonation and
-        ion exchange capacity of ionomers. With this background, Dr. Lee will synthesise the
-        MD-recommended structures that make the optimization in Gap 2 possible.
-            This collaboration focuses on synthesising a controlled family of SPAES ionomers
-        spanning a DS/IEC range (around and beyond the baseline > 1.75 meq/mg, DS 100%),
-        together with side-chain-modified variants—hydroxyl side groups after Kwon et al. [34]
-        and n-BuOH self-organization after the modified SPEEK of ref [35]. Guided by the MD
-        screening (work package C), Dr. Lee will tune the ionomer chemistry and the
-        electrospun polyimide nanofiber support (~200 nm) to deliberately narrow and branch
-        the hydrophilic channels, and will assess how each modification changes the channel
-        geometry (verified by SAXS/TEM at KMOU) and the resulting selectivity and mechanical
-        strength.
-            In the next stage, the most promising variants defining the DS/IEC "sweet spot"
-        are scaled for confirmatory testing, and their reproducibility and stability are
-        assessed to ensure the optimized formulations are practical. This provides both the
-        material design space and the validation samples that connect Gap 2 (optimization) to
-        Gap 1 (MD model).
+    2)  Tim Jepang - Tohoku University, Mabuchi Laboratory
+        (molecular dynamics simulation)
+            The Japanese team performs the molecular dynamics simulations. It is led by the
+        Co-Principal Investigator, Prof. Mabuchi (Tohoku University), together with members of
+        the Mabuchi Laboratory. Prof. Mabuchi has developed a membrane-based empirical valence
+        bond (EVB) molecular dynamics method that is internationally recognised; this EVB method
+        is central to resolving Grotthuss proton transport in the SPAES channels.
+            This collaboration focuses on the MD work that predicts selectivity: building and
+        equilibrating the atomistic SPAES/water/ion systems, computing proton transport by the
+        EVB method (cross-checked by AIMD) and cation permeation free energy by umbrella
+        sampling, and predicting the proton transport number and cation crossover from channel
+        geometry (Gap 1). The team also screens the DS/IEC and side-chain design space to
+        recommend the "sweet spot" formulations for the Indonesian team to synthesise (Gap 2).
 
 5   DAFTAR PUSTAKA
 
@@ -554,17 +576,17 @@ Chae, K.-J., Choi, M.-J., Lee, J., Ajayi, F. F., & Kim, I. S. (2008). Biohydroge
 Rozendal, R., Hamelers, H., Euverink, G., Metz, S., & Buisman, C. (2006). Principle and perspectives
         of hydrogen production through biocatalyzed electrolysis. International Journal of Hydrogen
         Energy, 31, 1632-1640.
-Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (2014). Sulfonated
-        polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
-        nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
 
-13 | Panduan Hibah RKI EQUITY 2025
+13 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 14
 ================================================================================
 
+Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (2014). Sulfonated
+        polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
+        nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
 Chae, K. J., Choi, M., Ajayi, F. F., Park, W., Chang, I. S., & Kim, I. S. (2008). Mass transport
         through a proton exchange membrane (Nafion) in microbial fuel cells. Energy & Fuels, 22,
         169-176.
@@ -597,19 +619,21 @@ Devanathan, R., Venkatnathan, A., & Dupuis, M. (2007). Atomistic simulation of N
         Effect of hydration on membrane nanostructure. Journal of Physical Chemistry B, 111, 8069-8079.
 Karo, J., Aabloo, A., Thomas, J. O., & Brandell, D. (2010). Molecular dynamics modeling of proton
         transport in Nafion and Hyflon nanostructures. Journal of Physical Chemistry B, 114, 6056-6064.
-Knox, C. K., & Voth, G. A. (2010). Probing selected morphological models of hydrated Nafion using
-        large-scale molecular dynamics simulations. Journal of Physical Chemistry B, 114, 3205-3218.
 
-14 | Panduan Hibah RKI EQUITY 2025
+14 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 15
 ================================================================================
 
+Knox, C. K., & Voth, G. A. (2010). Probing selected morphological models of hydrated Nafion using
+        large-scale molecular dynamics simulations. Journal of Physical Chemistry B, 114, 3205-3218.
 Wu, Y., Chen, H., Wang, F., Paesani, F., & Voth, G. A. (2008). An improved multistate empirical
         valence bond model for aqueous proton solvation and transport. Journal of Physical Chemistry B,
         112, 467-482.  [MS-EVB proton transport]
+Warshel, A., & Weiss, R. M. (1980). An empirical valence bond approach for comparing reactions in
+        solutions and in enzymes. Journal of the American Chemical Society, 102, 6218-6226.  [EVB origin]
 Abraham, M. J., Murtola, T., Schulz, R., Pall, S., Smith, J. C., Hess, B., & Lindahl, E. (2015).
         GROMACS: high performance molecular simulations through multi-level parallelism from laptops to
         supercomputers. SoftwareX, 1-2, 19-25.  [GROMACS]
@@ -631,12 +655,12 @@ Kumar, S., Rosenberg, J. M., Bouzida, D., Swendsen, R. H., & Kollman, P. A. (199
 Note: This reference set is focused on the two author-stated gaps and the combined MD-plus-experiment
 approach. It combines the membrane and MEC literature carried over from the SPAES/PIN reference study
 (Chae et al., Mauritz & Moore, Shin et al., Wei et al., Kwon et al., Wang et al., Park et al./Nature)
-with molecular-dynamics and transport-modelling foundations (MS-EVB proton transport; GROMACS, LAMMPS,
-CP2K, ReaxFF engines; OPLS-AA and SPC/E; umbrella sampling/WHAM; Manning-Donnan and Grotthuss theory)
-required to build and validate the MD model of Gap 1. The full 39-reference list of the source paper is
-preserved in the companion proposal (Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt).
+with molecular-dynamics and transport-modelling foundations (EVB/MS-EVB proton transport; GROMACS,
+LAMMPS, CP2K, ReaxFF engines; OPLS-AA and SPC/E; umbrella sampling/WHAM; Manning-Donnan and Grotthuss
+theory) required to build and validate the MD model of Gap 1. The full 39-reference list of the source
+paper is preserved in the companion proposal (Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt).
 
-15 | Panduan Hibah RKI EQUITY 2025
+15 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -660,15 +684,17 @@ PAGE 16
 |    |                                 |             | selectivity narrative into a predictive  |
 |    |                                 |             | tool.                                    |
 +----+---------------------------------+-------------+------------------------------------------+
-| 3  | Pembinaan peer / involvement of | 2 students  | At least one early-career researcher who |
-|    | early career researchers        |             | has just obtained the doctoral degree    |
-|    |                                 |             | will get involved; at least two students |
-|    |                                 |             | (one computational, one experimental)    |
-|    |                                 |             | will also join this project.             |
+| 3  | Pembinaan / research capacity   | 3 students  | Three Universitas Indonesia members      |
+|    | building (Tohoku University)     | + 1 doctoral| (Robi Harahap, Mahendra Dharma Putra,    |
+|    |                                 |             | Syadina Aliy) undertake master's then    |
+|    |                                 |             | doctoral study at Tohoku University; one |
+|    |                                 |             | doctoral candidate (Erdiyanto Munandar)  |
+|    |                                 |             | is involved at Universitas Indonesia.    |
 +----+---------------------------------+-------------+------------------------------------------+
-| 4  | Networking internasional        | 1 network   | International collaboration between KMOU  |
-|    |                                 |             | (MD + characterization) and Kolon        |
-|    |                                 |             | (parametric synthesis) maintained.       |
+| 4  | Networking internasional        | 1 network   | International collaboration between the  |
+|    | (JST-BRIN Nexus)                |             | Indonesian team (UI & IPB, experiments)  |
+|    |                                 |             | and the Japanese team (Tohoku, Mabuchi   |
+|    |                                 |             | Lab, MD) maintained.                     |
 +----+---------------------------------+-------------+------------------------------------------+
 
         Success criterion for Gap 1: the MD model reproduces the reference benchmarks (proton
@@ -680,7 +706,7 @@ before measurement.
 with an identified "sweet spot" formulation that meets or exceeds the baseline selectivity
 (t+ >= 0.96) while retaining tensile strength > 40 MPa from the polyimide nanofiber reinforcement.
 
-16 | Panduan Hibah RKI EQUITY 2025
+16 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -692,16 +718,17 @@ PAGE 17
         Table 2. Timeline of proposed research
 +-----------------------------------------------+---------------------------------------+
 |                                               |            Month (1-12)               |
-| Activity                                      | 1  2  3  4  5  6  7  8  9  10 11 12    |
+| Activity (team)                               | 1  2  3  4  5  6  7  8  9  10 11 12    |
 +-----------------------------------------------+---------------------------------------+
-| A. Build MD platform + upgrade characterization| X  X  X                               |
-|    (SAXS, TEM tomography, PALS)               |                                       |
-| B. MD mechanistic model of selectivity (Gap 1)|       X  X  X  X  X                    |
-| C. MD-guided DS/IEC optimization (Gap 2)      |             X  X  X  X                 |
+| A. Build MD platform (JP) + upgrade            | X  X  X                               |
+|    characterization (ID)                      |                                       |
+| B. MD mechanistic model of selectivity (JP)   |       X  X  X  X  X                    |
+| C. MD-guided DS/IEC optimization (JP+ID)      |             X  X  X  X                 |
 | D. Synthesis, fabrication & closed-loop        |                   X  X  X  X  X        |
-|    experimental validation                    |                                       |
-| Publication & reporting                       |                            X  X  X     |
+|    experimental validation (ID)               |                                       |
+| Publication & reporting (JP+ID)               |                            X  X  X     |
 +-----------------------------------------------+---------------------------------------+
+        (JP = Japanese team, Tohoku University; ID = Indonesian team, UI & IPB)
 
 8   PETA JALAN (ROAD MAP) RISET
 
@@ -724,7 +751,7 @@ phase (2032-2036) uses the model to build a membrane library, scale up the best 
 deploy them in real MECs and other PEM applications. This roadmap positions MD-guided design as a
 scalable, sustainable path aligned with long-term technological goals.
 
-17 | Panduan Hibah RKI EQUITY 2025
+17 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -733,31 +760,32 @@ PAGE 18
 
         [Figure 6. Research plan for the current study]
         --------------------------------------------------------------------------
-        | Year 1: Build MD/HPC platform + facility upgrade (SAXS/TEM/PALS);       |
-        |         baseline SPAES/PIN MD model + re-characterisation; first DS/IEC |
-        |         synthesis batch (Kolon); MD mechanistic model (MS-EVB + PMF).   |
-        | Year 2: MD screening of side-chain variants + full DS/IEC design map;   |
-        |         synthesis of the "sweet spot" variants; closed-loop experimental|
-        |         validation (t+, crossover, MEC); blind MD-vs-experiment test.   |
+        | Year 1: Build MD/HPC platform (JP) + facility upgrade (ID, SAXS/TEM/    |
+        |         PALS); baseline SPAES/PIN MD model + re-characterisation; first |
+        |         DS/IEC synthesis batch (ID); MD mechanistic model (EVB + PMF).  |
+        | Year 2: MD screening of side-chain variants (JP) + full DS/IEC design   |
+        |         map; synthesis of the "sweet spot" variants (ID); closed-loop   |
+        |         experimental validation (ID); blind MD-vs-experiment test.      |
         --------------------------------------------------------------------------
 
         This figure presents a two-year research plan tailored to the two gaps. In Year 1, the
-focus is on building the MD/HPC platform, upgrading the characterization facility, constructing and
-benchmarking the baseline SPAES/PIN MD model, producing the first family of DS/IEC variants, and
-formulating the mechanistic model (MS-EVB proton transport + cation PMF). In Year 2, MD screens
-side-chain-modified variants to complete the design map (Gap 2), Kolon synthesises the "sweet spot"
-variants, and the experimental team closes the loop by validating the MD predictions against
-measured transport (Gap 1), including a blind prediction test on new variants. This structured plan
-ensures systematic progression from simulation and synthesis to a validated, predictive framework.
+Japanese team builds the MD/HPC platform and constructs and benchmarks the baseline SPAES/PIN MD
+model, while the Indonesian team upgrades the characterization facility, produces the first family
+of DS/IEC variants, and re-characterises the baseline; the mechanistic model (EVB proton transport
++ cation PMF) is formulated. In Year 2, the Japanese team screens side-chain-modified variants to
+complete the design map (Gap 2), the Indonesian team synthesises the "sweet spot" variants, and the
+experimental team closes the loop by validating the MD predictions against measured transport (Gap
+1), including a blind prediction test on new variants. This structured plan ensures systematic
+progression from simulation and synthesis to a validated, predictive framework.
 
 9   USULAN BIAYA
 
         Table 3 shows the funding allocation for research over a one year period, with a total
 proposed amount of Rp 200.000.000,00. The budget covers both the computational (HPC compute, MD
-software, GPU workstation) and the experimental (materials, characterization, transport testing)
-pillars of the combined MD-plus-experiment approach.
+software, GPU workstation - Japanese team) and the experimental (materials, characterization,
+transport testing - Indonesian team) pillars of the combined MD-plus-experiment approach.
 
-18 | Panduan Hibah RKI EQUITY 2025
+18 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -769,9 +797,8 @@ PAGE 19
 | No | Item                                | Unit  | Number | Unit price  | Total cost  |
 +----+-------------------------------------+-------+--------+-------------+-------------+
 |    | Bahan dan peralatan (eksperimen)    |       |        |             |             |
-| 1  | SPAES Ionomer family (Kolon, South  | Set   |   1    |  12.000.000 |  12.000.000 |
-|    | Korea, varied DS/IEC, baseline      |       |        |             |             |
-|    | >1.75 meq/mg, DS 100%)              |       |        |             |             |
+| 1  | SPAES base resin (Kolon, South      | Set   |   1    |  12.000.000 |  12.000.000 |
+|    | Korea) + DS/IEC synthesis reagents  |       |        |             |             |
 | 2  | Side-chain modifiers (hydroxyl;     | Paket |   1    |   6.000.000 |   6.000.000 |
 |    | n-BuOH self-organization)           |       |        |             |             |
 | 3  | N,N-dimethylacetamide (DMAc)        | Set   |   1    |   4.000.000 |   4.000.000 |
@@ -790,12 +817,12 @@ PAGE 19
 |    | (3D tortuosity/connectivity)        |       |        |             |             |
 | 10 | Positron Annihilation Lifetime      | Paket |   1    |   8.000.000 |   8.000.000 |
 |    | Spectroscopy (PALS) - free volume   |       |        |             |             |
-|    | Komputasi (simulasi MD)             |       |        |             |             |
+|    | Komputasi (simulasi MD - Tim Jepang)|       |        |             |             |
 | 11 | GPU-HPC compute allocation          | Paket |   1    |  34.000.000 |  34.000.000 |
 |    | (GROMACS/LAMMPS/CP2K, A100 nodes)   |       |        |             |             |
 | 12 | GPU workstation node (MD/analysis)  | Unit  |   1    |  20.000.000 |  20.000.000 |
 | 13 | Gaussian 16 license (RESP charges)  | Unit  |   1    |   8.000.000 |   8.000.000 |
-|    | Instrumentasi transport             |       |        |             |             |
+|    | Instrumentasi transport (eksperimen)|       |        |             |             |
 | 14 | Multimeter, 2700 Data Acquisition   | Unit  |   1    |  10.000.000 |  10.000.000 |
 |    | Series (Keithley, USA)              |       |        |             |             |
 | 15 | Ag/AgCl Reference Electrode         | Set   |   2    |   3.000.000 |   6.000.000 |
@@ -803,7 +830,7 @@ PAGE 19
 | 16 | Gastight Syringe (Hamilton          | Unit  |   2    |   1.500.000 |   3.000.000 |
 |    | SampleLock #1002, 2.5 mL, USA)      |       |        |             |             |
 |    | Mobilisasi                          |       |        |             |             |
-| 1  | Busan - Yongin (KMOU-Kolon)         | Paket |   2    |   4.500.000 |   9.000.000 |
+| 1  | Indonesia - Japan (UI/IPB-Tohoku)   | Paket |   2    |   4.500.000 |   9.000.000 |
 | 2  | Domestic conference travel          | Paket |   1    |   4.000.000 |   4.000.000 |
 |    | Lainnya                             |       |        |             |             |
 | 1  | Honorarium asisten                  | Bulan |  10    |   1.200.000 |  12.000.000 |
@@ -814,17 +841,17 @@ PAGE 19
 |    | Total keseluruhan                   |       |        |    Rp       | 200.000.000 |
 +----+-------------------------------------+-------+--------+-------------+-------------+
 
-19 | Panduan Hibah RKI EQUITY 2025
+19 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-        Note on materials and equipment (name, series, origin). Experimental, as used in the
-source paper and carried into this study:
-        - SPAES ionomer: proton-conducting polymer, IEC > 1.75 meq/mg, DS 100%, polymerized by
-          Kolon (South Korea).
+        Note on materials and equipment (name, series, origin). Experimental (Indonesian team),
+as used in the source paper and carried into this study:
+        - SPAES ionomer: proton-conducting polymer, IEC > 1.75 meq/mg, DS 100%; base resin
+          polymerized by Kolon (South Korea).
         - N,N-dimethylacetamide (DMAc): casting solvent for the SPAES solution.
         - Polyimide nanofiber (PIN): electrospun support, average fiber thickness ~200 nm.
         - Nafion-211: perfluorosulfonic acid control membrane, DuPont (USA).
@@ -840,44 +867,67 @@ source paper and carried into this study:
         - MEC electrodes: carbon felt anode (25 cm2); Pt-loaded perforated titanium plate
           cathode (0.5 mg Pt/cm2).
         - New characterization: SAXS, TEM tomography, and PALS (quantitative channel geometry).
-        Computational (molecular dynamics):
+        Computational - molecular dynamics (Japanese team, Tohoku University):
         - Classical MD: GROMACS 2023 (GPU); force fields OPLS-AA/GAFF; water SPC/E.
         - Reactive / AIMD: LAMMPS (ReaxFF); CP2K 2024 (DFT-MD).
-        - Proton transport: multistate empirical valence bond (MS-EVB).
+        - Proton transport: membrane-based EVB method (Prof. Mabuchi), multistate form (MS-EVB).
         - Partial charges: RESP from HF/6-31G* (Gaussian 16).
         - Free energy: umbrella sampling + WHAM; analysis with MDAnalysis and VMD.
-        - Hardware: GPU HPC cluster (NVIDIA A100 nodes).
+        - Hardware: GPU HPC cluster, Mabuchi Laboratory, Tohoku University (NVIDIA A100 nodes).
 
 10  CV PENELITI
         dilengkapi dengan screenshot data H-index
 
-    1.  Nama pengusul  : Prof. Kyu-Jung Chae (Korea Maritime and Ocean University)
+    1.  Principal Investigator (Tim Indonesia)
+                       : Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor)
         Screenshot     :
-    2.  Nama partner 1 : Dr. Sung-Gwan Park (Korea Maritime and Ocean University)
+    2.  Co-Principal Investigator (Tim Indonesia)
+                       : Prof. Nassrudin Annas (Universitas Indonesia)
         Screenshot     :
-    3.  Nama partner 2 : Dr. Mooseok Lee (Kolon Central Research Park)
+    3.  Co-Principal Investigator (Tim Jepang)
+                       : Prof. Mabuchi (Tohoku University)
         Screenshot     :
 
-20 | Panduan Hibah RKI EQUITY 2025
+20 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
 PAGE 21
 ================================================================================
 
-    4.  Nama pengusul  : Prof. Kyu-Jung Chae
-        Profile        : Department of Environmental Engineering, College of Engineering,
-                         Korea Maritime and Ocean University, 727 Taejong-ro, Yeongdo-gu,
-                         Busan 606-791, South Korea (e-mail: ckjdream@kmou.ac.kr)
-    5.  Nama partner 1 : Dr. Sung-Gwan Park
-        Profile        : Department of Environmental Engineering, College of Engineering,
-                         Korea Maritime and Ocean University, Busan, South Korea
-    6.  Nama partner 2 : Dr. Mooseok Lee
-        Profile        : Green Material Research Group, Kolon Central Research Park, 207-2,
-                         Mabuk-dong, Giheung-gu, Yongin-si, Gyeonggi 446-797, South Korea
-                         (e-mail: leems@kolon.com)
+    4.  Principal Investigator : Dr.Eng. Obie Farobie, M.Si.
+        Profile        : Associate Professor, Institut Pertanian Bogor (IPB), Indonesia.
+                         Google Scholar:
+                         https://scholar.google.com/citations?user=QgeXR-QAAAAJ&hl=en
+    5.  Co-Principal Investigator : Prof. Nassrudin Annas
+        Profile        : Universitas Indonesia; Energy and Environmental Research Group.
+                         Google Scholar:
+                         https://scholar.google.co.id/citations?user=_Lz1fSAAAAAJ&hl=id
+    6.  Co-Principal Investigator : Prof. Mabuchi
+        Profile        : Tohoku University, Mabuchi Laboratory, Japan. Developer of the
+                         internationally recognised membrane-based EVB molecular dynamics
+                         method for proton transport in membranes.
 
-21 | Panduan Hibah RKI EQUITY 2025
+    Team members (Energy and Environmental Research Group, Universitas Indonesia):
+        - Erdiyanto Munandar, S.T., M.T. - doctoral candidate, Universitas Indonesia
+          (dissertation: Design of Adsorption Contactor for CO2 Direct Air Capture using
+          Artificial Intelligence and Multiscale Modeling; master's thesis: Optimization of a
+          Polygeneration System on Nusalaut Island - Exergoeconomic and Exergoenvironmental
+          Approaches).
+    Research capacity building (master's for the first 2 years, then doctoral, at Tohoku
+    University):
+        - Muhammad Robi Harahap, S.T. - B.Eng. Mechanical Engineering, Universitas Indonesia
+          (thesis: The Effect of Oil Palm Empty Fruit Bunch (OPEFB) Biochar Mass Fraction on
+          the Thermal Conductivity of Palm Oil Waste-Based PCM Nanocomposite using Molecular
+          Dynamics Simulation).
+        - Mahendra Dharma Putra - Mechanical Engineering, Universitas Indonesia (Molecular
+          Dynamics of evaporation and collision of water and ethanol-water nanodroplets on hot
+          surfaces for high cooling flux applications).
+        - Syadina Aliy - Mechanical Engineering, Universitas Indonesia (Molecular Dynamics
+          insights into temperature-dependent CO2 capture by cholinium amino-acid ionic
+          liquids; structural and transport properties from 288 K to 318 K).
+
+21 | Proposal JST-BRIN Nexus 2025
 
 
 ================================================================================
@@ -895,9 +945,10 @@ Rencana Anggaran Biaya (RAB)
 
 Judul    : Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
            Membranes for Next Generation Microbial Electrolysis Cells (MD + experiments)
-Pengusul : Prof. Kyu-Jung Chae
-Skema    : Skema A
-Fakultas : College of Engineering
+Pengusul : Dr.Eng. Obie Farobie, M.Si. (PI, Tim Indonesia)
+Skema    : JST-BRIN Nexus Joint Research Programme
+Institusi: Institut Pertanian Bogor / Universitas Indonesia (Tim Indonesia);
+           Tohoku University (Tim Jepang)
 
 Rekapitulasi RAB
 +-----------------------------------------------+------------------+
@@ -926,11 +977,10 @@ Rincian RAB
 | SUBTOTAL (Rp)                                                                                12.000.000 |
 +--------------------------------------------------------------------------------------------------------+
 
-Biaya Bahan Habis Pakai (eksperimen) - Gap 2 sintesis & Gap 1 karakterisasi
+Biaya Bahan Habis Pakai (eksperimen - Tim Indonesia) - Gap 2 sintesis & Gap 1 karakterisasi
 +--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SPAES Ionomer family     | Keluarga polimer DS/IEC       | 1 Set     |        |  12.000.000 |  12.000.000 |
-| (Kolon, South Korea)     | bervariasi untuk pemetaan     |           |        |             |             |
-|                          | ruang desain saluran proton.  |           |        |             |             |
+| SPAES base resin (Kolon) | Resin dasar + reagen sintesis | 1 Set     |        |  12.000.000 |  12.000.000 |
+| + reagen sintesis DS/IEC | keluarga DS/IEC bervariasi.   |           |        |             |             |
 | Side-chain modifiers     | Modifikasi rantai samping     | 1 Paket   |        |   6.000.000 |   6.000.000 |
 | (hydroxyl; n-BuOH)       | (Kwon et al. [34]; SPEEK [35])|           |        |             |             |
 | N,N-dimethylacetamide    | Pelarut casting larutan SPAES.| 1 Set     |        |   4.000.000 |   4.000.000 |
@@ -955,7 +1005,7 @@ Biaya Bahan Habis Pakai (eksperimen) - Gap 2 sintesis & Gap 1 karakterisasi
 PAGE 24
 ================================================================================
 
-Biaya Komputasi (simulasi MD) - Gap 1 model & Gap 2 screening
+Biaya Komputasi (simulasi MD - Tim Jepang) - Gap 1 model & Gap 2 screening
 +--------------------------+-------------------------------+-----------+--------+-------------+-------------+
 | Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
 +--------------------------+-------------------------------+-----------+--------+-------------+-------------+
@@ -972,24 +1022,10 @@ Biaya Komputasi (simulasi MD) - Gap 1 model & Gap 2 screening
 | SUBTOTAL (Rp)                                                                                62.000.000 |
 +--------------------------------------------------------------------------------------------------------+
 
-Instrumentasi transport (dalam Bahan Habis Pakai/Operasional)
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Multimeter, 2700 Data    | Beda potensial (2 s interval) | 1 Unit    |        |  10.000.000 |  10.000.000 |
-| Acquisition Series       | untuk proton transport number.|           |        |             |             |
-| (Keithley, USA)          |                               |           |        |             |             |
-| Ag/AgCl Reference        | Elektroda referensi           | 2 Set     |        |   3.000.000 |   6.000.000 |
-| Electrode (Microelec-    | (+0.195 V vs. NHE).           |           |        |             |             |
-| trode, USA)              |                               |           |        |             |             |
-| Gastight Syringe         | Sampling gas MEC              | 2 Unit    |        |   1.500.000 |   3.000.000 |
-| (Hamilton #1002, 2.5 mL) | (headspace).                  |           |        |             |             |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| (Termasuk dalam Biaya Operasional Lainnya)                                                   19.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
 Biaya Perjalanan
 +--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Perjalanan Busan -       | Koordinasi simulasi-sintesis- | 2 Paket   |        |   4.500.000 |   9.000.000 |
-| Yongin (PP)              | karakterisasi dengan Kolon.   |           |        |             |             |
+| Perjalanan Indonesia -   | Koordinasi simulasi (Tohoku) -| 2 Paket   |        |   4.500.000 |   9.000.000 |
+| Japan (UI/IPB - Tohoku)  | eksperimen (Indonesia).       |           |        |             |             |
 | Perjalanan konferensi    | Diseminasi model MD           | 1 Paket   |        |   4.000.000 |   4.000.000 |
 | domestik (PP)            | tervalidasi & peta DS/IEC.    |           |        |             |             |
 +--------------------------+-------------------------------+-----------+--------+-------------+-------------+
@@ -1019,12 +1055,12 @@ Biaya Operasional Lainnya
 | Total Anggaran (Rp)                                                                         200.000.000 |
 +--------------------------------------------------------------------------------------------------------+
 
-Menyetujui,                                            Busan, 29 - 9 - 2025
-Wakil Dekan I Fakultas                                 Periset Utama
+Menyetujui,                                            Bogor, 29 - 9 - 2025
+Pimpinan Institusi / Dekan                             Periset Utama (PI)
                                                        Tanda tangan dan Cap
 
-Prof. ......................                            Prof. Kyu-Jung Chae
-NIP. ......................                             Korea Maritime and Ocean University
+Prof. ......................                            Dr.Eng. Obie Farobie, M.Si.
+NIP. ......................                             Institut Pertanian Bogor
 
 
 ================================================================================
@@ -1043,16 +1079,17 @@ A.1  Author-stated gaps this proposal addresses (closed by MD + experiments)
     explained by the microstructural difference." There is no quantitative transport model
     linking channel geometry to the measured proton transport number (0.96) or the 3-10-fold
     reduction in cation crossover; the explanation is descriptive, not predictive. This
-    proposal closes the gap with MD simulations (MS-EVB proton transport, cation PMF)
-    validated against SAXS/TEM/PALS structure and measured transport.
+    proposal closes the gap with MD simulations (EVB proton transport, cation PMF) by the
+    Japanese team, validated against SAXS/TEM/PALS structure and measured transport by the
+    Indonesian team.
 
     Gap 2 - Proton-transport channels not yet optimized.
-        A single SPAES formulation was used (IEC > 1.75 meq/mg, DS fixed at 100%, polymerized
-    by Kolon). The authors state that "the properties of our developed SPAES/PIN composite
-    membrane could be further improved through the optimization of proton transport channels
-    in SPAES polymer." No parametric study of DS, IEC, or side-chain chemistry was performed.
-    This proposal closes the gap with MD screening of DS/IEC and side-chain variants, confirmed
-    by synthesis (Kolon) and experiment.
+        A single SPAES formulation was used (IEC > 1.75 meq/mg, DS fixed at 100%, base resin
+    polymerized by Kolon). The authors state that "the properties of our developed SPAES/PIN
+    composite membrane could be further improved through the optimization of proton transport
+    channels in SPAES polymer." No parametric study of DS, IEC, or side-chain chemistry was
+    performed. This proposal closes the gap with MD screening of DS/IEC and side-chain variants
+    (Japanese team), confirmed by synthesis and experiment (Indonesian team).
 
 A.2  Baseline measured properties (targets the MD model must reproduce / optimization must beat)
 
