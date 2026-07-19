@@ -2,376 +2,363 @@
 PAGE 1  (COVER)
 ================================================================================
 
-                              PROPOSAL
-              JST-BRIN NEXUS JOINT RESEARCH PROGRAMME
-         (Japan Science and Technology Agency - Badan Riset
-                     dan Inovasi Nasional)
+                    JAPAN - INDONESIA
+              JOINT CALL FOR PROPOSALS on "BIOENERGY"
+        Japan Science and Technology Agency (JST) and
+   The National Research and Innovation Agency of Indonesia (BRIN)
+                    NEXUS / RIIM Kolaborasi - 2026
 
 
-JUDUL PAYUNG PENELITIAN
+RESEARCH TITLE
 Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
-Membranes for Next Generation Microbial Electrolysis Cells
+Membranes for Next-Generation Microbial Electrolysis Cells (Biohydrogen)
 
-SUB - JUDUL PENELITIAN
+RESEARCH SUB-TITLE
 Closing the two gaps of the SPAES/polyimide nanofiber composite membrane by
-combined molecular dynamics simulations (Japanese team) and experiments
-(Indonesian team)
+combined molecular dynamics simulations (Japan side) and experiments
+(Indonesia side)
+
+Research field: Bioenergy
+Subtopic(s): [X] Bioenergy production using biology-based methods
+             [X] Bioenergy production using hybrid and advanced methods
 
 
-Principal Investigator (Tim Indonesia):
-    Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor)
-Co-Principal Investigator (Tim Indonesia):
+Japan-based Principal Investigator:
+    Prof. Mabuchi (Tohoku University, Mabuchi Laboratory) - molecular dynamics
+Indonesia-based Principal Investigator:
+    Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor) - experiments
+Indonesia-based Co-Principal Investigator:
     Prof. Nassrudin Annas (Universitas Indonesia)
-Co-Principal Investigator (Tim Jepang):
-    Prof. Mabuchi (Tohoku University)
-
-Tim Indonesia (experimental research, Indonesia):
-    Energy and Environmental Research Group, Universitas Indonesia; and
-    Institut Pertanian Bogor
-Tim Jepang (molecular dynamics simulation):
-    Mabuchi Laboratory, Tohoku University
 
 
-     UNIVERSITAS INDONESIA - INSTITUT PERTANIAN BOGOR - TOHOKU UNIVERSITY
-                             September, 2025
+   TOHOKU UNIVERSITY (Japan) - INSTITUT PERTANIAN BOGOR & UNIVERSITAS
+                     INDONESIA (Indonesia)
+             Project duration: 36 months (April 2027 - March 2030)
+                             September, 2026
 
-1 | Proposal JST-BRIN Nexus 2025
+1 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
-PAGE 2  (DAFTAR ISI)
+PAGE 2  (TABLE OF CONTENTS)
 ================================================================================
 
-DAFTAR ISI
-                                                                       Halaman
-1   RINGKASAN PROPOSAL ..................................................... 3
-2   PENDAHULUAN ............................................................ 3
-    2.1  Latar belakang masalah ........................................... 3
-    2.2  Tujuan ........................................................... 7
-3   METODOLOGI ............................................................. 7
-    3.1  Molecular dynamics (MD) simulation methodology ................... 8
-    3.2  Experimental methodology ......................................... 9
-4   RENCANA PENELITIAN .................................................... 10
-5   DAFTAR PUSTAKA ........................................................ 13
-6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 16
-7   JADWAL PELAKSANAAN .................................................... 17
-8   PETA JALAN (ROAD MAP) RISET ........................................... 17
-9   USULAN BIAYA .......................................................... 18
-10  CV PENELITI ........................................................... 20
+TABLE OF CONTENTS
+                                                                          Page
+PART I    GENERAL INFORMATION .......................................... 3
+PART II   ABSTRACT ..................................................... 4
+PART III  RESEARCH TOPIC AND WORK PLAN ................................. 6
+          1  Detailed Description of the Joint Project ................. 6
+             1) Problem statement ..................................... 6
+             2) Expected outcomes ..................................... 7
+             3) S&T challenges and the means and methods to overcome ... 7
+             4) Future prospect of research .......................... 11
+             5) Exchange plan for young researchers .................. 11
+             6) Bibliography ......................................... 12
+          2  Time Schedule and Research Plan ......................... 13
+PART IV    BUDGET DESCRIPTION (JAPAN SIDE) ............................ 15
+PART V     BUDGET DESCRIPTION (INDONESIA SIDE) ....................... 16
+PART VI    RESEARCH PARTICIPANTS ..................................... 18
+PART VII   PERSONAL BACKGROUND INFORMATION ........................... 19
+PART VIII  COMPLIANCE, ETHICS, DATA MANAGEMENT AND ACKNOWLEDGEMENT .... 20
+APPENDIX A BASELINE TARGETS (SOURCE PAPER) ........................... 21
 
-2 | Proposal JST-BRIN Nexus 2025
+2 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-1   RINGKASAN PROPOSAL
+PART I.  GENERAL INFORMATION
 
-        Proton exchange membranes (PEMs) are the heart of microbial electrolysis
-cells (MECs), where they must selectively transport protons while excluding the
-competing cations (Na+, K+, Mg2+, Ca2+) that coexist at concentrations typically
-10^5 times higher than protons. A recent SPAES/polyimide nanofiber (SPAES/PIN)
-composite membrane demonstrated outstanding proton selectivity—proton transport
-number of 0.96 and 3-10-fold lower cation crossover than Nafion-211—yet its authors
-openly acknowledged two unresolved gaps: (i) there is no validated mechanistic model
-that predicts this selectivity, and (ii) the proton-conducting channels of the SPAES
-polymer have not yet been optimized. This project closes both gaps by combining
-molecular dynamics (MD) simulations with experiments. MD builds a molecular-scale,
-mechanistic picture of how protons and competing cations move through the sulfonated
-channels, while experiments provide the nanostructure and transport data that
-calibrate and validate the simulations. The two methods form a closed loop: MD
-predicts, experiments verify, and the validated model is then used to optimize the
-degree of sulfonation (DS), ion exchange capacity (IEC), and side-chain chemistry.
-        The project is a JST-BRIN Nexus joint research programme between an Indonesian
-team, which conducts the experimental research in Indonesia, and a Japanese team at
-Tohoku University, which conducts the molecular dynamics simulations. The Indonesian
-team (Energy and Environmental Research Group, Universitas Indonesia, with Institut
-Pertanian Bogor) leads membrane synthesis, fabrication, nanostructure characterization,
-and transport testing, while the Japanese team (Mabuchi Laboratory, Tohoku University)
-leads the MD simulations using the internationally recognised EVB method developed by
-Prof. Mabuchi. Expected outcomes include scientific publications, a validated MD-based
-structure-property-transport model, an optimized DS/IEC design map, and design
-guidelines that convert the previously qualitative "narrower, more branched, more
-tortuous channels" narrative into a predictive engineering tool. The project also
-provides research capacity building, with Indonesian students undertaking graduate
-study at Tohoku University. In the long term, this research supports the rational,
-model-guided design of proton-selective membranes and aligns with the UN Sustainable
-Development Goals on energy efficiency, innovation, and climate action.
+1.  Title of Research Project
+        Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
+        Membranes for Next-Generation Microbial Electrolysis Cells (Biohydrogen).
 
-2   PENDAHULUAN
+2.  Subtopics (Research field: Bioenergy)
+        [X] 1. Bioenergy production using biology-based methods
+               (microbial electrolysis; exoelectrogens convert organic waste to
+               biohydrogen - the primary process of this project).
+        [X] 2. Bioenergy production using hybrid and advanced methods
+               (the microbial process is integrated with an advanced,
+               model-designed proton-exchange membrane - a hybrid bio-
+               electrochemical/materials approach).
 
-2.1 Latar belakang masalah
+3.  Project Principal Investigators
 
-        In recent years, the rapid push toward decarbonisation has been accompanied
-by a sharp rise in the demand for reliable, low-cost, and sustainable green-hydrogen
-technologies. Microbial electrolysis cells (MECs) are an attractive green energy
-technology that convert organic waste into a wide range of value-added products via
-specific microbes (i.e., exoelectrogens or biocatalysts) with only a small input of
-electric energy. Hydrogen gas is the most common product, but MECs using biocatalysts
-can also produce methane, ethanol, butanol, hydrogen peroxide, and acetate. The basic
-components of a MEC are two electrodes (anode and cathode), a membrane, exoelectrogens,
-and a power supply. In a MEC, exoelectrogens growing on the anode convert the substrate
-into protons (H+), electrons (e-), and CO2; the protons and electrons are then
-transferred to the cathode and recombine to produce hydrogen under the assistance of the
-power supply. Typical half reactions are:
-        Anode:   CH3COOH + 2H2O -> 2CO2 + 8H+ + 8e-;  E deg = -0.28 V (NHE)   (1)
-        Cathode: 8H+ + 8e- -> 4H2;                    E deg = -0.42 V (NHE)   (2)
+    Japan-based Principal Investigator
+    +--------------------------------+-------------------------------------------+
+    | Last Name / First Name         | Mabuchi / (given name)                    |
+    | Organization / Dept / Position | Tohoku University, Mabuchi Laboratory;    |
+    |                                | Professor (molecular dynamics of membranes)|
+    | Role in project                | Leads the Japan side; molecular dynamics  |
+    |                                | simulation of proton selectivity (EVB).   |
+    | E-mail / Tel                   | (to be completed)                         |
+    +--------------------------------+-------------------------------------------+
 
-3 | Proposal JST-BRIN Nexus 2025
+    Indonesia-based Principal Investigator
+    +--------------------------------+-------------------------------------------+
+    | Last Name / First Name         | Farobie / Obie                            |
+    | Organization / Dept / Position | Institut Pertanian Bogor; Associate       |
+    |                                | Professor (Dr.Eng., M.Si.)                |
+    | Role in project                | Leads the Indonesia side; experimental    |
+    |                                | synthesis, characterization, MEC testing. |
+    | E-mail / Tel                   | (to be completed)                         |
+    +--------------------------------+-------------------------------------------+
+
+    Indonesia-based Co-Principal Investigator
+    +--------------------------------+-------------------------------------------+
+    | Last Name / First Name         | Annas / Nassrudin                         |
+    | Organization / Dept / Position | Universitas Indonesia; Professor          |
+    | Role in project                | Co-leads the Indonesia side; energy and   |
+    |                                | environmental systems, membrane transport.|
+    | E-mail / Tel                   | (to be completed)                         |
+    +--------------------------------+-------------------------------------------+
+
+        Equivalence of effort: the Japanese team (molecular dynamics) and the
+    Indonesian team (experiments) carry main roles under one common work plan; the
+    two efforts are balanced and mutually dependent (predict-verify loop).
+
+3 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-        Despite their strategic importance, MECs face distinctive challenges arising
-from the proton exchange membrane (PEM). A PEM acts as a separator between the anode and
-cathode to avoid short circuits while transporting protons to the cathode, and it is
-essential for improving product purity by preventing the interchange of gases (CO2, CO,
-CH4, etc.) generated in both chambers. However, the PEM used in MECs requires completely
-different characteristics from that used in hydrogen fuel cells, because microorganisms
-are used as biocatalysts in the anode. In the anodic solution, various cations (Na+,
-Mg2+, Ca2+, etc.) exist at a concentration typically 10^5 times higher than the protons;
-these cations hinder proton transport by competing for the negatively charged sulfonate
-channels (-HSO3-) of the membrane. As protons lose the chance of being transported, they
-accumulate in the anode chamber and cause a serious pH decrease, while a corresponding
-pH increase occurs in the cathode chamber. This pH drop harms the anode bacteria and
-deteriorates MEC performance. Therefore, proton selectivity—selectively passing protons
-while excluding competing cations—is a key requirement for the PEM in MEC applications.
+PART II.  ABSTRACT
 
-        As a PEM, Nafion (DuPont) is the most widely used; it is a perfluorosulfonic acid
-membrane with a hydrophobic fluorocarbon backbone (-CF2-CF2-) and hydrophilic side chains
-bearing sulfonic groups (-HSO3). Despite its widespread use, Nafion has several
-limitations for MECs: low proton selectivity, a high crossover tendency for gas and
-substrate, and high production cost. To overcome these drawbacks, sulfonated hydrocarbon
-polymers—mainly sulfonated poly(ether ether ketone) (SPEEK) and sulfonated poly(arylene
-ether sulfone) (SPAES)—have been investigated as alternatives. Compared with Nafion,
-SPAES shows a markedly different hydrophobic-hydrophilic microphase separation, forming
-more branched, narrower, and more tortuous ion-conducting channels via the Grotthuss
-mechanism, which improves proton selectivity while lowering undesirable gas or substrate
-crossover.
+1.  Objectives
+        The long-term goal is to enable the rational, model-guided design of
+    proton-selective hydrocarbon membranes for next-generation biohydrogen-producing
+    microbial electrolysis cells (MECs). The specific objectives, mapped onto two
+    author-stated research gaps of a recent SPAES/polyimide nanofiber (SPAES/PIN)
+    membrane, are: (1) to develop and experimentally validate a molecular-scale
+    mechanistic model of proton selectivity using molecular dynamics (MD) that
+    predicts the proton transport number and cation crossover from channel geometry
+    (Gap 1); (2) to quantitatively characterise the membrane nanostructure to
+    parameterise and validate the MD model; and (3) to optimize the proton-conducting
+    channels by MD screening of the degree of sulfonation (DS), ion exchange capacity
+    (IEC), and side-chain chemistry, confirmed by synthesis and experiment (Gap 2).
 
-4 | Proposal JST-BRIN Nexus 2025
+2.  Methodology
+        The project combines two coupled pillars in a closed predict-verify loop.
+    The Japanese team (Tohoku University, Mabuchi Laboratory) performs the MD
+    simulations, resolving Grotthuss proton transport with the internationally
+    recognised membrane-based empirical valence bond (EVB) method developed by Prof.
+    Mabuchi. The Indonesian team (Institut Pertanian Bogor; Universitas Indonesia)
+    performs the experiments in Indonesia: membrane synthesis and fabrication,
+    nanostructure characterization (SAXS, TEM tomography, PALS, FE-SEM, AFM),
+    transport testing, and confirmatory biohydrogen-producing MEC operation. MD
+    predicts; experiments verify; the validated model then guides membrane
+    optimization.
+
+3.  Expected scientific results of the joint research
+        A validated MD-plus-experiment structure-property-transport model that
+    reproduces the reference benchmarks (proton transport number t+ = 0.96; 3-10-fold
+    lower cation crossover than Nafion-211) from channel geometry, an optimized DS/IEC
+    "sweet spot" membrane, design guidelines, and higher biohydrogen production/purity
+    in MECs. Outputs: peer-reviewed publications (Q1/Q2) and, where applicable,
+    intellectual property.
+
+4.  Mode of cooperation (including exchange of people)
+        The teams operate under one common work plan with balanced roles (MD in
+    Japan, experiments in Indonesia) and reciprocal data exchange. Young-researcher
+    exchange is central: three Universitas Indonesia early-career researchers pursue
+    graduate study (master's for the first two years, then doctoral) at Tohoku
+    University, and joint workshops/conferences are held annually in each country.
+
+5.  Expected economic and social impact
+        Bioenergy from waste: more efficient, lower-cost biohydrogen production
+    supports clean-energy transition (Indonesia's Asta Cita bioenergy pillar; Japan's
+    bioeconomy 2030), reduces the environmental impact of waste treatment, and builds
+    long-term Indonesia-Japan research capacity, aligned with SDG 7, 9, and 13.
+
+4 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-        Although extensive research has been carried out, several knowledge gaps remain.
-Despite its advantages, SPAES has an inherent mechanical weakness due to excessive water
-uptake (WU) and swelling, because a high ion exchange capacity (IEC) is needed to reach
-proton conductivity comparable to Nafion; this excessive sulfonation causes mechanical
-instability, so the membrane can easily be delaminated or torn during application. To
-solve this weakness while keeping SPAES' superior proton transport, the reference study
-developed a SPAES/polyimide nanofiber (SPAES/PIN) composite membrane, in which PINs—
-highly compatible with SPAES—are embedded as a substratum in the centre of the SPAES
-layer to improve mechanical strength and dimensional stability. Protons are transferred
-through the SPAES polymer, while physical stability is maintained by the PINs.
+6.  Graphical abstract
 
-        The SPAES/PIN membrane demonstrated superior selectivity to Nafion-211: a proton
-transport number of 0.96 (vs. 0.91), 1.5-fold faster proton transfer, 3-10-fold lower
-cation crossover, and 2-2.5-fold lower gas permeability, improving MEC hydrogen
-production by 32.4%. Despite this success, the authors explicitly identified two gaps
-that remain open, and these two gaps—each closed here by combined molecular dynamics
-(MD) simulations and experiments—define the scope of the present proposal.
+        [Figure 1. Graphical abstract - combined MD (Japan) + experiment (Indonesia)]
+        --------------------------------------------------------------------------
+        | BIOENERGY: organic waste -> MEC (exoelectrogens, +0.5 V) -> biohydrogen |
+        |                                                                          |
+        | Problem: competing cations (Na+, K+, Mg2+, Ca2+, ~10^5 x protons) block  |
+        |   proton transport across the membrane -> pH gradient -> low H2 yield.   |
+        |                                                                          |
+        | Japan (MD, EVB): atomistic SPAES model -> proton hopping + cation PMF -> |
+        |   predicted t+ and cation crossover from channel geometry.              |
+        | Indonesia (experiment): SPAES/PIN synthesis & fabrication -> SAXS/TEM/  |
+        |   PALS/AFM structure -> t+ cell, crossover cell -> MEC biohydrogen test.|
+        |                                                                          |
+        | Closed loop: MD predicts -> Indonesia synthesises & tests -> MD refines |
+        |   -> optimized DS/IEC "sweet spot" membrane -> higher, purer biohydrogen.|
+        --------------------------------------------------------------------------
 
-        Research Gap 1 - No validated mechanistic model for proton selectivity
-[AUTHOR-STATED].
-        What the paper did: selectivity was explained only qualitatively; microphase
-separation observed by atomic force microscopy (AFM) in tapping mode (Fig. 6 of the
-reference study) was used to attribute the effect to "narrower, more branched, more
-tortuous" hydrophilic channels in SPAES relative to Nafion.
-        The gap: the authors themselves state that "although no model has yet been
-identified as fully correct, this feature could be explained by the microstructural
-difference." There is no quantitative transport model linking channel geometry to the
-measured proton transport number (0.96) or the 3-10-fold reduction in cation crossover.
-The explanation is descriptive, not predictive.
+        [Figure 2. Baseline SPAES/PIN membrane concept (from the source paper)]
+        --------------------------------------------------------------------------
+        | SPAES proton-conducting layer (branched, narrow, tortuous -HSO3-       |
+        |   channels) with an electrospun polyimide nanofiber (PIN, ~200 nm)      |
+        |   embedded in the centre for mechanical reinforcement. Baseline: t+ =   |
+        |   0.96, 3-10x lower cation crossover, +32.4% MEC hydrogen vs Nafion-211.|
+        --------------------------------------------------------------------------
 
-5 | Proposal JST-BRIN Nexus 2025
+5 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-        How it is closed here (MD + experiments):
-        - Develop a quantitative, molecular-scale transport model. Molecular dynamics
-          (MD) simulations resolve proton hopping (Grotthuss) and vehicular transport,
-          water/ion distribution, and cation partitioning inside the sulfonated
-          channels, yielding the proton transport number (t+) and cation crossover from
-          first principles; a continuum Nernst-Planck/Poisson-Boltzmann description is
-          fitted to the MD results for engineering-scale prediction.
-        - Add quantitative nanostructure characterization beyond AFM—small-angle X-ray
-          scattering (SAXS), transmission electron microscopy (TEM) tomography, and
-          positron annihilation lifetime spectroscopy (PALS)—to measure channel width,
-          tortuosity, and cluster connectivity; these both parameterise and validate the
-          MD models.
-        - Correlate the simulated and measured microstructure with the transport data to
-          build a genuine structure-property relationship instead of a qualitative
-          narrative, requiring the MD model to reproduce the experimental t+ = 0.96 and
-          the 3-10-fold cation-crossover drop.
+PART III.  RESEARCH TOPIC AND WORK PLAN
 
-        Research Gap 2 - Proton-transport channels not yet optimized [AUTHOR-STATED].
-        What the paper did: a single SPAES formulation was used (IEC > 1.75 meq/mg,
-degree of sulfonation DS fixed at 100%, polymerized by Kolon).
-        The gap: the authors note that "the properties of our developed SPAES/PIN
-composite membrane could be further improved through the optimization of proton
-transport channels in SPAES polymer." No parametric study of DS, IEC, or side-chain
-chemistry was performed; only one point in a large design space was tested.
-        How it is closed here (MD + experiments):
-        - Systematically vary DS and IEC in silico and in the laboratory, mapping the
-          trade-off between proton conductivity, selectivity, water uptake, and
-          mechanical strength. MD screens many candidate structures rapidly; experiments
-          confirm the most promising ones.
-        - Explore side-chain modification (e.g., hydroxyl groups as in Kwon et al. [34],
-          or self-organization additives as in n-BuOH-treated SPEEK [35]) to further
-          narrow and branch the hydrophilic channels, first modelled by MD (Japanese
-          team), then synthesised by the Indonesian team.
-        - Identify the DS/IEC "sweet spot" that maximizes selectivity without sacrificing
-          the mechanical stability provided by the polyimide nanofiber reinforcement.
+1.  Detailed Description of the Joint Project
 
-6 | Proposal JST-BRIN Nexus 2025
+1) Problem statement
+
+        Bioenergy is a key route to a circular, low-carbon economy, turning organic
+    waste into usable energy. Microbial electrolysis cells (MECs) are an attractive
+    biology-based bioenergy technology: exoelectrogens growing on the anode convert
+    organic waste into protons, electrons, and CO2, and with a small applied voltage
+    the protons and electrons recombine at the cathode to produce biohydrogen. Typical
+    half reactions are:
+        Anode:   CH3COOH + 2H2O -> 2CO2 + 8H+ + 8e-;  E deg = -0.28 V (NHE)   (1)
+        Cathode: 8H+ + 8e- -> 4H2;                    E deg = -0.42 V (NHE)   (2)
+
+        The proton exchange membrane (PEM) is the heart of a MEC: it separates anode
+    and cathode, transports protons, and keeps product gases pure. However, in the
+    anolyte various cations (Na+, K+, Mg2+, Ca2+) coexist at concentrations typically
+    10^5 times higher than protons and compete for the negatively charged sulfonate
+    channels (-HSO3-), hindering proton transport, causing a harmful pH gradient, and
+    lowering biohydrogen yield. Therefore, proton selectivity - passing protons while
+    excluding competing cations - is the key membrane requirement for MECs.
+
+        A recent sulfonated poly(arylene ether sulfone)/polyimide nanofiber (SPAES/PIN)
+    composite membrane achieved outstanding selectivity (proton transport number 0.96;
+    3-10-fold lower cation crossover than Nafion-211; 32.4% higher MEC hydrogen
+    production). Despite this success, the authors explicitly identified TWO unresolved
+    gaps that define the scientific problem of this project:
+
+        Research Gap 1 - No validated mechanistic model for proton selectivity
+    [AUTHOR-STATED].
+        What the paper did: selectivity was explained only qualitatively; microphase
+    separation observed by atomic force microscopy (AFM) in tapping mode was used to
+    attribute the effect to "narrower, more branched, more tortuous" hydrophilic
+    channels in SPAES relative to Nafion.
+        The gap: the authors themselves state that "although no model has yet been
+    identified as fully correct, this feature could be explained by the microstructural
+    difference." There is no quantitative transport model linking channel geometry to
+    the measured proton transport number (0.96) or the 3-10-fold reduction in cation
+    crossover. The explanation is descriptive, not predictive.
+
+6 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-        These two gaps are tightly coupled and are addressed with the same MD-plus-
-experiment loop: the optimization in Gap 2 generates the family of controlled
-microstructures needed to build and validate the MD model in Gap 1, while the validated
-MD model in Gap 1 turns the optimization in Gap 2 from empirical screening into rational,
-predictive design. As a JST-BRIN Nexus joint research programme, the Japanese team
-(Mabuchi Laboratory, Tohoku University) performs the molecular dynamics simulations using
-the internationally recognised EVB method developed by Prof. Mabuchi, while the Indonesian
-team (Energy and Environmental Research Group, Universitas Indonesia, with Institut
-Pertanian Bogor) performs the experimental synthesis, fabrication, characterization, and
-transport testing in Indonesia.
+        Research Gap 2 - Proton-transport channels not yet optimized [AUTHOR-STATED].
+        What the paper did: a single SPAES formulation was used (IEC > 1.75 meq/mg,
+    degree of sulfonation DS fixed at 100%, base resin polymerized by Kolon).
+        The gap: the authors note that "the properties of our developed SPAES/PIN
+    composite membrane could be further improved through the optimization of proton
+    transport channels in SPAES polymer." No parametric study of DS, IEC, or side-chain
+    chemistry was performed; only one point in a large design space was tested.
 
-        In terms of United Nations Sustainable Development Goals (SDGs), this research is
-aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
-Infrastructure), and SDG 13 (Climate Action), as it aims to improve energy efficiency,
-strengthen clean-hydrogen infrastructure, and reduce the environmental impact of waste
-treatment. More importantly, the topic lies at the intersection of two JST-BRIN Nexus
-research priority areas—energy and advanced materials—by converting a proven-but-
-empirical membrane into a rationally designed, model-guided technology.
+        Importance and contribution: closing these two gaps converts a proven-but-
+    empirical membrane into a rationally designed, predictive technology for biohydrogen
+    production. This requires molecular-scale simulation (to see the channels and the
+    ion transport) combined with experiments (to synthesise, measure, and validate) -
+    exactly the complementary strengths of the Japanese and Indonesian teams.
 
-2.2 Tujuan
+2) Expected outcomes
+        - A validated, molecular-scale mechanistic model (MD + continuum) that predicts
+          the proton transport number and cation crossover from channel geometry, and
+          reproduces the reference benchmarks (t+ = 0.96; 3-10-fold cation-crossover
+          reduction) - closing Gap 1.
+        - A quantified DS/IEC and side-chain design map with an identified "sweet spot"
+          membrane that maximizes selectivity while retaining tensile strength > 40 MPa -
+          closing Gap 2.
+        - Demonstrated improvement in biohydrogen production and purity in a MEC using the
+          optimized membrane.
+        - Scientific outputs: peer-reviewed Q1/Q2 publications and, where applicable,
+          registered intellectual property; open design guidelines.
+        - Human-capacity outcome: trained early-career researchers (see 5).
 
-        The long term goal of this research is to enable the rational, model-guided
-design of proton-selective hydrocarbon membranes for next-generation microbial
-electrolysis cells. In general, the objectives of this study, which map directly onto
-the two author-stated research gaps and are pursued by combined MD simulations and
-experiments, are focused as follows:
-1.  To develop and experimentally validate a molecular-scale mechanistic model of proton
-    selectivity using MD simulations that predict the proton transport number and cation
-    crossover from channel geometry (addresses Gap 1).
-2.  To quantitatively characterise the membrane nanostructure (SAXS, TEM tomography,
-    PALS, AFM) to parameterise and validate the MD model (supports Gap 1).
-3.  To optimize the proton-conducting channels by MD screening of DS, IEC, and side-chain
-    chemistry, confirmed by synthesis and experiments, and to identify the DS/IEC "sweet
-    spot" (addresses Gap 2).
+3) Scientific and technological challenges and the means and methods to overcome them
 
-3   METODOLOGI
+        The central challenge is that the existing selectivity explanation is qualitative
+    (Gap 1) and the channel chemistry is unoptimized (Gap 2). Prior work (Chae et al.,
+    2014; Shin et al., 2017; and the SPAES/PIN source paper) demonstrates the selectivity
+    empirically but provides no predictive model and no parametric optimization - these
+    have not yet been adequately overcome. This project overcomes them by combining
+    molecular dynamics (Japan) with experiments (Indonesia).
 
-        The research is a JST-BRIN Nexus joint programme: the molecular dynamics
-simulations (Section 3.1) are performed by the Japanese team (Mabuchi Laboratory, Tohoku
-University), and the experimental work (Section 3.2) is performed by the Indonesian team
-(Energy and Environmental Research Group, Universitas Indonesia; Institut Pertanian Bogor)
-in Indonesia. The methodology rests on two coupled pillars—(3.1) molecular dynamics
-simulation and (3.2) experiment—that exchange data in a closed predict-verify loop, as
-illustrated in Figure 1.
+    (a) Molecular dynamics methodology (Japan side - Tohoku University, Mabuchi Lab)
+        Atomistic models of the SPAES ionomer (baseline DS 100%, IEC > 1.75 meq/mg) are
+    built with hydrated sulfonate groups; water content is set from the measured water
+    uptake (35 +/- 3%). Classical MD runs in GROMACS 2023 (GPU) with OPLS-AA/GAFF force
+    fields and the SPC/E water model; atomic partial charges are derived by the RESP
+    method from HF/6-31G* calculations in Gaussian 16. Because proton transport is
+    dominated by the Grotthuss (structural) mechanism, proton hopping is treated with the
+    membrane-based empirical valence bond (EVB) method developed by Prof. Mabuchi (Tohoku
+    University) in its multistate form (MS-EVB), cross-checked by ab initio MD (AIMD/
+    DFT-MD) in CP2K 2024. Reactive degradation uses ReaxFF in LAMMPS. Production runs use
+    the NPT ensemble (Nose-Hoover thermostat, Parrinello-Rahman barostat) at 298-353 K,
 
-7 | Proposal JST-BRIN Nexus 2025
+7 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-3.1 Molecular dynamics (MD) simulation methodology  (Tim Jepang - Tohoku University)
+    1 bar. Cation permeation free energies are obtained by umbrella sampling with WHAM;
+    trajectories are analysed with MDAnalysis and VMD. Runs use the GPU HPC cluster of
+    the Mabuchi Laboratory (NVIDIA A100 nodes).
 
-        The simulations build an atomistic picture of the SPAES hydrophilic channels and
-compute the transport of protons and competing cations. Atomistic models of the SPAES
-ionomer (baseline DS 100%, IEC > 1.75 meq/mg) are constructed with hydrated sulfonate
-groups, and the water content is set from the measured water uptake (35 +/- 3%). Classical
-MD is run in GROMACS 2023 with the OPLS-AA and General Amber Force Field (GAFF) for the
-polymer and the SPC/E water model; atomic partial charges are derived by the RESP method
-from HF/6-31G* calculations in Gaussian 16. Because proton transport in SPAES is dominated
-by the Grotthuss (structural) mechanism, proton hopping is treated with the membrane-based
-empirical valence bond (EVB) molecular dynamics method developed by Prof. Mabuchi (Tohoku
-University)—an internationally recognised method—in its multistate form (MS-EVB),
-cross-checked by ab initio MD (AIMD/DFT-MD) in CP2K 2024 on representative sub-cells.
-Reactive simulations of interfacial degradation use ReaxFF in LAMMPS. Production runs use
-the NPT ensemble (Nose-Hoover thermostat, Parrinello-Rahman barostat) at 298-353 K and
-1 bar. Trajectories are analysed with MDAnalysis and VMD, and free energies of cation
-permeation are obtained by umbrella sampling with the weighted histogram analysis method
-(WHAM). All runs use the GPU HPC cluster of the Mabuchi Laboratory, Tohoku University
-(NVIDIA A100 nodes).
+        Table 1. Molecular dynamics simulation setup (Japan side)
+    +-----------------------------+--------------------------------------------------+
+    | Item                        | Specification                                    |
+    +-----------------------------+--------------------------------------------------+
+    | Classical MD engine         | GROMACS 2023 (GPU)                               |
+    | Reactive / AIMD engines     | LAMMPS (ReaxFF); CP2K 2024 (DFT-MD)              |
+    | Force field (polymer)       | OPLS-AA / GAFF                                   |
+    | Water model                 | SPC/E (cross-check TIP3P)                        |
+    | Proton transport            | EVB (Mabuchi) in multistate form (MS-EVB)       |
+    | Partial charges             | RESP from HF/6-31G* (Gaussian 16)               |
+    | Ensemble / thermostat       | NPT; Nose-Hoover / Parrinello-Rahman            |
+    | Temperature / pressure      | 298-353 K / 1 bar                               |
+    | System size / time          | ~50,000-200,000 atoms; 100-500 ns (classical)   |
+    | Free-energy method          | Umbrella sampling + WHAM (cation PMF)           |
+    | Analysis                    | MDAnalysis, VMD (RDF, MSD -> diffusion)         |
+    | Hardware                    | GPU HPC cluster, Mabuchi Lab (NVIDIA A100)      |
+    +-----------------------------+--------------------------------------------------+
 
-        Table 1. Molecular dynamics simulation setup
-+-----------------------------+--------------------------------------------------------+
-| Item                        | Specification                                          |
-+-----------------------------+--------------------------------------------------------+
-| Classical MD engine         | GROMACS 2023 (GPU)                                      |
-| Reactive / AIMD engines     | LAMMPS (ReaxFF); CP2K 2024 (DFT-MD)                     |
-| Force field (polymer)       | OPLS-AA / GAFF                                          |
-| Water model                 | SPC/E (cross-check TIP3P)                               |
-| Proton transport            | EVB (Mabuchi) in multistate form (MS-EVB)              |
-| Partial charges             | RESP from HF/6-31G* (Gaussian 16)                       |
-| Ensemble / thermostat       | NPT; Nose-Hoover / Parrinello-Rahman                   |
-| Temperature / pressure      | 298-353 K / 1 bar                                      |
-| System size / time          | ~50,000-200,000 atoms; 100-500 ns (classical)          |
-| Free-energy method          | Umbrella sampling + WHAM (cation PMF)                   |
-| Analysis                    | MDAnalysis, VMD (RDF, MSD -> diffusion, connectivity)  |
-| Hardware                    | GPU HPC cluster, Mabuchi Lab (NVIDIA A100 nodes)       |
-+-----------------------------+--------------------------------------------------------+
+        MD workflow steps (Japan): (1) build the atomistic SPAES model at a target
+    DS/IEC; add water and counter-ions (H+, Na+, Mg2+, Ca2+); (2) energy-minimise, then
+    equilibrate (NVT then NPT); (3) production MD - radial distribution functions,
+    water/ion connectivity, channel width/tortuosity; (4) proton transport (EVB/MS-EVB,
+    AIMD) and cation permeation free energy (umbrella sampling) to obtain t+ and
+    crossover; (5) fit a continuum Nernst-Planck/Poisson-Boltzmann model to the MD
+    outputs for engineering-scale prediction; pass results to Indonesia for validation.
 
-        The MD workflow proceeds in the following steps:
-        Step 1. Build the atomistic SPAES model at a target DS/IEC; add water to the
-                measured uptake and neutralising counter-ions (H+, Na+, Mg2+, Ca2+).
-        Step 2. Energy-minimise, then equilibrate (NVT then NPT) until density and
-                hydrophilic-domain size are stable.
-        Step 3. Run production MD; compute radial distribution functions, water/ion
-                connectivity, and channel width/tortuosity.
-        Step 4. Compute proton transport (EVB/MS-EVB, AIMD) and cation permeation free
-                energy (umbrella sampling) to obtain t+ and crossover.
-        Step 5. Fit a continuum Nernst-Planck/Poisson-Boltzmann model to the MD outputs
-                for engineering-scale prediction, and pass results to the Indonesian team
-                for experimental validation.
+    (b) Experimental methodology (Indonesia side - IPB & Universitas Indonesia)
+        The SPAES/PIN composite PEM is fabricated by impregnating polyimide nanofiber
+    (PIN) in the centre of a SPAES polymer solution. The SPAES solution uses SPAES of
+    > 1.75 meq/mg IEC (base resin polymerized by Kolon, South Korea) and N,N-
+    dimethylacetamide (DMAc) as solvent; baseline DS is 100%. For Gap 2, a family of
+    SPAES ionomers with varied DS/IEC and side-chain modification (hydroxyl groups;
+    n-BuOH self-organization) is synthesised by the Indonesian team. PIN is electrospun
+    to ~200 nm. Nafion-211 (DuPont, USA) is the control.
 
-8 | Proposal JST-BRIN Nexus 2025
-
-
-================================================================================
-PAGE 9
-================================================================================
-
-        [Figure 1. Combined MD-and-experiment methodology (closed predict-verify loop)]
-        --------------------------------------------------------------------------
-        | MD side (Japan): atomistic SPAES model -> equilibration -> production   |
-        |   MD -> EVB proton transport + cation PMF -> predicted t+ and crossover.|
-        | Experiment side (Indonesia): SPAES/PIN fabrication -> SAXS/TEM/PALS/AFM |
-        |   (structure) -> t+ cell, crossover cell (transport).                  |
-        | Loop: structure feeds MD inputs; MD predicts transport; experiment      |
-        |   validates; validated model guides DS/IEC/side-chain optimization.     |
-        --------------------------------------------------------------------------
-
-3.2 Experimental methodology  (Tim Indonesia - Universitas Indonesia & IPB)
-
-        The baseline SPAES/PIN composite PEM is fabricated by impregnating polyimide
-nanofiber (PIN) in the centre of a SPAES polymer solution, following the reference method.
-The SPAES polymer solution is prepared using SPAES of > 1.75 meq/mg IEC (base resin
-polymerized by Kolon, South Korea) and N,N-dimethylacetamide (DMAc) as a solvent; the
-baseline degree of sulfonation (DS) is 100%. For the optimization study (Gap 2), a family
-of SPAES ionomers with varied DS and IEC and with side-chain modification (hydroxyl groups;
-n-BuOH self-organization) is synthesised by the Indonesian team. PIN is fabricated by
-electrospinning with an average fiber thickness of 200 nm. Nafion-211 (DuPont, USA) is the
-control.
-
-        The experimental protocol proceeds in the following steps:
+        Experimental protocol steps (Indonesia):
         Step 1. Cast the SPAES/DMAc solution onto the PIN substrate on a glass plate;
                 natural drying at 80 degC for 6 h on a clean bench.
         Step 2. Acidify in a 1 N boiling sulfuric acid solution for 2 h; wash with
@@ -379,6 +366,14 @@ control.
         Step 3. Characterise structure: FE-SEM (TESCAN-MIRA3 LMU, Czech) with EDX; AFM
                 (tapping mode); SAXS, TEM tomography, and PALS for quantitative channel
                 geometry (MD inputs/validation).
+
+8 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
+
+
+================================================================================
+PAGE 9
+================================================================================
+
         Step 4. Measure mechanical strength with an Instron 5967 tension tester (Instron
                 Corp., USA); >= 3 specimens (50 mm x 20 mm), 50 mm/min (ASTM D882).
         Step 5. Measure transport: proton transport number (t+) in a two-chambered cell
@@ -390,711 +385,506 @@ control.
                 conductivity detector and a Porapak Q sieve column, nitrogen carrier gas
                 (99.999%); proton conductivity by two-probe electrochemical impedance
                 spectroscopy.
-        Step 6. Confirmatory MEC test: two-chambered MEC (180 mL each), carbon felt anode
-                (25 cm^2), Pt-loaded perforated titanium plate cathode (0.5 mg Pt/cm^2),
-                acetate substrate (3 mM), 0.5 V applied; gas sampling with a gastight
-                syringe (Hamilton SampleLock #1002, 2.5 mL, USA).
+        Step 6. Confirmatory biohydrogen MEC test: two-chambered MEC (180 mL each), carbon
+                felt anode (25 cm^2), Pt-loaded perforated titanium plate cathode (0.5 mg
+                Pt/cm^2), acetate substrate (3 mM), 0.5 V applied; gas sampling with a
+                gastight syringe (Hamilton SampleLock #1002, 2.5 mL, USA).
         Step 7. Feed the measured structure and transport back to the Japanese team's MD
-                model (Section 3.1) to validate predictions and refine the optimization.
+                model to validate predictions and refine the optimization.
 
-9 | Proposal JST-BRIN Nexus 2025
+    (c) Joint work packages (one common work plan)
+        WP A - Build MD platform (Japan) and upgrade the characterization facility
+               (Indonesia: SAXS, TEM tomography, PALS). Serves Gap 1.
+        WP B - MD-based mechanistic modelling of proton selectivity (Japan). The MD model
+               must reproduce t+ = 0.96 and the 3-10-fold cation-crossover reduction from
+               geometry alone, then predict new variants before measurement. Closes Gap 1.
+        WP C - MD-guided parametric optimization of DS/IEC and side-chain chemistry
+               (Japan screens; Indonesia synthesises). Identifies the "sweet spot". Gap 2.
+        WP D - Experimental synthesis, fabrication, and closed-loop validation (Indonesia):
+               measured t+/crossover/mechanical/MEC data compared blind against MD
+               predictions to quantify accuracy and refine the model.
+
+        [Figure 3. MD workflow and validation against experiment]
+        --------------------------------------------------------------------------
+        | (a) Atomistic SPAES model at target DS/IEC + water + ions (Japan).      |
+        | (b) Equilibration (NVT->NPT) -> production MD (NPT, 298-353 K).         |
+        | (c) EVB proton hopping + cation PMF (umbrella sampling/WHAM).           |
+        | (d) Predicted t+ and cation crossover vs. measured (Indonesia); target: |
+        |     reproduce t+ = 0.96 and the 3-10-fold crossover drop from geometry. |
+        --------------------------------------------------------------------------
+
+9 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-        These measured values become the ground-truth targets that the MD model must
-reproduce, and the loop is closed when the simulated t+ and crossover agree with
-experiment within the target error, allowing the validated model to be used for design.
-
-4   RENCANA PENELITIAN
-
-        Figure 2 shows the research framework and the collaborative scheme. The study is
-organised around the two author-stated gaps, each pursued by combined MD simulations
-(Japanese team) and experiments (Indonesian team): a validated mechanistic model (Gap 1)
-and optimized proton-conducting channels (Gap 2), with the broader aim of turning
-empirical membrane selectivity into predictive design.
-
-        [Figure 2. Research scope and the collaboration scheme]
+        [Figure 4. MD-screened DS/IEC design space (Gap 2)]
         --------------------------------------------------------------------------
-        | Japanese Team (Tohoku Univ., Mabuchi Lab): molecular dynamics           |
-        |   simulations (EVB method) - Gap 1 model & Gap 2 screening.             |
-        | Indonesian Team (UI Energy & Env. Research Group; IPB): experimental    |
-        |   synthesis, fabrication, characterization, and transport testing.      |
-        | Loop: MD predicts (Japan) -> synthesis & tests (Indonesia) -> refine.   |
+        | x-axis: degree of sulfonation (DS) / ion exchange capacity (IEC).      |
+        | y-axis: proton selectivity (t+, H+/M+).                                |
+        | Contours: water uptake and tensile strength.                           |
+        | Marker: MD-predicted "sweet spot"; open circles: experimental          |
+        |   confirmation of selected variants (Indonesia).                       |
         --------------------------------------------------------------------------
 
-(a) Pelaksanaan penelitian (kegiatan riset dan pembagian peran antar tim)
+        Success criteria. Gap 1: the MD model reproduces the reference benchmarks (t+ =
+    0.96; 3-10-fold lower cation crossover than Nafion-211) from channel geometry alone,
+    and predicts new DS/IEC variants within acceptable error before measurement. Gap 2:
+    an MD-screened, experimentally confirmed DS/IEC "sweet spot" that meets or exceeds
+    the baseline selectivity (t+ >= 0.96) while retaining tensile strength > 40 MPa from
+    the polyimide nanofiber reinforcement, and improves MEC biohydrogen production/purity.
 
-        The proposed research closes the two author-stated gaps of the SPAES/PIN membrane
-study using MD simulations (Japanese team) and experiments (Indonesian team). The main
-activities are as follows.
+        Materials and equipment (name, series, origin).
+        Experimental (Indonesia side), as used in the source paper and this study:
+        - SPAES ionomer: proton-conducting polymer, IEC > 1.75 meq/mg, DS 100%; base
+          resin polymerized by Kolon (South Korea).
+        - N,N-dimethylacetamide (DMAc): casting solvent for the SPAES solution.
+        - Polyimide nanofiber (PIN): electrospun support, average fiber thickness ~200 nm.
+        - Nafion-211: perfluorosulfonic acid control membrane, DuPont (USA).
+        - FE-SEM: TESCAN-MIRA3 LMU (Czech), with energy-dispersive X-ray (EDX).
+        - AFM: atomic force microscope, soft tapping mode.
+        - Instron 5967 tension tester, Instron Corp. (USA); ASTM D882, 50 mm/min.
+        - Ag/AgCl reference electrode, +0.195 V vs. NHE, Microelectrode (USA).
+        - Multimeter, 2700 Data Acquisition Series, Keithley (USA).
+        - Ion chromatography, ICS5000, DIONEX (USA).
+        - Gas chromatograph, Series 580, GawMac Instrument Co. (USA), thermal conductivity
+          detector, Porapak Q sieve column; nitrogen carrier gas (99.999%).
+        - Gastight syringe, 2.5 mL, Hamilton SampleLock #1002 (USA).
+        - MEC electrodes: carbon felt anode (25 cm2); Pt-loaded perforated titanium plate
+          cathode (0.5 mg Pt/cm2).
+        - New characterization: SAXS, TEM tomography, and PALS (channel geometry).
+        Computational - molecular dynamics (Japan side, Tohoku University):
+        - Classical MD: GROMACS 2023 (GPU); OPLS-AA/GAFF; SPC/E water.
+        - Reactive / AIMD: LAMMPS (ReaxFF); CP2K 2024 (DFT-MD).
+        - Proton transport: membrane-based EVB method (Prof. Mabuchi), multistate MS-EVB.
+        - Partial charges: RESP from HF/6-31G* (Gaussian 16).
+        - Analysis: umbrella sampling + WHAM; MDAnalysis, VMD.
+        - Hardware: GPU HPC cluster, Mabuchi Laboratory, Tohoku University (NVIDIA A100).
 
-    A.  Building the MD Platform and Upgrading the Characterization Facility
-            The initial step establishes both computational and experimental
-        infrastructure. On the MD side, the Japanese team (Tohoku University, Mabuchi
-        Laboratory) sets up and benchmarks the GPU HPC workflow (GROMACS 2023, LAMMPS/ReaxFF,
-        CP2K 2024, Gaussian 16 for RESP charges, EVB for proton transport) on the baseline
-        SPAES/PIN. On the experimental side, the Indonesian team, beyond the existing FE-SEM,
-        EDX, and AFM, integrates SAXS, TEM tomography, and PALS so that channel geometry can
-        be measured, not just imaged. SAXS gives the ionic-cluster spacing and channel width;
-        TEM tomography reconstructs the 3D connectivity and tortuosity; PALS probes the
-        free-volume/void size. Together these convert the qualitative AFM picture (Fig. 6 of
-        the reference study) into quantitative inputs and validation targets for the MD model,
-        directly serving Gap 1.
-
-10 | Proposal JST-BRIN Nexus 2025
+10 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-    B.  MD-Based Mechanistic Modelling of Proton Selectivity (Gap 1) - Japanese team
-            This work package, led by the Japanese team (Tohoku University, Mabuchi
-        Laboratory), attacks the first author-stated gap: the absence of a predictive model.
-        Atomistic SPAES/water/ion systems are built and equilibrated, and production MD
-        quantifies the hydrophilic-channel morphology (width, branching, tortuosity,
-        connectivity). Proton transport is computed with the EVB method (cross-checked by
-        AIMD in CP2K), and the permeation free energy of each competing cation (Na+, Mg2+,
-        Ca2+) is obtained by umbrella sampling. From these, the proton transport number (t+)
-        and cation crossover are predicted directly from channel geometry. A continuum
-        Nernst-Planck/Poisson-Boltzmann model is then fitted to the MD outputs to allow fast
-        engineering-scale prediction.
-            The MD predictions are validated against the experimental ground truth provided by
-        the Indonesian team: the model must reproduce the reference benchmarks—t+ = 0.96 and
-        the 3-10-fold cation-crossover reduction—from geometry alone, and must then predict the
-        transport of new variants before they are measured. This converts the qualitative
-        "narrower, more branched, more tortuous channels" explanation into a quantitative
-        structure-property relationship.
+        Baseline targets that the model must reproduce and the optimization must beat
+    (from the source paper; full data in Appendix A):
+        - Proton transport number t+: 0.96 (SPAES/PIN) vs. 0.91 (Nafion-211).
+        - Cation crossover (Na+, Mg2+, Ca2+): 3-10-fold lower for SPAES/PIN.
+        - Gas permeability: 2.7-fold lower (H2), twofold lower (CH4).
+        - MEC biohydrogen production: 32.4% higher; H2 purity 90.3% (vs. 61.8%),
+          97.2% with methanogen inhibitor (2-bromoethanesulfonate).
+        - Tensile strength > 40 MPa; water uptake 35 +/- 3%; IEC 2.3 +/- 0.3 meq/g.
 
-        [Figure 3. MD workflow and validation against experiment]
-        --------------------------------------------------------------------------
-        | (a) Atomistic SPAES model at target DS/IEC + water + ions.              |
-        | (b) Equilibration (NVT->NPT) -> production MD (NPT, 298-353 K).         |
-        | (c) EVB proton hopping + cation PMF (umbrella sampling/WHAM).           |
-        | (d) Predicted t+ and cation crossover vs. measured (target: reproduce   |
-        |     t+ = 0.96 and the 3-10-fold crossover drop from geometry alone).    |
-        --------------------------------------------------------------------------
+4) Future prospect of research
+        In the near term the validated model and optimized membrane raise biohydrogen
+    yield and purity from waste, lowering cost and environmental impact. In the medium
+    term the model enables inverse design (specify a target selectivity; the model
+    prescribes the channel chemistry) and extension to multi-cation, real anolytes. In
+    the long term it supports an MD-guided membrane library, scale-up, and deployment in
+    real MECs and other PEM applications (fuel cells, reverse electrodialysis). The
+    synergy is genuine and mutual: Japan contributes world-leading membrane MD (EVB);
+    Indonesia contributes bioenergy/experimental capability and real waste feedstocks -
+    neither side could deliver the predictive, validated technology alone. Outcomes
+    disseminate across ASEAN, supporting Japan's bioeconomy 2030 and Indonesia's Asta
+    Cita bioenergy agenda.
 
-    C.  MD-Guided Parametric Optimization of the Channels (Gap 2) - joint
-            This work package, led by the Japanese team (MD screening) with the Indonesian
-        team (synthesis), attacks the second author-stated gap: the channels have only been
-        tested at a single DS (100%) and IEC (>1.75 meq/mg). MD is used to screen a design
-        space of DS, IEC, and side-chain chemistry (hydroxyl side groups after Kwon et al.
-        [34]; n-BuOH self-organization after the modified SPEEK of ref [35]). For each
-        candidate, MD predicts water uptake, hydrophilic-domain morphology, proton
-        conductivity, and selectivity, revealing the trade-offs against mechanical strength.
-        The most promising candidates that define the DS/IEC "sweet spot" are then handed to
-        the Indonesian team for synthesis and experimental confirmation.
+5) Exchange plan for young researchers
+        Human-capital exchange is a core objective. Three early-career researchers from
+    the Energy and Environmental Research Group of Universitas Indonesia will be
+    dispatched to Tohoku University for graduate study - a master's degree during the
+    first two years of the programme, then continuing to a doctoral degree at Tohoku
+    (research capacity building, Japan side):
+        - Muhammad Robi Harahap, S.T. (MD of palm-oil-waste PCM nanocomposites).
+        - Mahendra Dharma Putra (MD of nanodroplet evaporation/impact for cooling flux).
+        - Syadina Aliy (MD of temperature-dependent CO2 capture by ionic liquids).
+    In addition, doctoral candidate Erdiyanto Munandar, S.T., M.T. (CO2 direct-air-capture
+    contactor design by AI/multiscale modelling) participates from Universitas Indonesia.
+    Annual joint workshops are held alternately in Japan and Indonesia, and team members
+    present at international conferences. Around 30% of the Japan-side direct expenses are
+    allocated to these exchange activities. This mobility builds a lasting Indonesia-Japan
+    bioenergy research network and internationally active young researchers.
 
-11 | Proposal JST-BRIN Nexus 2025
+11 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-        [Figure 4. MD-screened DS/IEC design space]
-        --------------------------------------------------------------------------
-        | x-axis: degree of sulfonation (DS) / ion exchange capacity (IEC).      |
-        | y-axis: proton selectivity (t+, H+/M+).                                |
-        | Contours: water uptake and tensile strength.                           |
-        | Marker: MD-predicted "sweet spot"; open circles: experimental          |
-        |   confirmation of selected variants.                                   |
-        --------------------------------------------------------------------------
+6) Bibliography (up to 5 key items related to the joint project, recent)
+    [1] S.-G. Park, K.-J. Chae, M. Lee (2017). A sulfonated poly(arylene ether sulfone)/
+        polyimide nanofiber composite proton exchange membrane for microbial electrolysis
+        cell application. Journal of Membrane Science 540, 165-173. (source paper; two
+        author-stated gaps addressed here)
+    [2] D. W. Shin, M. D. Guiver, Y. M. Lee (2017). Hydrocarbon-based polymer electrolyte
+        membranes: importance of morphology on ion transport and membrane stability.
+        Chemical Reviews 117, 4759-4805.
+    [3] Y. Kwon et al. (2015). Novel sulfonated poly(arylene ether sulfone) containing
+        hydroxyl groups for enhanced proton exchange membrane properties. Polymer
+        Chemistry 6, 233-239. (Gap 2 side-chain route)
+    [4] Y. Wu, H. Chen, F. Wang, F. Paesani, G. A. Voth (2008). An improved multistate
+        empirical valence bond model for aqueous proton solvation and transport. Journal
+        of Physical Chemistry B 112, 467-482. (MS-EVB proton transport basis)
+    [5] M. J. Abraham et al. (2015). GROMACS: high-performance molecular simulations.
+        SoftwareX 1-2, 19-25. (MD engine)
 
-    D.  Experimental Synthesis, Fabrication, and Closed-Loop Validation - Indonesian team
-            The final work package realises and tests the MD-recommended formulations. The
-        Indonesian team synthesises the selected DS/IEC and side-chain variants; each is
-        fabricated into a SPAES/PIN composite (Section 3.2) and characterised for structure
-        (SAXS/TEM/PALS/AFM), mechanical strength (Instron 5967), transport (t+, cation and gas
-        crossover, proton conductivity), and confirmatory MEC hydrogen production. Measured
-        values are compared blind against the Japanese team's MD predictions to quantify
-        predictive accuracy and to refine the force-field parameters where needed. The outcome
-        is a validated, closed MD-plus-experiment framework and documented design guidelines
-        that close both author-stated gaps.
+    Additional supporting references (transport/MD foundations): Warshel & Weiss (1980,
+    EVB origin); Kreuer (2001, Grotthuss vs. vehicular); Kamcev, Paul & Freeman (2015,
+    Manning-Donnan); Geise, Paul & Freeman (2014, structure-property transport); Kuhne et
+    al. (2020, CP2K); Thompson et al. (2022, LAMMPS); Berendsen et al. (1987, SPC/E);
+    Kumar et al. (1992, WHAM); Chae et al. (2014, SPEEK/nanofiber composite for MECs). The
+    full 39-reference list of the source paper is preserved in the companion proposal
+    (Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt).
 
-(b) Pelaksanaan penelitian di tiap tim (maksimum 1 halaman tiap tim)
-
-    1)  Tim Indonesia - Universitas Indonesia & Institut Pertanian Bogor
-        (experimental research in Indonesia)
-            The Indonesian team performs all experimental research in Indonesia. It is led by
-        the Principal Investigator, Dr.Eng. Obie Farobie, M.Si. (Associate Professor, Institut
-        Pertanian Bogor), together with the Co-Principal Investigator, Prof. Nassrudin Annas
-        (Universitas Indonesia), and members of the Energy and Environmental Research Group of
-        Universitas Indonesia. Their expertise covers renewable energy, membrane and
-        thermofluid systems, and molecular-scale characterization, providing the experimental
-        foundation that anchors and validates the MD model for Gap 1.
-            This collaboration focuses on the experiments that anchor the simulations: membrane
-        synthesis and fabrication, structural characterization (FE-SEM, EDX, AFM, SAXS, TEM
-        tomography, PALS), mechanical testing (Instron 5967), transport testing (proton
-        transport number with an Ag/AgCl reference electrode and a Keithley 2700 multimeter;
-        cation crossover by ICS5000 ion chromatography; proton conductivity by two-probe
-        impedance spectroscopy), and confirmatory MEC hydrogen-production tests.
-
-12 | Proposal JST-BRIN Nexus 2025
+12 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-            In the next stage, selected optimized variants undergo confirmatory transport
-        testing by the Indonesian team. Their measured t+ and crossover values are compared
-        blind against the MD predictions to quantify predictive accuracy—the decisive test of
-        whether the qualitative narrative has been replaced by a predictive, molecular-scale
-        model. Research capacity building is embedded in the programme: three Universitas
-        Indonesia members—Muhammad Robi Harahap, S.T. (thesis on molecular dynamics of
-        palm-oil-waste PCM nanocomposites), Mahendra Dharma Putra (MD of nanodroplet
-        evaporation and impact of water and ethanol-water mixtures for high cooling flux), and
-        Syadina Aliy (MD of temperature-dependent CO2 capture by cholinium amino-acid ionic
-        liquids)—will study for a master's degree at Tohoku University during the first two
-        years of the joint programme and then continue to a doctoral degree at Tohoku, while
-        Erdiyanto Munandar, S.T., M.T. pursues his doctoral study at Universitas Indonesia.
+2.  Time Schedule and Research Plan (one common work plan; JP = Japan, ID = Indonesia)
 
-    2)  Tim Jepang - Tohoku University, Mabuchi Laboratory
-        (molecular dynamics simulation)
-            The Japanese team performs the molecular dynamics simulations. It is led by the
-        Co-Principal Investigator, Prof. Mabuchi (Tohoku University), together with members of
-        the Mabuchi Laboratory. Prof. Mabuchi has developed a membrane-based empirical valence
-        bond (EVB) molecular dynamics method that is internationally recognised; this EVB method
-        is central to resolving Grotthuss proton transport in the SPAES channels.
-            This collaboration focuses on the MD work that predicts selectivity: building and
-        equilibrating the atomistic SPAES/water/ion systems, computing proton transport by the
-        EVB method (cross-checked by AIMD) and cation permeation free energy by umbrella
-        sampling, and predicting the proton transport number and cation crossover from channel
-        geometry (Gap 1). The team also screens the DS/IEC and side-chain design space to
-        recommend the "sweet spot" formulations for the Indonesian team to synthesise (Gap 2).
+        Table 2. Overall timeline (36 months)
+    +-----------------------------------------------+------------------------------+
+    | Activity (lead team)                          | Y1        Y2        Y3       |
+    +-----------------------------------------------+------------------------------+
+    | WP A Build MD platform (JP) + upgrade         | XXXX                         |
+    |      characterization SAXS/TEM/PALS (ID)      |                              |
+    | WP B MD mechanistic model of selectivity (JP) | XXXXXX    XX                 |
+    | WP C MD-guided DS/IEC optimization (JP+ID)    |    XXXX   XXXXXX             |
+    | WP D Synthesis, fabrication, validation (ID)  |      XX   XXXXXX   XXXX      |
+    | Inverse design & multi-cation extension (JP)  |                   XXXXXX     |
+    | MEC biohydrogen demonstration (ID)            |                   XXXXXX     |
+    | Exchange (workshops, ECR dispatch, confs.)    | XX    XX  XX   XX  XX    XX   |
+    | Publication & reporting (JP+ID)               |      XX      XXX      XXXX   |
+    +-----------------------------------------------+------------------------------+
 
-5   DAFTAR PUSTAKA
+    Year 1 - Research Work Plan
+        1) Japan side: build/benchmark the MD/HPC platform (GROMACS, LAMMPS/ReaxFF, CP2K,
+           Gaussian 16, EVB); construct the baseline SPAES/PIN atomistic model; begin the
+           mechanistic model (EVB proton transport + cation PMF).
+        2) Indonesia side: upgrade characterization (SAXS/TEM/PALS); re-characterise the
+           baseline SPAES/PIN; synthesise the first DS/IEC family; provide structure and
+           transport ground-truth data to Japan.
+    Year 1 - Research Exchange Plan
+        1) Japan side: host a kick-off workshop at Tohoku; receive the first ECR (master's
+           enrolment) among Robi Harahap / Mahendra Dharma Putra / Syadina Aliy.
+        2) Indonesia side: dispatch the ECR students; joint online seminars; conference
+           presentation of the baseline model.
 
-Chae, K.-J., Choi, M.-J., Lee, J., Ajayi, F. F., & Kim, I. S. (2008). Biohydrogen production via
-        biocatalyzed electrolysis in acetate-fed bioelectrochemical cells and microbial community
-        analysis. International Journal of Hydrogen Energy, 33, 5184-5192.
-Rozendal, R., Hamelers, H., Euverink, G., Metz, S., & Buisman, C. (2006). Principle and perspectives
-        of hydrogen production through biocatalyzed electrolysis. International Journal of Hydrogen
-        Energy, 31, 1632-1640.
+    Year 2 - Research Work Plan
+        1) Japan side: MD screening of side-chain-modified variants; complete the DS/IEC
+           design map; validate the model against Indonesian data (blind test).
+        2) Indonesia side: synthesise the MD-recommended "sweet spot" variants; fabricate
+           and characterise; measure t+, crossover, mechanical strength, conductivity.
+    Year 2 - Research Exchange Plan
+        1) Japan side: host a mid-term joint workshop; continue ECR supervision.
+        2) Indonesia side: reciprocal workshop in Indonesia; conference presentations.
 
-13 | Proposal JST-BRIN Nexus 2025
+13 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (2014). Sulfonated
-        polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
-        nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
-Chae, K. J., Choi, M., Ajayi, F. F., Park, W., Chang, I. S., & Kim, I. S. (2008). Mass transport
-        through a proton exchange membrane (Nafion) in microbial fuel cells. Energy & Fuels, 22,
-        169-176.
-Mauritz, K. A., & Moore, R. B. (2004). State of understanding of Nafion. Chemical Reviews, 104,
-        4535-4585.
-Shin, D. W., Guiver, M. D., & Lee, Y. M. (2017). Hydrocarbon-based polymer electrolyte membranes:
-        importance of morphology on ion transport and membrane stability. Chemical Reviews, 117,
-        4759-4805.
-Wei, H., Chen, R., & Li, G. (2015). Effect of chemical structure on the performance of sulfonated
-        poly(arylene ether sulfone) as proton exchange membrane. International Journal of Hydrogen
-        Energy, 40, 14392-14397.
-Kwon, Y., Lee, S. Y., Hong, S., Jang, J. H., Henkensmeier, D., Yoo, S. J., Kim, H.-J., & Kim, S.-H.
-        (2015). Novel sulfonated poly(arylene ether sulfone) containing hydroxyl groups for enhanced
-        proton exchange membrane properties. Polymer Chemistry, 6, 233-239.  [Gap 2 side-chain route]
-Wang, R., Wu, X., Yan, X., He, G., & Hu, Z. (2015). Proton conductivity enhancement of SPEEK membrane
-        through n-BuOH assisted self-organization. Journal of Membrane Science, 479, 46-54.
-        [Gap 2 self-organization route]
-Park, C. H., Lee, S. Y., Hwang, D. S., Shin, D. W., Cho, D. H., Lee, K. H., Kim, T.-W., Kim, T.-W.,
-        Lee, M., Kim, D.-S., Doherty, C. M., Thornton, A. W., Hill, A. J., Guiver, M. D., & Lee, Y. M.
-        (2016). Nanocrack-regulated self-humidifying membranes. Nature, 532, 480-483.
+    Year 3 - Research Work Plan
+        1) Japan side: inverse design (target selectivity -> prescribed channel geometry);
+           extend the model to multi-cation, real-anolyte conditions; finalise the
+           validated model and design guidelines.
+        2) Indonesia side: confirmatory biohydrogen-producing MEC demonstration with the
+           optimized membrane; measure H2 production and purity; final validation.
+    Year 3 - Research Exchange Plan
+        1) Japan side: ECR students transition from master's to doctoral study at Tohoku;
+           host the closing joint symposium.
+        2) Indonesia side: joint publications; dissemination across ASEAN; final reporting.
 
-        Molecular-dynamics and transport-modelling foundations (Gap 1):
-Kamcev, J., Paul, D. R., & Freeman, B. D. (2015). Ion activity coefficients in ion exchange polymers:
-        applicability of Manning's counterion condensation theory. Macromolecules, 48, 8011-8024.
-Geise, G. M., Paul, D. R., & Freeman, B. D. (2014). Fundamental water and salt transport properties of
-        polymeric materials. Progress in Polymer Science, 39, 1-42.
-Kreuer, K. D. (2001). On the development of proton conducting polymer membranes for hydrogen and
-        methanol fuel cells. Journal of Membrane Science, 185, 29-39.  [Grotthuss vs. vehicular]
-Devanathan, R., Venkatnathan, A., & Dupuis, M. (2007). Atomistic simulation of Nafion membrane: I.
-        Effect of hydration on membrane nanostructure. Journal of Physical Chemistry B, 111, 8069-8079.
-Karo, J., Aabloo, A., Thomas, J. O., & Brandell, D. (2010). Molecular dynamics modeling of proton
-        transport in Nafion and Hyflon nanostructures. Journal of Physical Chemistry B, 114, 6056-6064.
+        Exchange target: around 30% of the Japan-side direct expenses are allocated to
+    young-researcher exchange (ECR dispatch, workshops, conference travel), promoting
+    international mobility and a durable Indonesia-Japan bioenergy network.
 
-14 | Proposal JST-BRIN Nexus 2025
+14 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-Knox, C. K., & Voth, G. A. (2010). Probing selected morphological models of hydrated Nafion using
-        large-scale molecular dynamics simulations. Journal of Physical Chemistry B, 114, 3205-3218.
-Wu, Y., Chen, H., Wang, F., Paesani, F., & Voth, G. A. (2008). An improved multistate empirical
-        valence bond model for aqueous proton solvation and transport. Journal of Physical Chemistry B,
-        112, 467-482.  [MS-EVB proton transport]
-Warshel, A., & Weiss, R. M. (1980). An empirical valence bond approach for comparing reactions in
-        solutions and in enzymes. Journal of the American Chemical Society, 102, 6218-6226.  [EVB origin]
-Abraham, M. J., Murtola, T., Schulz, R., Pall, S., Smith, J. C., Hess, B., & Lindahl, E. (2015).
-        GROMACS: high performance molecular simulations through multi-level parallelism from laptops to
-        supercomputers. SoftwareX, 1-2, 19-25.  [GROMACS]
-Thompson, A. P., Aktulga, H. M., Berger, R., Bolintineanu, D. S., et al. (2022). LAMMPS - a flexible
-        simulation tool for particle-based materials modeling at the atomic, meso, and continuum scales.
-        Computer Physics Communications, 271, 108171.  [LAMMPS]
-Kuhne, T. D., Iannuzzi, M., Del Ben, M., et al. (2020). CP2K: an electronic structure and molecular
-        dynamics software package. Journal of Chemical Physics, 152, 194103.  [CP2K/DFT-MD]
-van Duin, A. C. T., Dasgupta, S., Lorant, F., & Goddard, W. A. (2001). ReaxFF: a reactive force field
-        for hydrocarbons. Journal of Physical Chemistry A, 105, 9396-9409.  [ReaxFF]
-Jorgensen, W. L., Maxwell, D. S., & Tirado-Rives, J. (1996). Development and testing of the OPLS
-        all-atom force field. Journal of the American Chemical Society, 118, 11225-11236.  [OPLS-AA]
-Berendsen, H. J. C., Grigera, J. R., & Straatsma, T. P. (1987). The missing term in effective pair
-        potentials. Journal of Physical Chemistry, 91, 6269-6271.  [SPC/E water]
-Kumar, S., Rosenberg, J. M., Bouzida, D., Swendsen, R. H., & Kollman, P. A. (1992). The weighted
-        histogram analysis method for free-energy calculations on biomolecules. Journal of Computational
-        Chemistry, 13, 1011-1021.  [umbrella sampling/WHAM]
+PART IV.  BUDGET DESCRIPTION (JAPAN SIDE) - funded by JST (JPY)
 
-Note: This reference set is focused on the two author-stated gaps and the combined MD-plus-experiment
-approach. It combines the membrane and MEC literature carried over from the SPAES/PIN reference study
-(Chae et al., Mauritz & Moore, Shin et al., Wei et al., Kwon et al., Wang et al., Park et al./Nature)
-with molecular-dynamics and transport-modelling foundations (EVB/MS-EVB proton transport; GROMACS,
-LAMMPS, CP2K, ReaxFF engines; OPLS-AA and SPC/E; umbrella sampling/WHAM; Manning-Donnan and Grotthuss
-theory) required to build and validate the MD model of Gap 1. The full 39-reference list of the source
-paper is preserved in the companion proposal (Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt).
+        No cross-border funding: JST funds the Japan-based team only (molecular dynamics,
+    HPC, software, personnel, exchange, and researchers' capacity building). Indirect
+    expenses = 30% of direct expenses (added by JST to the hosting institution).
 
-15 | Proposal JST-BRIN Nexus 2025
+        Table 3. Japan-side budget summary (in 1,000 JPY)
+    +-------------------------------+--------+--------+--------+---------+----------------+
+    | Item                          | FY2027 | FY2028 | FY2029 | TOTAL(a)| Exchange plan(b)|
+    +-------------------------------+--------+--------+--------+---------+----------------+
+    | Facilities and equipment      |  3,000 |      0 |      0 |   3,000 |              - |
+    |   (GPU workstation node)      |        |        |        |         |                |
+    | Consumables (HPC compute      |  3,000 |  3,000 |  3,000 |   9,000 |              - |
+    |   allocation; Gaussian 16)    |        |        |        |         |                |
+    | Travel (Japan-Indonesia       |  2,400 |  2,400 |  2,400 |   7,200 |          7,200 |
+    |   coordination; conferences)  |        |        |        |         |                |
+    | Personnel (MD research asst.) |  1,200 |  1,200 |  1,200 |   3,600 |              - |
+    | Others (dissemination/APC)    |    400 |    400 |    400 |   1,200 |              - |
+    +-------------------------------+--------+--------+--------+---------+----------------+
+    | Direct (a) international joint |  10,000|  7,000 |  7,000 |  24,000 |  7,200 (~30%a) |
+    |   research                    |        |        |        |         |                |
+    +-------------------------------+--------+--------+--------+---------+----------------+
+
+        Table 4. Japan-side researchers' capacity building (optional; in 1,000 JPY)
+    +-------------------------------+--------+--------+--------+---------+
+    | ECR candidate (doctoral, ECR) | FY2027 | FY2028 | FY2029 | TOTAL   |
+    +-------------------------------+--------+--------+--------+---------+
+    | Robi Harahap (accom.+research)|  3,900 |  3,900 |  3,900 |  11,700 |
+    | Mahendra Dharma Putra         |  3,900 |  3,900 |  3,900 |  11,700 |
+    | Syadina Aliy                  |  3,900 |  3,900 |  3,900 |  11,700 |
+    +-------------------------------+--------+--------+--------+---------+
+    | Capacity building total       | 11,700 | 11,700 | 11,700 |  35,100 |
+    +-------------------------------+--------+--------+--------+---------+
+      (max 3.9M JPY/person/year; max 11.7M JPY/person over 36 months, per guideline)
+
+        Japan-side direct total = 24,000 + 35,100 = 59,100 (1,000 JPY) = 59.1M JPY
+        (within the 90M JPY cap for joint research with capacity building).
+        Indirect expenses (30% of direct) = 17,730 (1,000 JPY), added separately by JST.
+
+15 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN)
+PART V.  BUDGET DESCRIPTION (INDONESIA SIDE) - funded by BRIN/LPDP (IDR)
 
-+----+---------------------------------+-------------+------------------------------------------+
-| NO | INDIKATOR KEBERHASILAN          | JUMLAH      | DESKRIPSI                                |
-+----+---------------------------------+-------------+------------------------------------------+
-| 1  | Keluaran (output) Hasil Riset:  | 2-3 journal | Scientific publications in international |
-|    | international journal           | publications| reputable journals (Scopus Q1/Q2) and   |
-|    | publications (Scopus Q1/Q2)     |             | conferences, reporting the MD-validated  |
-|    |                                 |             | mechanistic model (Gap 1) and the        |
-|    |                                 |             | MD-guided DS/IEC optimization (Gap 2).   |
-+----+---------------------------------+-------------+------------------------------------------+
-| 2  | Dampak (outcome) Hasil Riset:   | 1 validated | A validated MD-plus-experiment structure-|
-|    | predictive design tool for      | model +     | property-transport model and design      |
-|    | proton-selective membranes      | guidelines  | guidelines converting the qualitative    |
-|    |                                 |             | selectivity narrative into a predictive  |
-|    |                                 |             | tool.                                    |
-+----+---------------------------------+-------------+------------------------------------------+
-| 3  | Pembinaan / research capacity   | 3 students  | Three Universitas Indonesia members      |
-|    | building (Tohoku University)     | + 1 doctoral| (Robi Harahap, Mahendra Dharma Putra,    |
-|    |                                 |             | Syadina Aliy) undertake master's then    |
-|    |                                 |             | doctoral study at Tohoku University; one |
-|    |                                 |             | doctoral candidate (Erdiyanto Munandar)  |
-|    |                                 |             | is involved at Universitas Indonesia.    |
-+----+---------------------------------+-------------+------------------------------------------+
-| 4  | Networking internasional        | 1 network   | International collaboration between the  |
-|    | (JST-BRIN Nexus)                |             | Indonesian team (UI & IPB, experiments)  |
-|    |                                 |             | and the Japanese team (Tohoku, Mabuchi   |
-|    |                                 |             | Lab, MD) maintained.                     |
-+----+---------------------------------+-------------+------------------------------------------+
+        No cross-border funding: BRIN funds the Indonesia-based team only (experimental
+    research). Per guideline: personnel <= 25%; capital expenditure <= 10%; international
+    travel (data) <= 10%; indirect (monitoring/evaluation) <= 5%. Software purchases, HPC/
+    computation, and overhead/communication are NOT eligible on the Indonesia side (these
+    are Japan-side/JST costs). Up to Rp 1,000,000,000 per project/year.
 
-        Success criterion for Gap 1: the MD model reproduces the reference benchmarks (proton
-transport number t+ = 0.96 and 3-10-fold lower cation crossover than Nafion-211) from channel
-geometry alone, and then predicts the transport of new DS/IEC variants within acceptable error
-before measurement.
+        Table 5. Indonesia-side budget summary (in 1,000 IDR)
+    +-------------------------------+---------+---------+---------+-----------+
+    | Item                          | FY2027  | FY2028  | FY2029  | TOTAL     |
+    +-------------------------------+---------+---------+---------+-----------+
+    | DIRECT EXPENSES               |         |         |         |           |
+    |  Personnel (<=25%)            | 180,000 | 180,000 | 180,000 |   540,000 |
+    |  Consumables (materials,      | 400,000 | 380,000 | 360,000 | 1,140,000 |
+    |    reagents, characterization)|         |         |         |           |
+    |  Travel (domestic + intl<=10%)|  80,000 |  80,000 |  80,000 |   240,000 |
+    |  Capital (<=10%; instruments) |  80,000 |  60,000 |  40,000 |   180,000 |
+    |  Others (APC Q1; meetings)    |  40,000 |  60,000 |  80,000 |   180,000 |
+    |  INDIRECT (<=5%; monit./eval.)|  20,000 |  20,000 |  20,000 |    60,000 |
+    +-------------------------------+---------+---------+---------+-----------+
+    | TOTAL (<= 1,000,000 / year)   | 800,000 | 780,000 | 760,000 | 2,340,000 |
+    +-------------------------------+---------+---------+---------+-----------+
+      Checks: personnel 180,000/800,000 = 22.5% (<25%); capital <=10%; indirect 2.5% (<5%).
 
-        Success criterion for Gap 2: an MD-screened, experimentally confirmed DS/IEC design space
-with an identified "sweet spot" formulation that meets or exceeds the baseline selectivity
-(t+ >= 0.96) while retaining tensile strength > 40 MPa from the polyimide nanofiber reinforcement.
+        Consumables detail (Indonesia side, name/series/origin; Year 1 illustrative):
+        - SPAES base resin (Kolon, South Korea) + DS/IEC synthesis reagents
+        - Side-chain modifiers (hydroxyl precursors; n-BuOH)
+        - N,N-dimethylacetamide (DMAc) solvent; polyimide nanofiber (PIN, ~200 nm)
+        - Nafion-211 (DuPont, USA) control
+        - Chemicals (H2SO4, NaCl, NaOH, HCl, phenolphthalein, standard cations)
+        - Nitrogen carrier gas (99.999%) and standard gas
+        - SAXS, TEM tomography, and PALS measurement time (outsourced services)
+        Capital detail: transport instrumentation - multimeter (Keithley 2700), Ag/AgCl
+        reference electrode (Microelectrode), gastight syringe (Hamilton #1002) (<=10%).
+        NOTE: MD software (Gaussian 16), HPC/GPU compute, and workstations are NOT in the
+        Indonesia budget (ineligible under BRIN rules); they are Japan-side/JST costs.
 
-16 | Proposal JST-BRIN Nexus 2025
+        Expenditure on exchange plan (Indonesia side): domestic travel and international
+    conference/workshop travel for young researchers and joint meetings, within the
+    Travel line above and the international-travel <=10% limit; visiting-professor / joint-
+    research-visit mobility is pursued via the BRIN researcher mobility scheme where
+    applicable.
+
+16 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-7   JADWAL PELAKSANAAN
+        Table 6. Indonesia-side researcher mobility (in 1,000 IDR; via BRIN mobility scheme)
+    +-------------------------------+---------+---------+---------+-----------+
+    | Item                          | FY2027  | FY2028  | FY2029  | TOTAL     |
+    +-------------------------------+---------+---------+---------+-----------+
+    | Visiting researcher (to Japan)|  40,000 |  40,000 |  40,000 |   120,000 |
+    | Joint research visit          |  40,000 |  40,000 |  40,000 |   120,000 |
+    +-------------------------------+---------+---------+---------+-----------+
+    | Total (mobility scheme)       |  80,000 |  80,000 |  80,000 |   240,000 |
+    +-------------------------------+---------+---------+---------+-----------+
+      (International Visiting Professor / joint-research-visit travel is covered only via
+       the BRIN researcher mobility scheme, Directorate of Talent Management.)
 
-        Table 2. Timeline of proposed research
-+-----------------------------------------------+---------------------------------------+
-|                                               |            Month (1-12)               |
-| Activity (team)                               | 1  2  3  4  5  6  7  8  9  10 11 12    |
-+-----------------------------------------------+---------------------------------------+
-| A. Build MD platform (JP) + upgrade            | X  X  X                               |
-|    characterization (ID)                      |                                       |
-| B. MD mechanistic model of selectivity (JP)   |       X  X  X  X  X                    |
-| C. MD-guided DS/IEC optimization (JP+ID)      |             X  X  X  X                 |
-| D. Synthesis, fabrication & closed-loop        |                   X  X  X  X  X        |
-|    experimental validation (ID)               |                                       |
-| Publication & reporting (JP+ID)               |                            X  X  X     |
-+-----------------------------------------------+---------------------------------------+
-        (JP = Japanese team, Tohoku University; ID = Indonesian team, UI & IPB)
+        Mandatory minimum deliverables (Indonesia side, per RIIM Kolaborasi, 2-3 year
+    project): at least 1 published, 1 accepted, and 1 under-review first-author (or
+    co-author for joint publications) article in medium/high-reputation international
+    journals, accumulated across the years; and/or registered intellectual property with
+    an equity principle. Additional outputs: prototype membrane/MEC, technology/system
+    model, and design guidelines.
 
-8   PETA JALAN (ROAD MAP) RISET
-
-        [Figure 5. Ten years roadmap of MD-guided proton-selective membranes]
-        --------------------------------------------------------------------------
-        | Phase 1 (2025-2027): Validated MD model + DS/IEC optimization (closing  |
-        |     the two author-stated gaps) with experimental validation.           |
-        | Phase 2 (2028-2031): MD extended to multi-cation & operating conditions;|
-        |     inverse design of channels for a target selectivity.                |
-        | Phase 3 (2032-2036): MD-guided membrane library, scale-up, and          |
-        |     deployment in real MECs and other PEM applications.                 |
-        --------------------------------------------------------------------------
-
-        This figure illustrates a ten-year roadmap. The first phase (2025-2027) closes the two
-author-stated gaps by delivering an MD-validated transport model and an optimized DS/IEC design
-space, each confirmed by experiment. The second phase (2028-2031) extends the model to
-multi-cation anolytes and real operating conditions and moves toward inverse design—specifying a
-target selectivity and letting the MD model prescribe the channel geometry and DS/IEC. The third
-phase (2032-2036) uses the model to build a membrane library, scale up the best formulations, and
-deploy them in real MECs and other PEM applications. This roadmap positions MD-guided design as a
-scalable, sustainable path aligned with long-term technological goals.
-
-17 | Proposal JST-BRIN Nexus 2025
+17 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-        [Figure 6. Research plan for the current study]
-        --------------------------------------------------------------------------
-        | Year 1: Build MD/HPC platform (JP) + facility upgrade (ID, SAXS/TEM/    |
-        |         PALS); baseline SPAES/PIN MD model + re-characterisation; first |
-        |         DS/IEC synthesis batch (ID); MD mechanistic model (EVB + PMF).  |
-        | Year 2: MD screening of side-chain variants (JP) + full DS/IEC design   |
-        |         map; synthesis of the "sweet spot" variants (ID); closed-loop   |
-        |         experimental validation (ID); blind MD-vs-experiment test.      |
-        --------------------------------------------------------------------------
+PART VI.  RESEARCH PARTICIPANTS
 
-        This figure presents a two-year research plan tailored to the two gaps. In Year 1, the
-Japanese team builds the MD/HPC platform and constructs and benchmarks the baseline SPAES/PIN MD
-model, while the Indonesian team upgrades the characterization facility, produces the first family
-of DS/IEC variants, and re-characterises the baseline; the mechanistic model (EVB proton transport
-+ cation PMF) is formulated. In Year 2, the Japanese team screens side-chain-modified variants to
-complete the design map (Gap 2), the Indonesian team synthesises the "sweet spot" variants, and the
-experimental team closes the loop by validating the MD predictions against measured transport (Gap
-1), including a blind prediction test on new variants. This structured plan ensures systematic
-progression from simulation and synthesis to a validated, predictive framework.
+1.  Japan side (Tohoku University)
+    +-------------+-------------------------+---------------------+-----------------------+
+    | Role        | Name (last, first)      | Institution/Dept    | Role in Project       |
+    +-------------+-------------------------+---------------------+-----------------------+
+    | PI          | Mabuchi / (given)       | Tohoku University,  | Lead Japan side; MD   |
+    |             |                         | Mabuchi Laboratory  | (EVB) of selectivity  |
+    | Researcher  | Mabuchi Lab members     | Tohoku University   | MD runs, analysis     |
+    |             | (to be specified)       |                     | (Gap 1 & 2 screening) |
+    +-------------+-------------------------+---------------------+-----------------------+
 
-9   USULAN BIAYA
+2.  Indonesia side (IPB & Universitas Indonesia)
+    +-------------+-------------------------+---------------------+-----------------------+
+    | Role        | Name (last, first)      | Institution/Dept    | Role in Project       |
+    +-------------+-------------------------+---------------------+-----------------------+
+    | PI          | Farobie / Obie          | Institut Pertanian  | Lead Indonesia side;  |
+    |             |                         | Bogor               | experiments, MEC      |
+    | Co-PI       | Annas / Nassrudin       | Universitas         | Energy/env. systems,  |
+    |             |                         | Indonesia           | membrane transport    |
+    | Researcher  | Munandar / Erdiyanto    | Universitas         | Multiscale modelling; |
+    |             | (S.T., M.T.; doctoral)  | Indonesia (EERG)    | data analysis         |
+    | ECR         | Harahap / Muhammad Robi | UI -> Tohoku Univ.  | MD & experiments;     |
+    |             | (S.T.)                  | (capacity building) | master's -> doctoral  |
+    | ECR         | Dharma Putra / Mahendra | UI -> Tohoku Univ.  | MD & experiments;     |
+    |             |                         | (capacity building) | master's -> doctoral  |
+    | ECR         | Aliy / Syadina          | UI -> Tohoku Univ.  | MD & experiments;     |
+    |             |                         | (capacity building) | master's -> doctoral  |
+    +-------------+-------------------------+---------------------+-----------------------+
 
-        Table 3 shows the funding allocation for research over a one year period, with a total
-proposed amount of Rp 200.000.000,00. The budget covers both the computational (HPC compute, MD
-software, GPU workstation - Japanese team) and the experimental (materials, characterization,
-transport testing - Indonesian team) pillars of the combined MD-plus-experiment approach.
+        Contribution and equivalence of effort: the Japanese team leads all molecular
+    dynamics (world-leading EVB membrane MD) and the Indonesian team leads all
+    experimental synthesis, characterization, transport testing, and biohydrogen MEC
+    demonstration. The two efforts are balanced, run under one common work plan, and are
+    mutually dependent through the predict-verify loop.
 
-18 | Proposal JST-BRIN Nexus 2025
+18 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-        Table 3. Funding Allocation for Research
-+----+-------------------------------------+-------+--------+-------------+-------------+
-| No | Item                                | Unit  | Number | Unit price  | Total cost  |
-+----+-------------------------------------+-------+--------+-------------+-------------+
-|    | Bahan dan peralatan (eksperimen)    |       |        |             |             |
-| 1  | SPAES base resin (Kolon, South      | Set   |   1    |  12.000.000 |  12.000.000 |
-|    | Korea) + DS/IEC synthesis reagents  |       |        |             |             |
-| 2  | Side-chain modifiers (hydroxyl;     | Paket |   1    |   6.000.000 |   6.000.000 |
-|    | n-BuOH self-organization)           |       |        |             |             |
-| 3  | N,N-dimethylacetamide (DMAc)        | Set   |   1    |   4.000.000 |   4.000.000 |
-|    | solvent                             |       |        |             |             |
-| 4  | Polyimide Nanofiber (PIN) support   | Set   |   1    |   6.000.000 |   6.000.000 |
-|    | (electrospun, ~200 nm)              |       |        |             |             |
-| 5  | Nafion-211 membrane (DuPont, USA)   | Unit  |   2    |   3.000.000 |   6.000.000 |
-|    | - control                           |       |        |             |             |
-| 6  | Chemicals (H2SO4, NaCl, NaOH, HCl,  | Paket |   1    |   5.000.000 |   5.000.000 |
-|    | phenolphthalein, standard cations)  |       |        |             |             |
-| 7  | Nitrogen carrier gas (99.999%) &    | Paket |   1    |   4.000.000 |   4.000.000 |
-|    | standard gas (crossover checks)     |       |        |             |             |
-| 8  | SAXS measurement time (channel      | Paket |   1    |  18.000.000 |  18.000.000 |
-|    | width & cluster spacing)            |       |        |             |             |
-| 9  | TEM tomography measurement time     | Paket |   1    |  16.000.000 |  16.000.000 |
-|    | (3D tortuosity/connectivity)        |       |        |             |             |
-| 10 | Positron Annihilation Lifetime      | Paket |   1    |   8.000.000 |   8.000.000 |
-|    | Spectroscopy (PALS) - free volume   |       |        |             |             |
-|    | Komputasi (simulasi MD - Tim Jepang)|       |        |             |             |
-| 11 | GPU-HPC compute allocation          | Paket |   1    |  34.000.000 |  34.000.000 |
-|    | (GROMACS/LAMMPS/CP2K, A100 nodes)   |       |        |             |             |
-| 12 | GPU workstation node (MD/analysis)  | Unit  |   1    |  20.000.000 |  20.000.000 |
-| 13 | Gaussian 16 license (RESP charges)  | Unit  |   1    |   8.000.000 |   8.000.000 |
-|    | Instrumentasi transport (eksperimen)|       |        |             |             |
-| 14 | Multimeter, 2700 Data Acquisition   | Unit  |   1    |  10.000.000 |  10.000.000 |
-|    | Series (Keithley, USA)              |       |        |             |             |
-| 15 | Ag/AgCl Reference Electrode         | Set   |   2    |   3.000.000 |   6.000.000 |
-|    | (Microelectrode, USA)               |       |        |             |             |
-| 16 | Gastight Syringe (Hamilton          | Unit  |   2    |   1.500.000 |   3.000.000 |
-|    | SampleLock #1002, 2.5 mL, USA)      |       |        |             |             |
-|    | Mobilisasi                          |       |        |             |             |
-| 1  | Indonesia - Japan (UI/IPB-Tohoku)   | Paket |   2    |   4.500.000 |   9.000.000 |
-| 2  | Domestic conference travel          | Paket |   1    |   4.000.000 |   4.000.000 |
-|    | Lainnya                             |       |        |             |             |
-| 1  | Honorarium asisten                  | Bulan |  10    |   1.200.000 |  12.000.000 |
-| 2  | Biaya Publikasi Jurnal              | Artikel|  1    |   5.000.000 |   5.000.000 |
-|    | Internasional (APC)                 |       |        |             |             |
-| 3  | ATK dan Keperluan Riset             | Paket |   1    |   4.000.000 |   4.000.000 |
-+----+-------------------------------------+-------+--------+-------------+-------------+
-|    | Total keseluruhan                   |       |        |    Rp       | 200.000.000 |
-+----+-------------------------------------+-------+--------+-------------+-------------+
+PART VII.  PERSONAL BACKGROUND INFORMATION
 
-19 | Proposal JST-BRIN Nexus 2025
+1.  Japan side
+    Principal Investigator: Prof. Mabuchi (Tohoku University: Professor, Mabuchi
+        Laboratory).
+        - Expertise: molecular dynamics of membranes; developer of the internationally
+          recognised membrane-based empirical valence bond (EVB) method for proton
+          transport in polymer-electrolyte membranes.
+        - Role: leads the Japan-side MD (Gap 1 model; Gap 2 screening) and supervises the
+          dispatched ECR students at Tohoku University.
+        - (Insert up to 5 key publications of the last 5 years and notable awards.)
+    Past international personnel exchange achievements: (insert prior joint research and
+        researcher-exchange record, e.g., hosting international students, symposia.)
+
+2.  Indonesia side
+    Principal Investigator: Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor:
+        Associate Professor).
+        - Expertise: bioenergy, renewable energy conversion, thermochemical/biochemical
+          processes.
+        - Google Scholar: https://scholar.google.com/citations?user=QgeXR-QAAAAJ&hl=en
+        - Role: leads the Indonesia-side experimental research and MEC biohydrogen work.
+    Co-Principal Investigator: Prof. Nassrudin Annas (Universitas Indonesia: Professor).
+        - Expertise: energy and environmental systems; membrane transport.
+        - Google Scholar: https://scholar.google.co.id/citations?user=_Lz1fSAAAAAJ&hl=id
+    Team member: Erdiyanto Munandar, S.T., M.T. - doctoral candidate, Universitas
+        Indonesia (Design of an adsorption contactor for CO2 direct air capture using
+        artificial intelligence and multiscale modelling; master's thesis on
+        exergoeconomic/exergoenvironmental optimization of a polygeneration system).
+    Early-career researchers (research capacity building, dispatched to Tohoku
+        University - master's for the first two years, then doctoral):
+        - Muhammad Robi Harahap, S.T. (B.Eng. Mechanical Engineering, UI; thesis: effect
+          of OPEFB biochar mass fraction on the thermal conductivity of palm-oil-waste PCM
+          nanocomposite via molecular dynamics simulation).
+        - Mahendra Dharma Putra (Mechanical Engineering, UI; MD of evaporation and collision
+          of water and ethanol-water nanodroplets on hot surfaces for high cooling flux).
+        - Syadina Aliy (Mechanical Engineering, UI; MD of temperature-dependent CO2 capture
+          by cholinium amino-acid ionic liquids, 288-318 K).
+    Past international personnel exchange achievements: (insert Indonesia-Japan and other
+        international collaboration/exchange record of the PI/Co-PI.)
+
+19 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-        Note on materials and equipment (name, series, origin). Experimental (Indonesian team),
-as used in the source paper and carried into this study:
-        - SPAES ionomer: proton-conducting polymer, IEC > 1.75 meq/mg, DS 100%; base resin
-          polymerized by Kolon (South Korea).
-        - N,N-dimethylacetamide (DMAc): casting solvent for the SPAES solution.
-        - Polyimide nanofiber (PIN): electrospun support, average fiber thickness ~200 nm.
-        - Nafion-211: perfluorosulfonic acid control membrane, DuPont (USA).
-        - FE-SEM: TESCAN-MIRA3 LMU (Czech), with energy-dispersive X-ray (EDX) spectroscopy.
-        - AFM: atomic force microscope, soft tapping mode (microphase separation).
-        - Instron 5967 tension tester, Instron Corp. (USA); ASTM D882, 50 mm/min.
-        - Ag/AgCl reference electrode, +0.195 V vs. NHE, Microelectrode (USA).
-        - Multimeter, 2700 Data Acquisition Series, Keithley (USA).
-        - Ion chromatography, ICS5000, DIONEX (USA) - cation crossover.
-        - Gas chromatograph, Series 580, GawMac Instrument Co. (USA), thermal conductivity
-          detector, Porapak Q sieve column; nitrogen carrier gas (99.999%).
-        - Gastight syringe, 2.5 mL, Hamilton SampleLock #1002 (USA).
-        - MEC electrodes: carbon felt anode (25 cm2); Pt-loaded perforated titanium plate
-          cathode (0.5 mg Pt/cm2).
-        - New characterization: SAXS, TEM tomography, and PALS (quantitative channel geometry).
-        Computational - molecular dynamics (Japanese team, Tohoku University):
-        - Classical MD: GROMACS 2023 (GPU); force fields OPLS-AA/GAFF; water SPC/E.
-        - Reactive / AIMD: LAMMPS (ReaxFF); CP2K 2024 (DFT-MD).
-        - Proton transport: membrane-based EVB method (Prof. Mabuchi), multistate form (MS-EVB).
-        - Partial charges: RESP from HF/6-31G* (Gaussian 16).
-        - Free energy: umbrella sampling + WHAM; analysis with MDAnalysis and VMD.
-        - Hardware: GPU HPC cluster, Mabuchi Laboratory, Tohoku University (NVIDIA A100 nodes).
+PART VIII.  COMPLIANCE, ETHICS, DATA MANAGEMENT AND ACKNOWLEDGEMENT
 
-10  CV PENELITI
-        dilengkapi dengan screenshot data H-index
+1.  Legal approval and eligibility
+        The proposal will carry legal approval (signed approval sheet) from an authorized
+    official of the Indonesian institution. The Indonesian PI and team members have
+    research track records and clearly defined roles (see Parts VI-VII and CVs). Identical
+    copies of this proposal are submitted to JST (by the Japan PI, via e-Rad) and to BRIN
+    (by the Indonesia PI, via https://pendanaan-risnov.brin.go.id/).
 
-    1.  Principal Investigator (Tim Indonesia)
-                       : Dr.Eng. Obie Farobie, M.Si. (Institut Pertanian Bogor)
-        Screenshot     :
-    2.  Co-Principal Investigator (Tim Indonesia)
-                       : Prof. Nassrudin Annas (Universitas Indonesia)
-        Screenshot     :
-    3.  Co-Principal Investigator (Tim Jepang)
-                       : Prof. Mabuchi (Tohoku University)
-        Screenshot     :
+2.  Research ethics and foreign research permit
+        The Indonesian team will obtain research ethical clearance from the authorized
+    Ethics Committee before the research commences. Because the MEC uses microbial
+    cultures (exoelectrogens), any biological work follows the ethical-clearance process.
+    Japanese researchers conducting activities in Indonesia will obtain a foreign research
+    permit via the Research Ethical Clearance system (https://klirensetik.brin.go.id). The
+    Japan-side PI will complete the research-ethics training required by JST/MEXT.
 
-20 | Proposal JST-BRIN Nexus 2025
+3.  Genetic Resources and Traditional Knowledge (GRTK) / Nagoya Protocol
+        Any use of microbial genetic resources (exoelectrogen consortia) complies with the
+    Convention on Biological Diversity, the Nagoya Protocol, the ITPGRFA, and Indonesian
+    law, observing prior informed consent and fair and equitable benefit sharing. Details
+    are recorded in the Collaborative Agreement.
+
+4.  Material Transfer Agreement (MTA) and export control
+        Any tangible research materials taken from Indonesia (e.g., microbial samples,
+    membranes) are transferred under a Material Transfer Agreement between the institutions
+    in compliance with Indonesian law; transfers from Japan comply with the Foreign
+    Exchange and Foreign Trade Act (Security Export Control).
+
+5.  Intellectual Property (IP)
+        The partners will agree in advance, in the Collaborative Agreement, how exploited
+    IP is shared, in accordance with the laws of both countries and institutional policies
+    (principle of equity). A cooperative-research contract will be concluded between the
+    institutions.
+
+6.  Data management plan
+        A data management plan governs primary data and outputs. Primary data and research
+    outputs are reported and preserved at BRIN's Indonesia National Scientific Repository
+    (Repositori Ilmiah Nasional, https://rin.brin.go.id/); materials/specimens are stored
+    at the BRIN Directorate of Scientific Collection Management. Handling respects JST's
+    Basic Policy on the handling of research results to promote open science.
+
+7.  Acknowledgement (mandatory in all resulting publications)
+        "This research was supported by the RIIM BRIN and LPDP Grants, grant number ....
+    (contract number). We also express our gratitude to BRIN and JST."
+
+20 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
 
 
 ================================================================================
 PAGE 21
 ================================================================================
 
-    4.  Principal Investigator : Dr.Eng. Obie Farobie, M.Si.
-        Profile        : Associate Professor, Institut Pertanian Bogor (IPB), Indonesia.
-                         Google Scholar:
-                         https://scholar.google.com/citations?user=QgeXR-QAAAAJ&hl=en
-    5.  Co-Principal Investigator : Prof. Nassrudin Annas
-        Profile        : Universitas Indonesia; Energy and Environmental Research Group.
-                         Google Scholar:
-                         https://scholar.google.co.id/citations?user=_Lz1fSAAAAAJ&hl=id
-    6.  Co-Principal Investigator : Prof. Mabuchi
-        Profile        : Tohoku University, Mabuchi Laboratory, Japan. Developer of the
-                         internationally recognised membrane-based EVB molecular dynamics
-                         method for proton transport in membranes.
+APPENDIX A - BASELINE TARGETS FROM THE SOURCE PAPER
 
-    Team members (Energy and Environmental Research Group, Universitas Indonesia):
-        - Erdiyanto Munandar, S.T., M.T. - doctoral candidate, Universitas Indonesia
-          (dissertation: Design of Adsorption Contactor for CO2 Direct Air Capture using
-          Artificial Intelligence and Multiscale Modeling; master's thesis: Optimization of a
-          Polygeneration System on Nusalaut Island - Exergoeconomic and Exergoenvironmental
-          Approaches).
-    Research capacity building (master's for the first 2 years, then doctoral, at Tohoku
-    University):
-        - Muhammad Robi Harahap, S.T. - B.Eng. Mechanical Engineering, Universitas Indonesia
-          (thesis: The Effect of Oil Palm Empty Fruit Bunch (OPEFB) Biochar Mass Fraction on
-          the Thermal Conductivity of Palm Oil Waste-Based PCM Nanocomposite using Molecular
-          Dynamics Simulation).
-        - Mahendra Dharma Putra - Mechanical Engineering, Universitas Indonesia (Molecular
-          Dynamics of evaporation and collision of water and ethanol-water nanodroplets on hot
-          surfaces for high cooling flux applications).
-        - Syadina Aliy - Mechanical Engineering, Universitas Indonesia (Molecular Dynamics
-          insights into temperature-dependent CO2 capture by cholinium amino-acid ionic
-          liquids; structural and transport properties from 288 K to 318 K).
-
-21 | Proposal JST-BRIN Nexus 2025
-
-
-================================================================================
-PAGE 22
-================================================================================
-
-        (This page intentionally left blank.)
-
-
-================================================================================
-PAGE 23
-================================================================================
-
-Rencana Anggaran Biaya (RAB)
-
-Judul    : Predictive Structure-Property Modelling of Proton-Selective Hydrocarbon
-           Membranes for Next Generation Microbial Electrolysis Cells (MD + experiments)
-Pengusul : Dr.Eng. Obie Farobie, M.Si. (PI, Tim Indonesia)
-Skema    : JST-BRIN Nexus Joint Research Programme
-Institusi: Institut Pertanian Bogor / Universitas Indonesia (Tim Indonesia);
-           Tohoku University (Tim Jepang)
-
-Rekapitulasi RAB
-+-----------------------------------------------+------------------+
-| Deskripsi                                     | Biaya (Rp)       |
-+-----------------------------------------------+------------------+
-| Honor (maksimal 25%)                          |      12.000.000  |
-| Biaya Bahan Habis Pakai (eksperimen)          |      85.000.000  |
-| Biaya Komputasi (simulasi MD)                 |      62.000.000  |
-| Biaya Perjalanan                              |      13.000.000  |
-| Biaya Operasional Lainnya                     |      28.000.000  |
-+-----------------------------------------------+------------------+
-| Total                                         |     200.000.000  |
-+-----------------------------------------------+------------------+
-
-Rincian RAB
-
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Honor                    |                               |           |        |             |             |
-| Honorarium Asisten       | Membantu simulasi MD,         | 10 bulan  |        |   1.200.000 |  12.000.000 |
-| Peneliti (Mahasiswa      | sintesis, karakterisasi, dan  |           |        |             |             |
-| S2/S3, komputasi &       | pengukuran transport untuk    |           |        |             |             |
-| eksperimen)              | validasi model.               |           |        |             |             |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SUBTOTAL (Rp)                                                                                12.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
-Biaya Bahan Habis Pakai (eksperimen - Tim Indonesia) - Gap 2 sintesis & Gap 1 karakterisasi
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SPAES base resin (Kolon) | Resin dasar + reagen sintesis | 1 Set     |        |  12.000.000 |  12.000.000 |
-| + reagen sintesis DS/IEC | keluarga DS/IEC bervariasi.   |           |        |             |             |
-| Side-chain modifiers     | Modifikasi rantai samping     | 1 Paket   |        |   6.000.000 |   6.000.000 |
-| (hydroxyl; n-BuOH)       | (Kwon et al. [34]; SPEEK [35])|           |        |             |             |
-| N,N-dimethylacetamide    | Pelarut casting larutan SPAES.| 1 Set     |        |   4.000.000 |   4.000.000 |
-| (DMAc)                   |                               |           |        |             |             |
-| Polyimide Nanofiber      | Substrat penguat mekanik      | 1 Set     |        |   6.000.000 |   6.000.000 |
-| (PIN, ~200 nm)           | (electrospun).                |           |        |             |             |
-| Nafion-211 (DuPont, USA) | Membran pembanding (control). | 2 Unit    |        |   3.000.000 |   6.000.000 |
-| Chemicals (H2SO4, NaCl,  | Asidifikasi, titrasi IEC,     | 1 Paket   |        |   5.000.000 |   5.000.000 |
-| NaOH, HCl, dll.)         | pengukuran crossover kation.  |           |        |             |             |
-| Nitrogen (99.999%) &     | Gas pembawa & analisis        | 1 Paket   |        |   4.000.000 |   4.000.000 |
-| standard gas             | crossover gas.                |           |        |             |             |
-| SAXS measurement time    | Lebar saluran & jarak cluster | 1 Paket   |        |  18.000.000 |  18.000.000 |
-|                          | (input & validasi MD).        |           |        |             |             |
-| TEM tomography           | Tortuositas & konektivitas 3D.| 1 Paket   |        |  16.000.000 |  16.000.000 |
-| PALS measurement time    | Ukuran free-volume/void.      | 1 Paket   |        |   8.000.000 |   8.000.000 |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SUBTOTAL (Rp)                                                                                85.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
-
-================================================================================
-PAGE 24
-================================================================================
-
-Biaya Komputasi (simulasi MD - Tim Jepang) - Gap 1 model & Gap 2 screening
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| GPU-HPC compute          | Simulasi MD/AIMD (GROMACS,    | 1 Paket   |        |  34.000.000 |  34.000.000 |
-| allocation (A100 nodes)  | LAMMPS/ReaxFF, CP2K) proton   |           |        |             |             |
-|                          | & kation, PMF umbrella        |           |        |             |             |
-|                          | sampling.                     |           |        |             |             |
-| GPU workstation node     | Node kerja untuk penyiapan    | 1 Unit    |        |  20.000.000 |  20.000.000 |
-| (MD/analisis)            | sistem, analisis (MDAnalysis, |           |        |             |             |
-|                          | VMD), dan penyimpanan.        |           |        |             |             |
-| Gaussian 16 license      | Perhitungan muatan RESP       | 1 Unit    |        |   8.000.000 |   8.000.000 |
-|                          | (HF/6-31G*) untuk medan gaya. |           |        |             |             |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SUBTOTAL (Rp)                                                                                62.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
-Biaya Perjalanan
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Perjalanan Indonesia -   | Koordinasi simulasi (Tohoku) -| 2 Paket   |        |   4.500.000 |   9.000.000 |
-| Japan (UI/IPB - Tohoku)  | eksperimen (Indonesia).       |           |        |             |             |
-| Perjalanan konferensi    | Diseminasi model MD           | 1 Paket   |        |   4.000.000 |   4.000.000 |
-| domestik (PP)            | tervalidasi & peta DS/IEC.    |           |        |             |             |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SUBTOTAL (Rp)                                                                                13.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
-
-================================================================================
-PAGE 25
-================================================================================
-
-Biaya Operasional Lainnya
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Deskripsi                | Justifikasi Pemakaian         | Kuantitas | Satuan | Harga Biaya | (Rp)        |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| Instrumentasi transport  | Multimeter Keithley 2700,     | 1 Paket   |        |  19.000.000 |  19.000.000 |
-| (Keithley 2700, Ag/AgCl, | elektroda Ag/AgCl, dan        |           |        |             |             |
-| Hamilton #1002)          | gastight syringe untuk        |           |        |             |             |
-|                          | pengukuran t+ dan MEC.        |           |        |             |             |
-| Biaya Publikasi Jurnal   | Untuk publikasi hasil riset   | 1 Artikel |        |   5.000.000 |   5.000.000 |
-| Internasional (APC)      | di jurnal bereputasi (Q1/Q2). |           |        |             |             |
-| ATK dan Keperluan Riset  | Kebutuhan alat tulis dan      | 1 Paket   |        |   4.000.000 |   4.000.000 |
-|                          | material pendukung.           |           |        |             |             |
-+--------------------------+-------------------------------+-----------+--------+-------------+-------------+
-| SUBTOTAL (Rp)                                                                                28.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-| Total Anggaran (Rp)                                                                         200.000.000 |
-+--------------------------------------------------------------------------------------------------------+
-
-Menyetujui,                                            Bogor, 29 - 9 - 2025
-Pimpinan Institusi / Dekan                             Periset Utama (PI)
-                                                       Tanda tangan dan Cap
-
-Prof. ......................                            Dr.Eng. Obie Farobie, M.Si.
-NIP. ......................                             Institut Pertanian Bogor
-
-
-================================================================================
-PAGE 26
-================================================================================
-APPENDIX A - THE TWO AUTHOR-STATED RESEARCH GAPS AND BASELINE TARGETS
-================================================================================
-
-A.1  Author-stated gaps this proposal addresses (closed by MD + experiments)
-
-    Gap 1 - No validated mechanistic model for proton selectivity.
-        In the source paper, selectivity was explained qualitatively via microphase
-    separation observed by AFM in tapping mode (Fig. 6), attributing it to "narrower, more
-    branched, more tortuous" hydrophilic channels in SPAES vs. Nafion. The authors state:
-    "although no model has yet been identified as fully correct, this feature could be
-    explained by the microstructural difference." There is no quantitative transport model
-    linking channel geometry to the measured proton transport number (0.96) or the 3-10-fold
-    reduction in cation crossover; the explanation is descriptive, not predictive. This
-    proposal closes the gap with MD simulations (EVB proton transport, cation PMF) by the
-    Japanese team, validated against SAXS/TEM/PALS structure and measured transport by the
-    Indonesian team.
-
-    Gap 2 - Proton-transport channels not yet optimized.
-        A single SPAES formulation was used (IEC > 1.75 meq/mg, DS fixed at 100%, base resin
-    polymerized by Kolon). The authors state that "the properties of our developed SPAES/PIN
-    composite membrane could be further improved through the optimization of proton transport
-    channels in SPAES polymer." No parametric study of DS, IEC, or side-chain chemistry was
-    performed. This proposal closes the gap with MD screening of DS/IEC and side-chain variants
-    (Japanese team), confirmed by synthesis and experiment (Indonesian team).
-
-A.2  Baseline measured properties (targets the MD model must reproduce / optimization must beat)
-
-Table A1. Physicochemical and mechanical properties of the SPAES/PIN composite
-          membrane and Nafion-211 (mean +/- SD, n = 4; from the source paper)
+    Table A1. Physicochemical and mechanical properties of the SPAES/PIN composite
+              membrane and Nafion-211 (mean +/- SD, n = 4; from the source paper)
 +---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
 | Membrane      | Thickness | WU (%)  | Area        | Thickness     | Tensile   | IEC       | DS    | Proton         |
 |               | (um)      |         | swelling(%) | swelling (%)  | strength  | (meq/g)   | (%)   | conductivity   |
@@ -1105,13 +895,21 @@ Table A1. Physicochemical and mechanical properties of the SPAES/PIN composite
 | Nafion-211    | 25 +/- 1  | 10 +/- 4| 22.4 +/- 0.5| 22.4 +/- 1    | 23        | 1 +/- 0.2 |  -    |  -             |
 +---------------+-----------+---------+-------------+---------------+-----------+-----------+-------+----------------+
 
-Key transport benchmarks (the MD model of Gap 1 must reproduce these from geometry):
+    Key transport benchmarks (the MD model of Gap 1 must reproduce these from geometry):
         - Proton transport number t+: 0.96 (SPAES/PIN) vs. 0.91 (Nafion-211).
         - Proton transfer rate: 1.5-fold faster for SPAES/PIN.
         - Cation crossover (Na+, Mg2+, Ca2+): 3-10-fold lower for SPAES/PIN.
         - Gas permeability: 2.7-fold lower (H2), twofold lower (CH4).
-        - MEC hydrogen production: 32.4% higher; hydrogen purity 90.3% (vs. 61.8%),
+        - MEC biohydrogen production: 32.4% higher; hydrogen purity 90.3% (vs. 61.8%),
           97.2% with methanogen inhibitor (2-bromoethanesulfonate).
+
+    Author-stated gaps (verbatim basis):
+        Gap 1: "although no model has yet been identified as fully correct, this feature
+        could be explained by the microstructural difference." (no quantitative model
+        linking channel geometry to t+ = 0.96 or the 3-10-fold cation-crossover reduction)
+        Gap 2: "the properties of our developed SPAES/PIN composite membrane could be
+        further improved through the optimization of proton transport channels in SPAES
+        polymer." (no parametric study of DS, IEC, or side-chain chemistry)
 
 --------------------------------------------------------------------------------
 Source paper: S.-G. Park, K.-J. Chae, M. Lee, "A sulfonated poly(arylene ether
@@ -1119,6 +917,8 @@ sulfone)/polyimide nanofiber composite proton exchange membrane for microbial
 electrolysis cell application under the coexistence of diverse competitive cations
 and protons," Journal of Membrane Science 540 (2017) 165-173.
 http://dx.doi.org/10.1016/j.memsci.2017.06.048
-Companion proposal: Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt
+Companion proposals: Proposal/SPAES/Proposal_SPAES-PIN_Membrane_ENG.txt;
 Gap source: Proposal/SPAES/Research_Gaps.txt (gaps 1 and 2, [AUTHOR-STATED])
 --------------------------------------------------------------------------------
+
+21 | JST-BRIN NEXUS Joint Call 2026 (Bioenergy)
