@@ -40,15 +40,15 @@ DAFTAR ISI
 1   RINGKASAN PROPOSAL ..................................................... 3
 2   PENDAHULUAN ............................................................ 3
     2.1  Latar belakang masalah ........................................... 3
-    2.2  Tujuan ........................................................... 4
-3   METODOLOGI ............................................................. 5
-4   RENCANA PENELITIAN ..................................................... 6
-5   DAFTAR PUSTAKA ........................................................ 10
-6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 12
-7   JADWAL PELAKSANAAN .................................................... 13
-8   PETA JALAN (ROAD MAP) RISET ........................................... 13
-9   USULAN BIAYA .......................................................... 14
-10  CV PENELITI ........................................................... 16
+    2.2  Tujuan ........................................................... 7
+3   METODOLOGI ............................................................. 7
+4   RENCANA PENELITIAN ..................................................... 8
+5   DAFTAR PUSTAKA ........................................................ 11
+6   INDIKATOR KEBERHASILAN (TARGET CAPAIAN) ............................... 13
+7   JADWAL PELAKSANAAN .................................................... 14
+8   PETA JALAN (ROAD MAP) RISET ........................................... 14
+9   USULAN BIAYA .......................................................... 15
+10  CV PENELITI ........................................................... 17
 
 2 | Panduan Hibah RKI EQUITY 2025
 
@@ -92,23 +92,20 @@ climate action.
 
 2.1 Latar belakang masalah
 
-        Microbial electrolysis cells (MECs) convert organic waste into hydrogen
-gas and other value-added products via exoelectrogens under a small input of
-electric energy. In a MEC, exoelectrogens growing on the anode convert the
-substrate into protons (H+), electrons (e-), and CO2, and the proton exchange
-membrane (PEM) transports those protons to the cathode while acting as a separator.
-Because various cations (Na+, Mg2+, Ca2+, etc.) exist in the anolyte at a
-concentration typically 10^5 times higher than protons, they compete with protons
-for the negatively charged sulfonate channels (-HSO3-) of the membrane. Therefore,
-proton selectivity—selectively passing protons while excluding competing cations—is
-the key requirement for a MEC membrane.
-        The reference study on which this proposal builds developed a sulfonated
-poly(arylene ether sulfone)/polyimide nanofiber (SPAES/PIN) composite membrane and
-demonstrated superior selectivity to Nafion-211: a proton transport number of 0.96
-(vs. 0.91), 1.5-fold faster proton transfer, 3-10-fold lower cation crossover, and
-2-2.5-fold lower gas permeability, improving MEC hydrogen production by 32.4%.
-Despite this success, the authors explicitly identified two gaps that remain open,
-and these two gaps define the scope of the present proposal.
+        In recent years, the rapid push toward decarbonisation has been accompanied
+by a sharp rise in the demand for reliable, low-cost, and sustainable green-hydrogen
+technologies. Microbial electrolysis cells (MECs) are an attractive green energy
+technology that convert organic waste into a wide range of value-added products via
+specific microbes (i.e., exoelectrogens or biocatalysts) with only a small input of
+electric energy. Hydrogen gas is the most common product, but MECs using biocatalysts
+can also produce methane, ethanol, butanol, hydrogen peroxide, and acetate. The basic
+components of a MEC are two electrodes (anode and cathode), a membrane, exoelectrogens,
+and a power supply. In a MEC, exoelectrogens growing on the anode convert the substrate
+into protons (H+), electrons (e-), and CO2; the protons and electrons are then
+transferred to the cathode and recombine to produce hydrogen under the assistance of the
+power supply. Typical half reactions are:
+        Anode:   CH3COOH + 2H2O -> 2CO2 + 8H+ + 8e-;  E deg = -0.28 V (NHE)   (1)
+        Cathode: 8H+ + 8e- -> 4H2;                    E deg = -0.42 V (NHE)   (2)
 
 3 | Panduan Hibah RKI EQUITY 2025
 
@@ -117,65 +114,120 @@ and these two gaps define the scope of the present proposal.
 PAGE 4
 ================================================================================
 
-        Research Gap 1 - No validated mechanistic model for proton selectivity
-[AUTHOR-STATED]. In the reference study, selectivity was explained only
-qualitatively: microphase separation observed by atomic force microscopy (AFM) in
-tapping mode was used to attribute the effect to "narrower, more branched, more
-tortuous" hydrophilic channels in SPAES relative to Nafion. The authors themselves
-state that "although no model has yet been identified as fully correct, this feature
-could be explained by the microstructural difference." In other words, there is no
-quantitative transport model that links the channel geometry to the measured proton
-transport number (0.96) or to the 3-10-fold reduction in cation crossover; the
-explanation is descriptive, not predictive. Without such a model, membrane design
-remains trial-and-error, and the observed selectivity cannot be extrapolated to new
-formulations or operating conditions. This proposal will close the gap by developing
-a quantitative ion-transport model (e.g., a Nernst-Planck/Poisson-Boltzmann
-framework, or a Grotthuss-vehicular partitioning description) that predicts the
-proton transport number (t+) and cation crossover directly from channel dimensions.
-It will add quantitative nanostructure characterization beyond AFM—small-angle X-ray
-scattering (SAXS), transmission electron microscopy (TEM) tomography, and positron
-annihilation—to measure channel width, tortuosity, and cluster connectivity, and it
-will correlate the measured microstructure with the transport data to build a genuine
-structure-property relationship instead of a qualitative narrative.
+        Despite their strategic importance, MECs face distinctive challenges arising
+from the proton exchange membrane (PEM). A PEM acts as a separator between the anode and
+cathode to avoid short circuits while transporting protons to the cathode, and it is
+essential for improving product purity by preventing the interchange of gases (CO2, CO,
+CH4, etc.) generated in both chambers. However, the PEM used in MECs requires completely
+different characteristics from that used in hydrogen fuel cells, because microorganisms
+are used as biocatalysts in the anode. In the anodic solution, various cations (Na+,
+Mg2+, Ca2+, etc.) exist at a concentration typically 10^5 times higher than the protons;
+these cations hinder proton transport by competing for the negatively charged sulfonate
+channels (-HSO3-) of the membrane. As protons lose the chance of being transported, they
+accumulate in the anode chamber and cause a serious pH decrease, while a corresponding
+pH increase occurs in the cathode chamber. This pH drop harms the anode bacteria and
+deteriorates MEC performance. Therefore, proton selectivity—selectively passing protons
+while excluding competing cations—is a key requirement for the PEM in MEC applications.
 
-        Research Gap 2 - Proton-transport channels not yet optimized [AUTHOR-STATED].
-In the reference study, only a single SPAES formulation was used: an ion exchange
-capacity (IEC) of >1.75 meq/mg and a degree of sulfonation (DS) fixed at 100%,
-polymerized by Kolon. The authors note that "the properties of our developed
-SPAES/PIN composite membrane could be further improved through the optimization of
-proton transport channels in SPAES polymer." No parametric study of DS, IEC, or
-side-chain chemistry was performed, so only one point in a large design space was
-ever tested. This proposal will close the gap by systematically varying DS and IEC
-and mapping the trade-off between proton conductivity, selectivity, water uptake, and
-mechanical strength. It will explore side-chain modification—for example, introducing
-hydroxyl side groups (as in Kwon et al. [34]) or self-organization additives such as
-n-BuOH (as in n-BuOH-treated SPEEK [35])—to further narrow and branch the hydrophilic
-channels, and it will identify the DS/IEC "sweet spot" that maximizes selectivity
-without sacrificing the mechanical stability provided by the polyimide nanofiber
-reinforcement.
-
-        These two gaps are tightly coupled: the optimization in Gap 2 generates the
-family of controlled microstructures needed to build and validate the model in Gap 1,
-while the model in Gap 1 turns the optimization in Gap 2 from empirical screening into
-rational, predictive design. The proposing research group previously developed a
-SPEEK-based composite PEM reinforced with nanofibers and the present SPAES/PIN membrane,
-which together form a strong foundation to pursue this modelling-and-optimization
-program. The work is strengthened through collaboration with the Green Material Research
-Group of Kolon Central Research Park, which provides advanced polymer synthesis capability
-for the DS/IEC and side-chain variants.
-
-        In terms of United Nations Sustainable Development Goals (SDGs), this research is
-aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
-Infrastructure), and SDG 13 (Climate Action). More importantly, the topic lies at the
-intersection of two EQUITY research priority areas—energy and advanced materials—by
-converting a proven-but-empirical membrane into a rationally designed, model-guided
-technology.
+        As a PEM, Nafion (DuPont) is the most widely used; it is a perfluorosulfonic acid
+membrane with a hydrophobic fluorocarbon backbone (-CF2-CF2-) and hydrophilic side chains
+bearing sulfonic groups (-HSO3). Despite its widespread use, Nafion has several
+limitations for MECs: low proton selectivity, a high crossover tendency for gas and
+substrate, and high production cost. To overcome these drawbacks, sulfonated hydrocarbon
+polymers—mainly sulfonated poly(ether ether ketone) (SPEEK) and sulfonated poly(arylene
+ether sulfone) (SPAES)—have been investigated as alternatives. Compared with Nafion,
+SPAES shows a markedly different hydrophobic-hydrophilic microphase separation, forming
+more branched, narrower, and more tortuous ion-conducting channels via the Grotthuss
+mechanism, which improves proton selectivity while lowering undesirable gas or substrate
+crossover.
 
 4 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
 PAGE 5
+================================================================================
+
+        Although extensive research has been carried out, several knowledge gaps remain.
+Despite its advantages, SPAES has an inherent mechanical weakness due to excessive water
+uptake (WU) and swelling, because a high ion exchange capacity (IEC) is needed to reach
+proton conductivity comparable to Nafion; this excessive sulfonation causes mechanical
+instability, so the membrane can easily be delaminated or torn during application. To
+solve this weakness while keeping SPAES' superior proton transport, the reference study
+developed a SPAES/polyimide nanofiber (SPAES/PIN) composite membrane, in which PINs—
+highly compatible with SPAES—are embedded as a substratum in the centre of the SPAES
+layer to improve mechanical strength and dimensional stability. Protons are transferred
+through the SPAES polymer, while physical stability is maintained by the PINs.
+
+        The SPAES/PIN membrane demonstrated superior selectivity to Nafion-211: a proton
+transport number of 0.96 (vs. 0.91), 1.5-fold faster proton transfer, 3-10-fold lower
+cation crossover, and 2-2.5-fold lower gas permeability, improving MEC hydrogen
+production by 32.4%. Despite this success, the authors explicitly identified two gaps
+that remain open, and these two gaps define the scope of the present proposal.
+
+        Research Gap 1 - No validated mechanistic model for proton selectivity
+[AUTHOR-STATED]. In the reference study, selectivity was explained only qualitatively:
+microphase separation observed by atomic force microscopy (AFM) in tapping mode was used
+to attribute the effect to "narrower, more branched, more tortuous" hydrophilic channels
+in SPAES relative to Nafion. The authors themselves state that "although no model has yet
+been identified as fully correct, this feature could be explained by the microstructural
+difference." In other words, there is no quantitative transport model that links the
+channel geometry to the measured proton transport number (0.96) or to the 3-10-fold
+reduction in cation crossover; the explanation is descriptive, not predictive.
+
+5 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 6
+================================================================================
+
+        Without such a model, membrane design remains trial-and-error, and the observed
+selectivity cannot be extrapolated to new formulations or operating conditions. This
+proposal will close the gap by developing a quantitative ion-transport model (e.g., a
+Nernst-Planck/Poisson-Boltzmann framework, or a Grotthuss-vehicular partitioning
+description) that predicts the proton transport number (t+) and cation crossover directly
+from channel dimensions. It will add quantitative nanostructure characterization beyond
+AFM—small-angle X-ray scattering (SAXS), transmission electron microscopy (TEM)
+tomography, and positron annihilation—to measure channel width, tortuosity, and cluster
+connectivity, and it will correlate the measured microstructure with the transport data
+to build a genuine structure-property relationship instead of a qualitative narrative.
+
+        Research Gap 2 - Proton-transport channels not yet optimized [AUTHOR-STATED].
+In the reference study, only a single SPAES formulation was used: an ion exchange
+capacity (IEC) of >1.75 meq/mg and a degree of sulfonation (DS) fixed at 100%,
+polymerized by Kolon. The authors note that "the properties of our developed SPAES/PIN
+composite membrane could be further improved through the optimization of proton transport
+channels in SPAES polymer." No parametric study of DS, IEC, or side-chain chemistry was
+performed, so only one point in a large design space was ever tested. This proposal will
+close the gap by systematically varying DS and IEC and mapping the trade-off between
+proton conductivity, selectivity, water uptake, and mechanical strength. It will explore
+side-chain modification—for example, introducing hydroxyl side groups (as in Kwon et al.
+[34]) or self-organization additives such as n-BuOH (as in n-BuOH-treated SPEEK [35])—to
+further narrow and branch the hydrophilic channels, and it will identify the DS/IEC
+"sweet spot" that maximizes selectivity without sacrificing the mechanical stability
+provided by the polyimide nanofiber reinforcement.
+
+        These two gaps are tightly coupled: the optimization in Gap 2 generates the
+family of controlled microstructures needed to build and validate the model in Gap 1,
+while the model in Gap 1 turns the optimization in Gap 2 from empirical screening into
+rational, predictive design. The work is strengthened through collaboration with the
+Green Material Research Group of Kolon Central Research Park, which provides advanced
+polymer synthesis capability for the DS/IEC and side-chain variants.
+
+        In terms of United Nations Sustainable Development Goals (SDGs), this research is
+aligned with SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and
+Infrastructure), and SDG 13 (Climate Action), as it aims to improve energy efficiency,
+strengthen clean-hydrogen infrastructure, and reduce the environmental impact of waste
+treatment. More importantly, the topic lies at the intersection of two EQUITY research
+priority areas—energy and advanced materials—by converting a proven-but-empirical
+membrane into a rationally designed, model-guided technology.
+
+6 | Panduan Hibah RKI EQUITY 2025
+
+
+================================================================================
+PAGE 7
 ================================================================================
 
 2.2 Tujuan
@@ -224,11 +276,11 @@ tomography, and positron annihilation lifetime spectroscopy (PALS) are added. Me
 is measured with an Instron 5967 tension tester (Instron Corp., USA), testing at least three
 specimens (50 mm x 20 mm) at a crosshead speed of 50 mm/min (ASTM D882).
 
-5 | Panduan Hibah RKI EQUITY 2025
+7 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 6
+PAGE 8
 ================================================================================
 
         [Figure 1. Current experimental devices and characterization-to-model concept]
@@ -270,11 +322,11 @@ turning empirical membrane selectivity into predictive design.
         |     ionomers, and nanofiber support optimisation for the design map.   |
         --------------------------------------------------------------------------
 
-6 | Panduan Hibah RKI EQUITY 2025
+8 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 7
+PAGE 9
 ================================================================================
 
 (a) Pelaksanaan penelitian di PT-Pengusul
@@ -312,11 +364,11 @@ membrane study. The main activities are listed as follows.
         controlled microstructures also becomes the calibration and validation set for the model
         in work package C.
 
-7 | Panduan Hibah RKI EQUITY 2025
+9 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 8
+PAGE 10
 ================================================================================
 
         [Figure 3. From nanostructure to a validated transport model]
@@ -365,11 +417,11 @@ PAGE 8
         and proton-transport analysis. With this background, Dr. Park will contribute the transport
         measurement and validation expertise needed for Gap 1.
 
-8 | Panduan Hibah RKI EQUITY 2025
+10 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 9
+PAGE 11
 ================================================================================
 
             This collaboration will focus on the ground-truth transport testing that underpins the
@@ -416,11 +468,11 @@ Chae, K.-J., Kim, K.-Y., Choi, M.-J., Yang, E., Kim, I. S., Ren, X., & Lee, M. (
         polyether ether ketone (SPEEK)-based composite proton exchange membrane reinforced with
         nanofibers for microbial electrolysis cells. Chemical Engineering Journal, 254, 393-398.
 
-9 | Panduan Hibah RKI EQUITY 2025
+11 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 10
+PAGE 12
 ================================================================================
 
 Chae, K. J., Choi, M., Ajayi, F. F., Park, W., Chang, I. S., & Kim, I. S. (2008). Mass transport
@@ -471,11 +523,11 @@ Geise, G. M., Paul, D. R., & Freeman, B. D. (2014). Fundamental water and salt t
 Kreuer, K. D. (2001). On the development of proton conducting polymer membranes for hydrogen and
         methanol fuel cells. Journal of Membrane Science, 185, 29-39.  [Grotthuss vs. vehicular transport]
 
-10 | Panduan Hibah RKI EQUITY 2025
+12 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 11
+PAGE 13
 ================================================================================
 
 Note: The reference set above is focused on the two author-stated gaps. It combines the
@@ -513,11 +565,11 @@ paper is preserved in the companion proposal
 |    |                                 |             | (parametric synthesis) maintained.       |
 +----+---------------------------------+-------------+------------------------------------------+
 
-11 | Panduan Hibah RKI EQUITY 2025
+13 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 12
+PAGE 14
 ================================================================================
 
         Success criterion for Gap 1: the transport model reproduces the reference
@@ -567,11 +619,11 @@ the model to build a membrane library, scale up the best formulations, and deplo
 MECs and other PEM applications. This roadmap positions model-guided design as a scalable,
 sustainable path aligned with long-term technological goals.
 
-12 | Panduan Hibah RKI EQUITY 2025
+14 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 13
+PAGE 15
 ================================================================================
 
         [Figure 5. Research plan for the current study]
@@ -597,11 +649,11 @@ progression from measurement and synthesis to a validated, predictive design fra
         Table 2 shows the funding allocation for research over a one year period, with a
 total proposed amount of Rp 200.000.000,00.
 
-13 | Panduan Hibah RKI EQUITY 2025
+15 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 14
+PAGE 16
 ================================================================================
 
         Table 2. Funding Allocation for Research
@@ -652,11 +704,11 @@ PAGE 14
 |    | Total keseluruhan                   |       |        |    Rp       | 200.000.000 |
 +----+-------------------------------------+-------+--------+-------------+-------------+
 
-14 | Panduan Hibah RKI EQUITY 2025
+16 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 15
+PAGE 17
 ================================================================================
 
         Note on materials and equipment (name, series, origin), as used in the source
@@ -691,11 +743,11 @@ paper and carried into this study:
     3.  Nama partner 2 : Dr. Mooseok Lee (Kolon Central Research Park)
         Screenshot     :
 
-15 | Panduan Hibah RKI EQUITY 2025
+17 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 16
+PAGE 18
 ================================================================================
 
     4.  Nama pengusul  : Prof. Kyu-Jung Chae
@@ -710,18 +762,18 @@ PAGE 16
                          Mabuk-dong, Giheung-gu, Yongin-si, Gyeonggi 446-797, South Korea
                          (e-mail: leems@kolon.com)
 
-16 | Panduan Hibah RKI EQUITY 2025
+18 | Panduan Hibah RKI EQUITY 2025
 
 
 ================================================================================
-PAGE 17
+PAGE 19
 ================================================================================
 
         (This page intentionally left blank.)
 
 
 ================================================================================
-PAGE 18
+PAGE 20
 ================================================================================
 
 Rencana Anggaran Biaya (RAB)
@@ -777,7 +829,7 @@ A. Bahan Sintesis dan Fabrikasi Membran (Gap 2 - optimization)
 
 
 ================================================================================
-PAGE 19
+PAGE 21
 ================================================================================
 
 B. Karakterisasi Kuantitatif Nanostruktur (Gap 1 - model inputs)
@@ -830,7 +882,7 @@ Biaya Perjalanan
 
 
 ================================================================================
-PAGE 20
+PAGE 22
 ================================================================================
 
 Biaya Operasional Lainnya
@@ -864,7 +916,7 @@ NIP. ......................                             Korea Maritime and Ocean
 
 
 ================================================================================
-PAGE 21
+PAGE 23
 ================================================================================
 APPENDIX A - THE TWO AUTHOR-STATED RESEARCH GAPS AND BASELINE TARGETS
 ================================================================================
