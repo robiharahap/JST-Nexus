@@ -1,0 +1,298 @@
+================================================================================
+RESEARCH GAPS ASSESSMENT
+Paper: S.-G. Park, K.-J. Chae, M. Lee, "A sulfonated poly(arylene ether
+sulfone)/polyimide nanofiber (SPAES/PIN) composite proton exchange membrane
+for microbial electrolysis cell application under the coexistence of diverse
+competitive cations and protons," Journal of Membrane Science 540 (2017)
+165-173. http://dx.doi.org/10.1016/j.memsci.2017.06.048
+================================================================================
+
+PURPOSE
+        This document assesses the research gaps that remain in the SPAES/PIN
+membrane study and identifies where the work can still be improved. Each gap is
+grounded in what the paper actually reported (or did not report), followed by a
+concrete direction for improvement. Gaps flagged with [AUTHOR-STATED] are limits
+the authors themselves acknowledged in the text; the remainder are inferred from
+the methodology, results, and scope of the study.
+
+
+--------------------------------------------------------------------------------
+1. NO VALIDATED MECHANISTIC MODEL FOR PROTON SELECTIVITY   [AUTHOR-STATED]
+--------------------------------------------------------------------------------
+What the paper did:
+        Selectivity was explained qualitatively through microphase separation
+observed by AFM in tapping mode (Fig. 6), attributing the effect to "narrower,
+more branched, more tortuous" hydrophilic channels in SPAES vs. Nafion.
+The gap:
+        The authors explicitly state "although no model has yet been identified
+as fully correct, this feature could be explained by the microstructural
+difference." There is no quantitative transport model linking channel geometry
+to the measured proton transport number (0.96) or the 3-10-fold reduction in
+cation crossover. The explanation is descriptive, not predictive.
+How it can be improved:
+        - Develop a quantitative ion-transport model (e.g., Nernst-Planck /
+          Poisson-Boltzmann, or Grotthuss-vehicular partitioning) that predicts
+          t+ and cation crossover from channel dimensions.
+        - Add quantitative nanostructure characterization beyond AFM: small-angle
+          X-ray scattering (SAXS), TEM tomography, or positron annihilation to
+          measure channel width, tortuosity, and cluster connectivity.
+        - Correlate measured microstructure with transport data to build a
+          structure-property relationship instead of a qualitative narrative.
+
+
+--------------------------------------------------------------------------------
+2. PROTON-TRANSPORT CHANNELS NOT YET OPTIMIZED             [AUTHOR-STATED]
+--------------------------------------------------------------------------------
+What the paper did:
+        A single SPAES formulation was used: IEC >1.75 meq/mg, degree of
+sulfonation (DS) fixed at 100%, polymerized by Kolon.
+The gap:
+        The authors note "the properties of our developed SPAES/PIN composite
+membrane could be further improved through the optimization of proton transport
+channels in SPAES polymer." No parametric study of DS, IEC, or side-chain
+chemistry was performed. Only one point in a large design space was tested.
+How it can be improved:
+        - Systematically vary DS and IEC and map the trade-off between proton
+          conductivity, selectivity, water uptake, and mechanical strength.
+        - Explore side-chain modification (e.g., hydroxyl groups as in Kwon et
+          al. [34], or self-organization additives as in n-BuOH-treated SPEEK
+          [35]) to further narrow/branch the hydrophilic channels.
+        - Identify the DS/IEC "sweet spot" that maximizes selectivity without
+          sacrificing mechanical stability.
+
+
+--------------------------------------------------------------------------------
+3. NANOFIBER SUPPORT MORPHOLOGY NOT PARAMETRICALLY STUDIED
+--------------------------------------------------------------------------------
+What the paper did:
+        The polyimide nanofiber (PIN) support was electrospun to a single average
+fiber thickness of ~200 nm, and the composite reached 21 +/- 2 um total thickness.
+The gap:
+        Fiber diameter, areal density (loading), porosity, and mat thickness were
+not varied. The paper only notes qualitatively that thinner fibers (200 nm here
+vs. their earlier SPEEK work [6]) improved impregnation. Since PIN is inactive
+for proton transport, its volume fraction directly trades mechanical reinforcement
+against conductivity, and this trade-off is unquantified.
+How it can be improved:
+        - Vary fiber diameter (e.g., 100-500 nm), porosity, and PIN volume
+          fraction; measure the resulting impregnation efficiency, tensile
+          strength, and proton conductivity to find an optimum.
+        - Investigate fiber alignment/orientation and multi-layer architectures.
+        - Quantify how thin the composite can go (below 21 um) before mechanical
+          reinforcement is lost, since thinner membranes lower internal resistance.
+
+
+--------------------------------------------------------------------------------
+4. LONG-TERM DURABILITY AND CHEMICAL/BIOLOGICAL STABILITY UNPROVEN
+--------------------------------------------------------------------------------
+What the paper did:
+        MECs were operated in fed-batch mode "for over 6 months," with a
+three-consecutive-feeding cycle reported for the hydrogen data.
+The gap:
+        No accelerated aging, no long-term conductivity/selectivity decay curve,
+and no chemical degradation analysis (e.g., desulfonation, hydrolysis of the
+polyimide, oxidative stability against radical attack) were reported. Hydrocarbon
+PEMs like SPAES are known to be more oxidatively vulnerable than perfluorinated
+Nafion, yet oxidative (Fenton) stability was not tested.
+How it can be improved:
+        - Run Fenton's reagent / ex-situ oxidative stability tests and report
+          weight loss and property retention.
+        - Track proton conductivity, t+, tensile strength, and crossover over
+          extended (multi-month to multi-year) continuous operation.
+        - Post-mortem analysis (FTIR/NMR/SEM) of aged membranes to identify
+          degradation pathways.
+
+
+--------------------------------------------------------------------------------
+5. BIOFOULING IN A REAL MICROBIAL ENVIRONMENT NOT ASSESSED
+--------------------------------------------------------------------------------
+What the paper did:
+        All mass-transfer crossover experiments were "conducted in an uninoculated
+cell"; only the final performance test used an inoculated MEC.
+The gap:
+        In real MECs the anode-facing membrane surface is continuously exposed to
+biofilm, extracellular polymeric substances, and cell debris. Membrane biofouling
+(which the same group has studied elsewhere for FO membranes, ref [25]) was not
+characterized for SPAES/PIN. Crossover and selectivity were measured on clean
+membranes, so in-operando degradation of selectivity is unknown.
+How it can be improved:
+        - Characterize biofilm accumulation and its effect on proton transport
+          and crossover over time (confocal microscopy, SEM, impedance).
+        - Test anti-fouling surface modifications (e.g., the group's own
+          Ag-nanoparticle / polydopamine coating approach [25]).
+        - Compare fouling propensity of the hydrocarbon SPAES surface vs. Nafion.
+
+
+--------------------------------------------------------------------------------
+6. LIMITED CATION SET AND SIMPLIFIED ANOLYTE CHEMISTRY
+--------------------------------------------------------------------------------
+What the paper did:
+        Cation crossover (Fig. 5) was tested with a standard solution of Na+,
+Mg2+, and Ca2+ at 100 mg/L each in an uninoculated cell.
+The gap:
+        K+ and NH4+ are named in the introduction as relevant competing cations
+but were never measured. Real MEC anolytes contain buffers, mixed cations at
+varied ratios, and organic species that were not represented. Selectivity was
+demonstrated for a narrow, idealized ion set.
+How it can be improved:
+        - Extend crossover measurements to K+, NH4+, and multivalent transition
+          cations, at MEC-realistic concentrations and ratios.
+        - Test with real or synthetic wastewater anolytes rather than a
+          three-cation standard.
+        - Report selectivity coefficients (H+/M+) rather than only relative
+          crossover fold-changes.
+
+
+--------------------------------------------------------------------------------
+7. INCONSISTENT / INCOMPLETELY REPORTED TEST CONDITIONS
+--------------------------------------------------------------------------------
+What the paper did:
+        Proton conductivity (0.17-0.2 S/cm) was measured at 80 degC and 95%
+relative humidity (Table 1 footnote c), while the MEC and crossover experiments
+ran at 25 +/- 1 degC.
+The gap:
+        The headline conductivity is reported at fuel-cell conditions (80 degC),
+not at the ~25 degC operating condition of the MEC, making the conductivity and
+the application data hard to reconcile. Temperature and humidity dependence of
+conductivity/selectivity was not mapped.
+How it can be improved:
+        - Report proton conductivity at the actual MEC operating temperature and
+          across a temperature/RH sweep.
+        - Provide a single consistent condition set (or a full parametric map) so
+          material and application data can be directly compared.
+
+
+--------------------------------------------------------------------------------
+8. NARROW MEC CONFIGURATION; SCALE-UP AND CONTINUOUS OPERATION UNTESTED
+--------------------------------------------------------------------------------
+What the paper did:
+        A single two-chambered, fed-batch MEC (180 mL each chamber), carbon-felt
+anode (25 cm2), Pt/Ti cathode (0.5 mg Pt/cm2), acetate substrate (3 mM), 0.5 V
+applied, was used.
+The gap:
+        No continuous-flow operation, no stacked/scaled reactors, no larger
+membrane areas, and only one substrate (acetate). Membrane behavior under
+practical flow, pressure, and current-density ranges is unknown, and membrane
+mechanical performance under repeated hydration/dehydration cycling was not tested.
+How it can be improved:
+        - Evaluate the membrane in continuous-flow and scaled/stacked MECs.
+        - Test alternative and complex substrates (real wastewater, fermentation
+          effluents) and a range of current densities and applied voltages.
+        - Include mechanical cycling (wet/dry, thermal) fatigue testing.
+
+
+--------------------------------------------------------------------------------
+9. NO TECHNO-ECONOMIC OR MANUFACTURING-SCALE ANALYSIS
+--------------------------------------------------------------------------------
+What the paper did:
+        Lower cost than Nafion is claimed qualitatively as a motivation.
+The gap:
+        No quantified cost comparison, no cost per m2, and no assessment of
+whether electrospun-PIN + solution-casting is scalable or reproducible at
+manufacturing volumes. The two-step lab process (electrospinning then casting,
+acidification, washing) may not translate to roll-to-roll production.
+How it can be improved:
+        - Perform a techno-economic analysis (materials + processing cost per m2)
+          against Nafion and other hydrocarbon PEMs.
+        - Demonstrate batch-to-batch reproducibility and a scalable fabrication
+          route (e.g., continuous casting on continuous electrospun mat).
+
+
+--------------------------------------------------------------------------------
+10. BENCHMARKED ONLY AGAINST NAFION-211
+--------------------------------------------------------------------------------
+What the paper did:
+        All comparisons were made against a single control, Nafion-211.
+The gap:
+        The membrane was not benchmarked against other advanced hydrocarbon PEMs,
+against the group's own earlier SPEEK/PIN composite [6], or against modified-
+Nafion variants cited in the introduction [11]. This makes it hard to judge how
+much of the improvement is due to SPAES vs. the nanofiber reinforcement concept
+(which is shared with the earlier SPEEK work).
+How it can be improved:
+        - Add side-by-side benchmarks: SPAES/PIN vs. SPEEK/PIN vs. plain SPAES
+          vs. modified Nafion, to isolate the contribution of each element.
+        - Include anion-exchange or bipolar membranes as alternative separators
+          for MECs.
+
+
+--------------------------------------------------------------------------------
+11. CLAIMED BROADER APPLICATIONS NOT DEMONSTRATED
+--------------------------------------------------------------------------------
+What the paper did:
+        The conclusion lists fuel cells, reverse electrodialysis, the chlor-alkali
+industry, and gas separation as potential applications.
+The gap:
+        None of these were experimentally demonstrated; they are asserted as
+potential. Requirements differ substantially across these applications (e.g.,
+high-temperature fuel cells, high-current RED), so transferability is unproven.
+How it can be improved:
+        - Provide at least proof-of-concept data in one additional application
+          (e.g., a single-cell fuel-cell polarization curve, or an RED stack
+          test) to substantiate the broader-applicability claim.
+
+
+--------------------------------------------------------------------------------
+12. GAS-CROSSOVER TESTING UNDER NON-OPERATING CONDITIONS
+--------------------------------------------------------------------------------
+What the paper did:
+        Gas crossover (Fig. 7) used a standard gas (5% H2, 70% CH4, 25% CO2) in
+water-filled chambers of an uninoculated cell at 25 +/- 1 degC, via a diffusion
+gradient.
+The gap:
+        Crossover was measured by passive diffusion, not under the pressure,
+current, and gas-generation dynamics of a running MEC. The reported 2.7-fold
+(H2) and twofold (CH4) improvements may not hold under real operating fluxes and
+membrane hydration states.
+How it can be improved:
+        - Measure gas crossover in-operando under representative current density,
+          pressure, and hydration.
+        - Separate diffusive vs. convective (electro-osmotic drag) contributions
+          to crossover.
+
+
+--------------------------------------------------------------------------------
+13. NO ENVIRONMENTAL / LIFE-CYCLE ASSESSMENT
+--------------------------------------------------------------------------------
+What the paper did:
+        Non-fluorinated (fluorine-free) chemistry is presented as an environmental
+advantage over Nafion.
+The gap:
+        No life-cycle assessment, no evaluation of solvent (DMAc is a reproductive
+toxicant) handling/recovery, and no end-of-life/recyclability analysis were
+provided, despite the sustainability framing.
+How it can be improved:
+        - Conduct a cradle-to-grave LCA and compare with Nafion.
+        - Investigate greener solvents or solvent-recovery for the casting step.
+        - Assess membrane recyclability / disposal.
+
+
+================================================================================
+SUMMARY TABLE OF GAPS
+================================================================================
++----+------------------------------------------------+----------------------+
+| #  | Research gap                                   | Type                 |
++----+------------------------------------------------+----------------------+
+| 1  | No validated proton-selectivity model          | [AUTHOR-STATED]      |
+| 2  | Proton-transport channels not optimized        | [AUTHOR-STATED]      |
+| 3  | Nanofiber morphology not parametrically studied| Inferred             |
+| 4  | Long-term durability / oxidative stability     | Inferred             |
+| 5  | Biofouling in real microbial environment       | Inferred             |
+| 6  | Limited cation set / simplified anolyte        | Inferred             |
+| 7  | Inconsistent test conditions (80 vs 25 degC)   | Inferred             |
+| 8  | Narrow MEC config; scale-up / continuous op.    | Inferred             |
+| 9  | No techno-economic / manufacturing analysis    | Inferred             |
+| 10 | Benchmarked only against Nafion-211            | Inferred             |
+| 11 | Broader applications claimed, not demonstrated | Inferred             |
+| 12 | Gas crossover tested off-operation only        | Inferred             |
+| 13 | No environmental / life-cycle assessment       | Inferred             |
++----+------------------------------------------------+----------------------+
+
+PRIORITY RECOMMENDATION
+        The highest-leverage next steps, because they directly extend the paper's
+own stated limitations and de-risk practical use, are: (1) a DS/IEC + nanofiber
+parametric optimization tied to a quantitative structure-property model
+(gaps 1-3), (2) long-term durability and biofouling testing under real MEC
+operation (gaps 4-5, 8, 12), and (3) selectivity validation against a realistic
+multi-cation anolyte with reported H+/M+ selectivity coefficients (gap 6).
+================================================================================
